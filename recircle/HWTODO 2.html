@@ -1,0 +1,628 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title>HWTODO</title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2022.1">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: right; line-height: 17.0px; font: 13.0px Courier; color: #4e4e4e; -webkit-text-stroke: #4e4e4e}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.2px; font: 13.0px Courier; color: #a90e1a; -webkit-text-stroke: #a90e1a; background-color: #f2f2f2}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.2px; font: 13.0px Courier; color: #191919; -webkit-text-stroke: #191919; background-color: #f2f2f2}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.2px; font: 13.0px Courier; color: #191919; -webkit-text-stroke: #191919; background-color: #f2f2f2; min-height: 16.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: right; line-height: 17.0px; font: 13.0px Courier; color: #4e4e4e; -webkit-text-stroke: #4e4e4e; min-height: 16.0px}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 18.0px; font: 13.0px Courier; color: #000000; color: rgba(0, 0, 0, 0.87); -webkit-text-stroke: rgba(0, 0, 0, 0.87)}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 18.0px; font: 14.0px 'Helvetica Neue'; color: #000000; -webkit-text-stroke: #000000}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.2px; font: 13.0px Courier; color: #336e6d; -webkit-text-stroke: #336e6d; background-color: #f2f2f2}
+    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.2px; font: 13.0px Courier; color: #107902; -webkit-text-stroke: #107902; background-color: #f2f2f2}
+    span.s1 {font-kerning: none}
+    span.s2 {font-kerning: none; color: #0f7001; -webkit-text-stroke: 0px #0f7001}
+    span.s3 {font-kerning: none; color: #191919; -webkit-text-stroke: 0px #191919}
+    span.s4 {font-kerning: none; color: #074099; -webkit-text-stroke: 0px #074099}
+    span.s5 {font-kerning: none; color: #9700ff; -webkit-text-stroke: 0px #9700ff}
+    span.s6 {font-kerning: none; color: #a90e1a; -webkit-text-stroke: 0px #a90e1a}
+    span.s7 {font-kerning: none; color: #107902; -webkit-text-stroke: 0px #107902}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">In [1]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Dependencies</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p3"><span class="s2"><b>import</b></span><span class="s1"> numpy </span><span class="s2"><b>as</b></span><span class="s1"> np</span></p>
+<p class="p3"><span class="s2"><b>import</b></span><span class="s1"> pandas </span><span class="s2"><b>as</b></span><span class="s1"> pd</span></p>
+<p class="p3"><span class="s2"><b>from</b></span><span class="s1"> matplotlib </span><span class="s2"><b>import</b></span><span class="s1"> pyplot </span><span class="s2"><b>as</b></span><span class="s1"> plt</span></p>
+<p class="p1"><span class="s1">In [2]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Reading the MNIST/USPS Handwritten Digits Dataset</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p2"><span class="s2"><b>def</b></span><span class="s3"> readData</span><span class="s4">(</span><span class="s3">fname</span><span class="s5"><b>=</b></span><span class="s1">'ZipDigits.train'</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Input:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>fname: name of file containing N examples, each with d attributes</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Output:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>X: N x d+1 numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>y: N x 1 numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>with</b></span><span class="s1"> open</span><span class="s4">(</span><span class="s1">fname</span><span class="s4">)</span><span class="s1"> </span><span class="s2"><b>as</b></span><span class="s1"> f</span><span class="s4">:</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>X </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s4">[]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>y </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s4">[]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>rlines </span><span class="s5"><b>=</b></span><span class="s1"> f</span><span class="s5"><b>.</b></span><span class="s1">readlines</span><span class="s4">()</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span></span><span class="s2"><b>for</b></span><span class="s1"> line </span><span class="s5"><b>in</b></span><span class="s1"> rlines</span><span class="s4">:</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">            </span>row </span><span class="s5"><b>=</b></span><span class="s1"> line</span><span class="s5"><b>.</b></span><span class="s1">rstrip</span><span class="s4">()</span><span class="s5"><b>.</b></span><span class="s1">split</span><span class="s4">(</span><span class="s6">' '</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">            </span>yval </span><span class="s5"><b>=</b></span><span class="s1"> int</span><span class="s4">(</span><span class="s1">float</span><span class="s4">(</span><span class="s1">row</span><span class="s4">[</span><span class="s7">0</span><span class="s4">]))</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">            </span>y</span><span class="s5"><b>.</b></span><span class="s1">append</span><span class="s4">(</span><span class="s1">yval</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">            </span>xvals </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s4">[</span><span class="s1">float</span><span class="s4">(</span><span class="s1">pixel</span><span class="s4">)</span><span class="s1"> </span><span class="s2"><b>for</b></span><span class="s1"> pixel </span><span class="s5"><b>in</b></span><span class="s1"> row</span><span class="s4">[</span><span class="s7">1</span><span class="s4">:]]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">            </span>X</span><span class="s5"><b>.</b></span><span class="s1">append</span><span class="s4">(</span><span class="s1">xvals</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>X </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">array</span><span class="s4">(</span><span class="s1">X</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>y </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">array</span><span class="s4">(</span><span class="s1">y</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>y </span><span class="s5"><b>=</b></span><span class="s1"> y</span><span class="s5"><b>.</b></span><span class="s1">reshape</span><span class="s4">((</span><span class="s1">y</span><span class="s5"><b>.</b></span><span class="s1">shape</span><span class="s4">[</span><span class="s7">0</span><span class="s4">],</span><span class="s1"> </span><span class="s7">1</span><span class="s4">))</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>print</span><span class="s4">(</span><span class="s6">f'X shape: {</span><span class="s1">X</span><span class="s5"><b>.</b></span><span class="s1">shape</span><span class="s6">}'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>print</span><span class="s4">(</span><span class="s6">f'y shape: {</span><span class="s1">y</span><span class="s5"><b>.</b></span><span class="s1">shape</span><span class="s6">}'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span></span><span class="s2"><b>return</b></span><span class="s1"> X</span><span class="s4">,</span><span class="s1"> y</span></p>
+<p class="p1"><span class="s1">In [3]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Read training and test datasets</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">Xdigitstrain</span><span class="s4">,</span><span class="s1"> ydigitstrain </span><span class="s5"><b>=</b></span><span class="s1"> readData</span><span class="s4">(</span><span class="s6">'ZipDigits.train'</span><span class="s4">)</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">Ndigitstrain</span><span class="s4">,</span><span class="s1"> pixels </span><span class="s5"><b>=</b></span><span class="s1"> Xdigitstrain</span><span class="s5"><b>.</b></span><span class="s1">shape</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>assert</b></span><span class="s4">(</span><span class="s1">Ndigitstrain </span><span class="s5"><b>==</b></span><span class="s1"> ydigitstrain</span><span class="s5"><b>.</b></span><span class="s1">shape</span><span class="s4">[</span><span class="s7">0</span><span class="s4">])</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">Xdigitstest</span><span class="s4">,</span><span class="s1"> ydigitstest </span><span class="s5"><b>=</b></span><span class="s1"> readData</span><span class="s4">(</span><span class="s6">'ZipDigits.test'</span><span class="s4">)</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">Ndigitstest</span><span class="s4">,</span><span class="s1"> pixels </span><span class="s5"><b>=</b></span><span class="s1"> Xdigitstest</span><span class="s5"><b>.</b></span><span class="s1">shape</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>assert</b></span><span class="s4">(</span><span class="s1">Ndigitstest </span><span class="s5"><b>==</b></span><span class="s1"> ydigitstest</span><span class="s5"><b>.</b></span><span class="s1">shape</span><span class="s4">[</span><span class="s7">0</span><span class="s4">])</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p6"><span class="s1">X shape: (7291, 256)</span></p>
+<p class="p6"><span class="s1">y shape: (7291, 1)</span></p>
+<p class="p6"><span class="s1">X shape: (2007, 256)</span></p>
+<p class="p6"><span class="s1">y shape: (2007, 1)</span></p>
+<p class="p1"><span class="s1">In [4]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Show images of handwritten digits</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> showKthImage</span><span class="s4">(</span><span class="s1">X</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">,</span><span class="s1"> k</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>image </span><span class="s5"><b>=</b></span><span class="s1"> X</span><span class="s4">[</span><span class="s1">k</span><span class="s4">,</span><span class="s1"> </span><span class="s4">:]</span><span class="s5"><b>.</b></span><span class="s1">reshape</span><span class="s4">((</span><span class="s7">16</span><span class="s4">,</span><span class="s1"> </span><span class="s7">16</span><span class="s4">))</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">imshow</span><span class="s4">(</span><span class="s1">image</span><span class="s4">,</span><span class="s1"> cmap</span><span class="s5"><b>=</b></span><span class="s6">'gray'</span><span class="s4">,</span><span class="s1"> vmin</span><span class="s5"><b>=-</b></span><span class="s7">1</span><span class="s4">,</span><span class="s1"> vmax</span><span class="s5"><b>=</b></span><span class="s7">1</span><span class="s4">)</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s3">title</span><span class="s4">(</span><span class="s1">f'First digit is a {</span><span class="s3">y</span><span class="s4">[</span><span class="s3">k</span><span class="s4">,</span><span class="s3"> </span><span class="s7">0</span><span class="s4">]</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">xlim</span><span class="s4">(</span><span class="s7">0</span><span class="s4">,</span><span class="s1"> </span><span class="s7">15</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">ylim</span><span class="s4">(</span><span class="s7">15</span><span class="s4">,</span><span class="s1"> </span><span class="s7">0</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">xticks</span><span class="s4">(</span><span class="s1">range</span><span class="s4">(</span><span class="s7">16</span><span class="s4">))</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">yticks</span><span class="s4">(</span><span class="s1">range</span><span class="s4">(</span><span class="s7">16</span><span class="s4">))</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">tight_layout</span><span class="s4">()</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">show</span><span class="s4">()</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">showKthImage</span><span class="s4">(</span><span class="s1">Xdigitstrain</span><span class="s4">,</span><span class="s1"> ydigitstrain</span><span class="s4">,</span><span class="s1"> </span><span class="s7">0</span><span class="s4">)</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p7"><span class="s1"><img src="file:///unknown.png" alt="unknown.png"><span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">In [5]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Compute the augmented matrix with features</span></p>
+<p class="p2"><span class="s1">Helper Functions</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> computeIntensity</span><span class="s4">(</span><span class="s1">X</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Input:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>X: a 2 dimensional N x 256 numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>each row contains the values of 256 pixels from a 16 x 16 grayscale image of a handwritten digit</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>each pixel has an intensity value between -1 and 1</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Output:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>intensities: a 2 dimensional N x 1 numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                     </span>each row consists of a single value representing the<span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                     </span>average pixel intesity of the corresponding image</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                     </span>See LFD Example 3.1</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span>print</span><span class="s4">(</span><span class="s1">'computing intensity feature'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>N</span><span class="s4">,</span><span class="s1"> d </span><span class="s5"><b>=</b></span><span class="s1"> X</span><span class="s5"><b>.</b></span><span class="s1">shape</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span>print</span><span class="s4">(</span><span class="s1">f'Input shape {</span><span class="s3">N</span><span class="s1">}, {</span><span class="s3">d</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>TODO: Compute the intensity feature for N data points</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>print</span><span class="s4">(</span><span class="s6">f'Output shape {</span><span class="s1">intensities</span><span class="s5"><b>.</b></span><span class="s1">shape</span><span class="s6">}'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> intensities</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> computeSymmetry</span><span class="s4">(</span><span class="s1">X</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Input:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>X: a 2 dimensional N x 256 numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>each row contains the values of 256 pixels from a 16 x 16 grayscale image of a handwritten digit</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>each pixel has an intensity value between -1 and 1</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Output:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>symmetries: a 2 dimensional N x 1 numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                     </span>each row consists of a single value representing the<span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                     </span>"horizontal" symmetry of the 16 x 16 image about the vertical axis</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                     </span>See LFD Example 3.1</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span>print</span><span class="s4">(</span><span class="s1">'computing symmetry feature'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>N</span><span class="s4">,</span><span class="s1"> d </span><span class="s5"><b>=</b></span><span class="s1"> X</span><span class="s5"><b>.</b></span><span class="s1">shape</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span>print</span><span class="s4">(</span><span class="s1">f'Input shape {</span><span class="s3">N</span><span class="s1">}, {</span><span class="s3">d</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>Ximgs </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s4">[</span><span class="s1">X</span><span class="s4">[</span><span class="s1">n</span><span class="s4">,</span><span class="s1"> </span><span class="s4">:]</span><span class="s5"><b>.</b></span><span class="s1">reshape</span><span class="s4">((</span><span class="s7">16</span><span class="s4">,</span><span class="s1"> </span><span class="s7">16</span><span class="s4">))</span><span class="s1"> </span><span class="s2"><b>for</b></span><span class="s1"> n </span><span class="s5"><b>in</b></span><span class="s1"> range</span><span class="s4">(</span><span class="s1">N</span><span class="s4">)]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>Ximgs_flipped </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s4">[</span><span class="s1">np</span><span class="s5"><b>.</b></span><span class="s1">flip</span><span class="s4">(</span><span class="s1">Ximgs</span><span class="s4">[</span><span class="s1">n</span><span class="s4">],</span><span class="s1"> axis</span><span class="s5"><b>=</b></span><span class="s7">1</span><span class="s4">)</span><span class="s1"> </span><span class="s2"><b>for</b></span><span class="s1"> n </span><span class="s5"><b>in</b></span><span class="s1"> range</span><span class="s4">(</span><span class="s1">N</span><span class="s4">)]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>TODO: Compute the symmetry feature for N data points</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>symmetries </span><span class="s5"><b>=</b></span><span class="s1"> symmetries</span><span class="s5"><b>.</b></span><span class="s1">reshape</span><span class="s4">(</span><span class="s1">N</span><span class="s4">,</span><span class="s1"> </span><span class="s7">1</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>print</span><span class="s4">(</span><span class="s6">f'Output shape {</span><span class="s1">symmetries</span><span class="s5"><b>.</b></span><span class="s1">shape</span><span class="s6">}'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> symmetries</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> computeAugmentedXWithFeatures</span><span class="s4">(</span><span class="s1">X</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Input:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>X: a 2 dimensional N x 256 numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>each row contains the values of 256 pixels from a 16 x 16 grayscale image of a handwritten digit</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>each pixel has an intensity value between -1 and 1</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Output:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>Xaug: a 2 dimensional N x 3 numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">              </span>the augmented feature matrix</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">              </span>the i-th row corresponds to the i-th row of X (and image represented by it)</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">              </span>the 0-th column is the column of 1s</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">              </span>the 1-st column is the column of average intensities</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">              </span>the 2-nd column is the column of horizontal symmetries</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>N</span><span class="s4">,</span><span class="s1"> d </span><span class="s5"><b>=</b></span><span class="s1"> X</span><span class="s5"><b>.</b></span><span class="s1">shape</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>intensity </span><span class="s5"><b>=</b></span><span class="s1"> computeIntensity</span><span class="s4">(</span><span class="s1">X</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>symmetry </span><span class="s5"><b>=</b></span><span class="s1"> computeSymmetry</span><span class="s4">(</span><span class="s1">X</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>dummy </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">ones</span><span class="s4">((</span><span class="s1">N</span><span class="s4">,</span><span class="s1"> </span><span class="s7">1</span><span class="s4">))</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>Xaug </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">concatenate</span><span class="s4">((</span><span class="s1">dummy</span><span class="s4">,</span><span class="s1"> intensity</span><span class="s4">,</span><span class="s1"> symmetry</span><span class="s4">),</span><span class="s1"> axis</span><span class="s5"><b>=</b></span><span class="s7">1</span><span class="s4">)</span></p>
+<p class="p8"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s1"><i># print(Xaug)</i></span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span>print </span><span class="s4">(</span><span class="s1">f'Shape of augmented feature matrix: {</span><span class="s3">Xaug</span><span class="s5"><b>.</b></span><span class="s3">shape</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> Xaug</span></p>
+<p class="p1"><span class="s1">In [6]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Compute the augmented matrix with features</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p2"><span class="s3">print</span><span class="s4">(</span><span class="s1">'Computing augmented training feature matrix'</span><span class="s4">)</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">Xaugtrain </span><span class="s5"><b>=</b></span><span class="s1"> computeAugmentedXWithFeatures</span><span class="s4">(</span><span class="s1">Xdigitstrain</span><span class="s4">)</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">Naugtrain</span><span class="s4">,</span><span class="s1"> d </span><span class="s5"><b>=</b></span><span class="s1"> Xaugtrain</span><span class="s5"><b>.</b></span><span class="s1">shape</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p2"><span class="s3">print</span><span class="s4">(</span><span class="s1">'Computing augmented test feature matrix'</span><span class="s4">)</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">Xaugtest </span><span class="s5"><b>=</b></span><span class="s1"> computeAugmentedXWithFeatures</span><span class="s4">(</span><span class="s1">Xdigitstest</span><span class="s4">)</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">Naugtest</span><span class="s4">,</span><span class="s1"> d </span><span class="s5"><b>=</b></span><span class="s1"> Xaugtest</span><span class="s5"><b>.</b></span><span class="s1">shape</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p6"><span class="s1">Computing augmented training feature matrix</span></p>
+<p class="p6"><span class="s1">computing intensity feature</span></p>
+<p class="p6"><span class="s1">Input shape 7291, 256</span></p>
+<p class="p6"><span class="s1">Output shape (7291, 1)</span></p>
+<p class="p6"><span class="s1">computing symmetry feature</span></p>
+<p class="p6"><span class="s1">Input shape 7291, 256</span></p>
+<p class="p6"><span class="s1">Output shape (7291, 1)</span></p>
+<p class="p6"><span class="s1">Shape of augmented feature matrix: (7291, 3)</span></p>
+<p class="p6"><span class="s1">Computing augmented test feature matrix</span></p>
+<p class="p6"><span class="s1">computing intensity feature</span></p>
+<p class="p6"><span class="s1">Input shape 2007, 256</span></p>
+<p class="p6"><span class="s1">Output shape (2007, 1)</span></p>
+<p class="p6"><span class="s1">computing symmetry feature</span></p>
+<p class="p6"><span class="s1">Input shape 2007, 256</span></p>
+<p class="p6"><span class="s1">Output shape (2007, 1)</span></p>
+<p class="p6"><span class="s1">Shape of augmented feature matrix: (2007, 3)</span></p>
+<p class="p1"><span class="s1">In [7]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Create the dataset wih digits 1 and 5</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> indexDigits</span><span class="s4">(</span><span class="s1">y</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Input:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>y: N x 1 2 dimensional numpy array; labels for handwritten digits</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Output:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>digit_idxs: a dictionary; the keys are digits 0 -- 9</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                    </span>for a digit k, digit_idxs[k] is a list identifying the rows labeled with digit k</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>N </span><span class="s5"><b>=</b></span><span class="s1"> y</span><span class="s5"><b>.</b></span><span class="s1">shape</span><span class="s4">[</span><span class="s7">0</span><span class="s4">]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>digit_idxs </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s4">{}</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>for</b></span><span class="s1"> n </span><span class="s5"><b>in</b></span><span class="s1"> range</span><span class="s4">(</span><span class="s1">N</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>digit </span><span class="s5"><b>=</b></span><span class="s1"> ydigitstrain</span><span class="s4">[</span><span class="s1">n</span><span class="s4">,</span><span class="s1"> </span><span class="s7">0</span><span class="s4">]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span></span><span class="s2"><b>if</b></span><span class="s1"> </span><span class="s5"><b>not</b></span><span class="s1"> digit </span><span class="s5"><b>in</b></span><span class="s1"> digit_idxs</span><span class="s4">:</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">            </span>digit_idxs</span><span class="s4">[</span><span class="s1">digit</span><span class="s4">]</span><span class="s1"> </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s4">[]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>digit_idxs</span><span class="s4">[</span><span class="s1">digit</span><span class="s4">]</span><span class="s5"><b>.</b></span><span class="s1">append</span><span class="s4">(</span><span class="s1">n</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> digit_idxs</span></p>
+<p class="p1"><span class="s1">In [8]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Construct the training and test sets for the rest of the exercises on classifying 1s vs 5s</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">digit_idxs_train </span><span class="s5"><b>=</b></span><span class="s1"> indexDigits</span><span class="s4">(</span><span class="s1">Xaugtrain</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">X1train </span><span class="s5"><b>=</b></span><span class="s1"> Xaugtrain</span><span class="s4">[</span><span class="s1">digit_idxs_train</span><span class="s4">[</span><span class="s7">1</span><span class="s4">],</span><span class="s1"> </span><span class="s4">:]</span></p>
+<p class="p3"><span class="s1">N1train </span><span class="s5"><b>=</b></span><span class="s1"> X1train</span><span class="s5"><b>.</b></span><span class="s1">shape</span><span class="s4">[</span><span class="s7">0</span><span class="s4">]</span></p>
+<p class="p2"><span class="s3">print</span><span class="s4">(</span><span class="s1">f'number of 1s: {</span><span class="s3">N1train</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">X5train </span><span class="s5"><b>=</b></span><span class="s1"> Xaugtrain</span><span class="s4">[</span><span class="s1">digit_idxs_train</span><span class="s4">[</span><span class="s7">5</span><span class="s4">],</span><span class="s1"> </span><span class="s4">:]</span></p>
+<p class="p3"><span class="s1">N5train </span><span class="s5"><b>=</b></span><span class="s1"> X5train</span><span class="s5"><b>.</b></span><span class="s1">shape</span><span class="s4">[</span><span class="s7">0</span><span class="s4">]</span></p>
+<p class="p2"><span class="s3">print</span><span class="s4">(</span><span class="s1">f'number of 5s: {</span><span class="s3">N5train</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">Xtrain </span><span class="s5"><b>=</b></span><span class="s1"> Xaugtrain</span><span class="s4">[</span><span class="s1">digit_idxs_train</span><span class="s4">[</span><span class="s7">1</span><span class="s4">]</span><span class="s5"><b>+</b></span><span class="s1">digit_idxs_train</span><span class="s4">[</span><span class="s7">5</span><span class="s4">],</span><span class="s1"> </span><span class="s4">:]</span></p>
+<p class="p3"><span class="s1">ytrain </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">concatenate</span><span class="s4">((</span><span class="s1">np</span><span class="s5"><b>.</b></span><span class="s1">ones</span><span class="s4">((</span><span class="s1">N1train</span><span class="s4">,</span><span class="s1"> </span><span class="s7">1</span><span class="s4">)),</span><span class="s1"> </span><span class="s5"><b>-</b></span><span class="s7">1</span><span class="s5"><b>*</b></span><span class="s1">np</span><span class="s5"><b>.</b></span><span class="s1">ones</span><span class="s4">((</span><span class="s1">N5train</span><span class="s4">,</span><span class="s1"> </span><span class="s7">1</span><span class="s4">))),</span><span class="s1"> axis</span><span class="s5"><b>=</b></span><span class="s7">0</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">Ntrain</span><span class="s4">,</span><span class="s1"> d </span><span class="s5"><b>=</b></span><span class="s1"> Xtrain</span><span class="s5"><b>.</b></span><span class="s1">shape</span></p>
+<p class="p2"><span class="s3">print</span><span class="s4">(</span><span class="s1">f'number of 1s and 5s: {</span><span class="s3">Ntrain</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p2"><span class="s3">print</span><span class="s4">(</span><span class="s1">f'Xtrain shape: {</span><span class="s3">Xtrain</span><span class="s5"><b>.</b></span><span class="s3">shape</span><span class="s1">}, ytrain shape: {</span><span class="s3">ytrain</span><span class="s5"><b>.</b></span><span class="s3">shape</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">digit_idxs_test </span><span class="s5"><b>=</b></span><span class="s1"> indexDigits</span><span class="s4">(</span><span class="s1">Xaugtest</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">Xtest </span><span class="s5"><b>=</b></span><span class="s1"> Xaugtest</span><span class="s4">[</span><span class="s1">digit_idxs_test</span><span class="s4">[</span><span class="s7">1</span><span class="s4">]</span><span class="s5"><b>+</b></span><span class="s1">digit_idxs_test</span><span class="s4">[</span><span class="s7">5</span><span class="s4">],</span><span class="s1"> </span><span class="s4">:]</span></p>
+<p class="p3"><span class="s1">ytest </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">concatenate</span><span class="s4">((</span><span class="s1">np</span><span class="s5"><b>.</b></span><span class="s1">ones</span><span class="s4">((</span><span class="s1">len</span><span class="s4">(</span><span class="s1">digit_idxs_test</span><span class="s4">[</span><span class="s7">1</span><span class="s4">]),</span><span class="s1"> </span><span class="s7">1</span><span class="s4">)),</span><span class="s1"> </span><span class="s5"><b>-</b></span><span class="s7">1</span><span class="s5"><b>*</b></span><span class="s1">np</span><span class="s5"><b>.</b></span><span class="s1">ones</span><span class="s4">((</span><span class="s1">len</span><span class="s4">(</span><span class="s1">digit_idxs_test</span><span class="s4">[</span><span class="s7">5</span><span class="s4">]),</span><span class="s1"> </span><span class="s7">1</span><span class="s4">))),</span><span class="s1"> axis</span><span class="s5"><b>=</b></span><span class="s7">0</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">Ntest</span><span class="s4">,</span><span class="s1"> d </span><span class="s5"><b>=</b></span><span class="s1"> Xtest</span><span class="s5"><b>.</b></span><span class="s1">shape</span></p>
+<p class="p2"><span class="s3">print</span><span class="s4">(</span><span class="s1">f'number of 1s and 5s: {</span><span class="s3">Ntest</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p2"><span class="s3">print</span><span class="s4">(</span><span class="s1">f'Xtest shape: {</span><span class="s3">Xtest</span><span class="s5"><b>.</b></span><span class="s3">shape</span><span class="s1">}, ytest shape: {</span><span class="s3">ytest</span><span class="s5"><b>.</b></span><span class="s3">shape</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p6"><span class="s1">number of 1s: 1005</span></p>
+<p class="p6"><span class="s1">number of 5s: 556</span></p>
+<p class="p6"><span class="s1">number of 1s and 5s: 1561</span></p>
+<p class="p6"><span class="s1">Xtrain shape: (1561, 3), ytrain shape: (1561, 1)</span></p>
+<p class="p6"><span class="s1">number of 1s and 5s: 428</span></p>
+<p class="p6"><span class="s1">Xtest shape: (428, 3), ytest shape: (428, 1)</span></p>
+<p class="p1"><span class="s1">In [9]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Plot the training data</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">fig</span><span class="s4">,</span><span class="s1"> axs </span><span class="s5"><b>=</b></span><span class="s1"> plt</span><span class="s5"><b>.</b></span><span class="s1">subplots</span><span class="s4">(</span><span class="s1">figsize</span><span class="s5"><b>=</b></span><span class="s4">(</span><span class="s7">5</span><span class="s4">,</span><span class="s7">5</span><span class="s4">))</span></p>
+<p class="p3"><span class="s1">axs</span><span class="s5"><b>.</b></span><span class="s1">scatter</span><span class="s4">(</span><span class="s1">X1train</span><span class="s4">[:,</span><span class="s1"> </span><span class="s7">1</span><span class="s4">],</span><span class="s1"> X1train</span><span class="s4">[:,</span><span class="s1"> </span><span class="s7">2</span><span class="s4">],</span><span class="s1"> marker</span><span class="s5"><b>=</b></span><span class="s6">'o'</span><span class="s4">,</span><span class="s1"> color</span><span class="s5"><b>=</b></span><span class="s6">'blue'</span><span class="s4">,</span><span class="s1"> label</span><span class="s5"><b>=</b></span><span class="s6">'1'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">axs</span><span class="s5"><b>.</b></span><span class="s1">scatter</span><span class="s4">(</span><span class="s1">X5train</span><span class="s4">[:,</span><span class="s1"> </span><span class="s7">1</span><span class="s4">],</span><span class="s1"> X5train</span><span class="s4">[:,</span><span class="s1"> </span><span class="s7">2</span><span class="s4">],</span><span class="s1"> marker</span><span class="s5"><b>=</b></span><span class="s6">'x'</span><span class="s4">,</span><span class="s1"> color</span><span class="s5"><b>=</b></span><span class="s6">'red'</span><span class="s4">,</span><span class="s1"> label </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s6">'5'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">axs</span><span class="s5"><b>.</b></span><span class="s1">set_xlabel</span><span class="s4">(</span><span class="s6">'intensity'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">axs</span><span class="s5"><b>.</b></span><span class="s1">set_ylabel</span><span class="s4">(</span><span class="s6">'symmetry'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">axs</span><span class="s5"><b>.</b></span><span class="s1">set_xlim</span><span class="s4">(</span><span class="s5"><b>-</b></span><span class="s7">1</span><span class="s4">,</span><span class="s1"> </span><span class="s7">0.2</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">axs</span><span class="s5"><b>.</b></span><span class="s1">set_ylim</span><span class="s4">(</span><span class="s7">1</span><span class="s4">,</span><span class="s1"> </span><span class="s7">2</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">axs</span><span class="s5"><b>.</b></span><span class="s1">set_title</span><span class="s4">(</span><span class="s6">'1s and 5s'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">axs</span><span class="s5"><b>.</b></span><span class="s1">legend</span><span class="s4">()</span></p>
+<p class="p1"><span class="s1">Out[9]:</span></p>
+<p class="p6"><span class="s1">&lt;matplotlib.legend.Legend at 0x21998a93af0&gt;</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p7"><span class="s1"><img src="file:///unknown_1.png" alt="unknown_1.png"><span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">In [10]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Functions to compute the misclassification error</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> error</span><span class="s4">(</span><span class="s1">w</span><span class="s4">,</span><span class="s1"> x</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">,</span><span class="s1"> R</span><span class="s5"><b>=</b></span><span class="s2"><b>None</b></span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>point-wise error measure for classification</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Input:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>w: a d x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>x: a d x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>y: a scalar value</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>R: Risk weights; a dictionary<span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>whose keys are tuples (y, yhat) with<span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>value equal to the cost of predicting yhat when the label is y</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Output:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>error: misclassification error of hypothesis w on data point x with true label y</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>TODO: compute the error made by hypothesis with weights w on data point x with label y</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> error</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> E</span><span class="s4">(</span><span class="s1">w</span><span class="s4">,</span><span class="s1"> X</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">,</span><span class="s1"> R</span><span class="s5"><b>=</b></span><span class="s2"><b>None</b></span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>point-wise error measure for classification</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Input:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>w: a d x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>X: an N x d 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>y: an N x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>R: Risk weights; a dictionary<span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>whose keys are tuples (y, yhat) with<span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>value equal to the cost of predicting yhat when the label is y</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Output:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>error: an N x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">               </span>misclassification errors of hypothesis w on data points in X with true labels y</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p8"><span class="s3"><span class="Apple-converted-space">    </span></span><span class="s1"><i># print(f'w shape {w.shape}, X shape {X.shape}, y shape {y.shape}')</i></span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>N </span><span class="s5"><b>=</b></span><span class="s1"> X</span><span class="s5"><b>.</b></span><span class="s1">shape</span><span class="s4">[</span><span class="s7">0</span><span class="s4">]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>TODO: compute the errors made by hypothesis with weights w on data points in X with true labels y</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> error</span></p>
+<p class="p4"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
+<p class="p1"><span class="s1">In [17]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Helper function to plot a linear separator</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> plotLinearSeparator</span><span class="s4">(</span><span class="s1">w</span><span class="s4">,</span><span class="s1"> X</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">,</span><span class="s1"> title</span><span class="s5"><b>=</b></span><span class="s6">''</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Plot data points a linear separator</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Input:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>w: a d x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>X: an N x d 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>y: an N x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>title: a string</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Output:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>error: misclassification error of hypothesis w on data points in X with true labels y</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Plot data points in X, y</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span><span class="s3"> <span class="Apple-converted-space">   </span></span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plus1s </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">where</span><span class="s4">(</span><span class="s1">y </span><span class="s5"><b>==</b></span><span class="s1"> </span><span class="s7">1</span><span class="s4">)[</span><span class="s7">0</span><span class="s4">]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>minus1s </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">where</span><span class="s4">(</span><span class="s1">y </span><span class="s5"><b>==</b></span><span class="s1"> </span><span class="s5"><b>-</b></span><span class="s7">1</span><span class="s4">)[</span><span class="s7">0</span><span class="s4">]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>Xplus1s </span><span class="s5"><b>=</b></span><span class="s1"> X</span><span class="s4">[</span><span class="s1">plus1s</span><span class="s4">,</span><span class="s1"> </span><span class="s4">:]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>Xminus1s </span><span class="s5"><b>=</b></span><span class="s1"> X</span><span class="s4">[</span><span class="s1">minus1s</span><span class="s4">,</span><span class="s1"> </span><span class="s4">:]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>fig</span><span class="s4">,</span><span class="s1"> axs </span><span class="s5"><b>=</b></span><span class="s1"> plt</span><span class="s5"><b>.</b></span><span class="s1">subplots</span><span class="s4">(</span><span class="s1">figsize</span><span class="s5"><b>=</b></span><span class="s4">(</span><span class="s7">5</span><span class="s4">,</span><span class="s7">5</span><span class="s4">))</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>axs</span><span class="s5"><b>.</b></span><span class="s1">scatter</span><span class="s4">(</span><span class="s1">Xplus1s</span><span class="s4">[:,</span><span class="s1"> </span><span class="s7">1</span><span class="s4">],</span><span class="s1"> Xplus1s</span><span class="s4">[:,</span><span class="s1"> </span><span class="s7">2</span><span class="s4">],</span><span class="s1"> marker</span><span class="s5"><b>=</b></span><span class="s6">'o'</span><span class="s4">,</span><span class="s1"> color</span><span class="s5"><b>=</b></span><span class="s6">'blue'</span><span class="s4">,</span><span class="s1"> label</span><span class="s5"><b>=</b></span><span class="s6">'1'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>axs</span><span class="s5"><b>.</b></span><span class="s1">scatter</span><span class="s4">(</span><span class="s1">Xminus1s</span><span class="s4">[:,</span><span class="s1"> </span><span class="s7">1</span><span class="s4">],</span><span class="s1"> Xminus1s</span><span class="s4">[:,</span><span class="s1"> </span><span class="s7">2</span><span class="s4">],</span><span class="s1"> marker</span><span class="s5"><b>=</b></span><span class="s6">'x'</span><span class="s4">,</span><span class="s1"> color</span><span class="s5"><b>=</b></span><span class="s6">'red'</span><span class="s4">,</span><span class="s1"> label </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s6">'5'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>axs</span><span class="s5"><b>.</b></span><span class="s1">set_xlabel</span><span class="s4">(</span><span class="s6">'intensity'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>axs</span><span class="s5"><b>.</b></span><span class="s1">set_ylabel</span><span class="s4">(</span><span class="s6">'symmetry'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>axs</span><span class="s5"><b>.</b></span><span class="s1">set_xlim</span><span class="s4">(</span><span class="s5"><b>-</b></span><span class="s7">1</span><span class="s4">,</span><span class="s1"> </span><span class="s7">0.2</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>axs</span><span class="s5"><b>.</b></span><span class="s1">set_ylim</span><span class="s4">(</span><span class="s7">1</span><span class="s4">,</span><span class="s1"> </span><span class="s7">2</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Plot separator</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>pltxs </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">linspace</span><span class="s4">(</span><span class="s5"><b>-</b></span><span class="s7">1</span><span class="s4">,</span><span class="s1"> </span><span class="s7">0.21</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>pltys </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s5"><b>-</b></span><span class="s1"> </span><span class="s4">(</span><span class="s1">w</span><span class="s4">[</span><span class="s7">0</span><span class="s4">]</span><span class="s1"> </span><span class="s5"><b>+</b></span><span class="s1"> w</span><span class="s4">[</span><span class="s7">1</span><span class="s4">]</span><span class="s1"> </span><span class="s5"><b>*</b></span><span class="s1"> pltxs</span><span class="s4">)</span><span class="s1"> </span><span class="s5"><b>/</b></span><span class="s1"> w</span><span class="s4">[</span><span class="s7">2</span><span class="s4">]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>axs</span><span class="s5"><b>.</b></span><span class="s1">plot</span><span class="s4">(</span><span class="s1">pltxs</span><span class="s4">,</span><span class="s1"> pltys</span><span class="s4">,</span><span class="s1"> color</span><span class="s5"><b>=</b></span><span class="s6">'green'</span><span class="s4">,</span><span class="s1"> label</span><span class="s5"><b>=</b></span><span class="s6">'separator'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>axs</span><span class="s5"><b>.</b></span><span class="s1">set_title</span><span class="s4">(</span><span class="s1">title</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>axs</span><span class="s5"><b>.</b></span><span class="s1">legend</span><span class="s4">()</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">show</span><span class="s4">()</span></p>
+<p class="p1"><span class="s1">In [18]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">The Pocket algorithm (variant of the Perceptron Learning Algorithm)</span></p>
+<p class="p3"><span class="s6">'''</span><span class="s1"> <span class="Apple-converted-space">   </span></span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> pocket</span><span class="s4">(</span><span class="s1">X</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">,</span><span class="s1"> max_iters</span><span class="s5"><b>=</b></span><span class="s7">1000</span><span class="s4">,</span><span class="s1"> w_init</span><span class="s5"><b>=</b></span><span class="s2"><b>None</b></span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Implements the Pocket algorithm</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Input:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>X: A 2 dimensional N x d numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>The i-th row X[i, :] contains features for the i-th example in the training set</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>X[i, 0] = 1</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>X[i, 1], ... X[i, d] have values of features</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>y: A 2 dimensional N x d numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>y[i, 0] is the label associated with the i-th example</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>max_iters: an integer; maximum number of iterations of PLA</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>w_init: A 2 dimensional d x 1 numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                </span>intended to set initial weights for PLA</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Output:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>w_best: a d x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                </span>weights with lowest error on the input training set X, y</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>Eins </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s4">[]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>ws </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s4">[]</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>Ein_best </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">infty</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>w_best </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s7">0</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>w </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">zeros</span><span class="s4">((</span><span class="s1">d</span><span class="s4">,</span><span class="s1"> </span><span class="s7">1</span><span class="s4">))</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>w </span><span class="s5"><b>=</b></span><span class="s1"> w </span><span class="s5"><b>+</b></span><span class="s1"> </span><span class="s7">0.0000001</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>if</b></span><span class="s1"> </span><span class="s5"><b>not</b></span><span class="s1"> isinstance</span><span class="s4">(</span><span class="s1">w_init</span><span class="s4">,</span><span class="s1"> type</span><span class="s4">(</span><span class="s2"><b>None</b></span><span class="s4">)):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>w </span><span class="s5"><b>=</b></span><span class="s1"> w_init</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>for</b></span><span class="s1"> i </span><span class="s5"><b>in</b></span><span class="s1"> range</span><span class="s4">(</span><span class="s1">max_iters</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>Ein </span><span class="s5"><b>=</b></span><span class="s1"> E</span><span class="s4">(</span><span class="s1">w</span><span class="s4">,</span><span class="s1"> X</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>Eins</span><span class="s5"><b>.</b></span><span class="s1">append</span><span class="s4">(</span><span class="s1">Ein</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>ws</span><span class="s5"><b>.</b></span><span class="s1">append</span><span class="s4">(</span><span class="s1">w</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span></span><span class="s2"><b>if</b></span><span class="s1"> Ein </span><span class="s5"><b>&lt;</b></span><span class="s1"> Ein_best</span><span class="s4">:</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">            </span>Ein_best </span><span class="s5"><b>=</b></span><span class="s1"> Ein</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">            </span>w_best </span><span class="s5"><b>=</b></span><span class="s1"> w</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>TODO: Complete this implementation of the Pocket algorithm</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">scatter</span><span class="s4">(</span><span class="s1">range</span><span class="s4">(</span><span class="s1">max_iters</span><span class="s4">),</span><span class="s1"> Eins</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">xlabel</span><span class="s4">(</span><span class="s6">'iteration'</span><span class="s4">)</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s3">ylabel</span><span class="s4">(</span><span class="s1">'in sample error'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">title</span><span class="s4">(</span><span class="s6">'PLA'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">tight_layout</span><span class="s4">()</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">show</span><span class="s4">()</span></p>
+<p class="p4"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span>print</span><span class="s4">(</span><span class="s1">f'Ein_best {</span><span class="s3">Ein_best</span><span class="s1">}, \nw_best \n{</span><span class="s3">w_best</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p4"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> w_best</span></p>
+<p class="p1"><span class="s1">In [20]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Run the Pocket algorithm</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">max_iters </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s7">10000</span></p>
+<p class="p3"><span class="s1">w </span><span class="s5"><b>=</b></span><span class="s1"> pocket</span><span class="s4">(</span><span class="s1">Xtrain</span><span class="s4">,</span><span class="s1"> ytrain</span><span class="s4">,</span><span class="s1"> max_iters</span><span class="s5"><b>=</b></span><span class="s1">max_iters</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">Ein </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">round</span><span class="s4">(</span><span class="s1">E</span><span class="s4">(</span><span class="s1">w</span><span class="s4">,</span><span class="s1"> Xtrain</span><span class="s4">,</span><span class="s1"> ytrain</span><span class="s4">),</span><span class="s7">5</span><span class="s4">)</span></p>
+<p class="p2"><span class="s3">plotLinearSeparator</span><span class="s4">(</span><span class="s3">w</span><span class="s4">,</span><span class="s3"> Xtrain</span><span class="s4">,</span><span class="s3"> ytrain</span><span class="s4">,</span><span class="s3"> title</span><span class="s5"><b>=</b></span><span class="s1">f'Pocket (Perceptron) algorithm with {</span><span class="s3">max_iters</span><span class="s1">} iterations; \nEin={</span><span class="s3">Ein</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p7"><span class="s1"><img src="file:///unknown_2.png" alt="unknown_2.png"><span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p6"><span class="s1">Ein_best 0.009609224855861626,<span class="Apple-converted-space"> </span></span></p>
+<p class="p6"><span class="s1">w_best<span class="Apple-converted-space"> </span></span></p>
+<p class="p6"><span class="s1">[[-20.9999999 ]</span></p>
+<p class="p6"><span class="s1"><span class="Apple-converted-space"> </span>[ -2.9436249 ]</span></p>
+<p class="p6"><span class="s1"><span class="Apple-converted-space"> </span>[ 11.99648448]]</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p7"><span class="s1"><img src="file:///unknown_3.png" alt="unknown_3.png"><span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">In [24]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">The one-step optimal algorithm for Linear Regression (See LFD Section 3.2.1)</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> linearRegression</span><span class="s4">(</span><span class="s1">X</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Implements the one-step algorithm for Linear Regression (See LFD Section 3.2.1)</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Input:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>X: A 2 dimensional N x d numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>The i-th row X[i, :] contains features for the i-th example in the training set</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>X[i, 0] = 1</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>X[i, 1], ... X[i, d] have values of features</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>y: A 2 dimensional N x d numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>y[i, 0] is the label associated with the i-th example</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Output:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>w: a d x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>weights with lowest error on the input training set X, y</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>TODO: Implement the one-step optimal algorithm for linear regression</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">    </span>print</span><span class="s4">(</span><span class="s1">f'Ein {</span><span class="s3">Ein</span><span class="s1">}, \nw_lin \n{</span><span class="s3">w_lin</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> w_lin</span></p>
+<p class="p1"><span class="s1">In [25]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Run Linear Regression followed by the Pocket algorithm to classify 1s vs 5s</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p3"><span class="s1">w_lin </span><span class="s5"><b>=</b></span><span class="s1"> linearRegression</span><span class="s4">(</span><span class="s1">Xtrain</span><span class="s4">,</span><span class="s1"> ytrain</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">Ein </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">round</span><span class="s4">(</span><span class="s1">E</span><span class="s4">(</span><span class="s1">w_lin</span><span class="s4">,</span><span class="s1"> Xtrain</span><span class="s4">,</span><span class="s1"> ytrain</span><span class="s4">),</span><span class="s1"> </span><span class="s7">5</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">plotLinearSeparator</span><span class="s4">(</span><span class="s1">w_lin</span><span class="s4">,</span><span class="s1"> Xtrain</span><span class="s4">,</span><span class="s1"> ytrain</span><span class="s4">,</span><span class="s1"> title</span><span class="s5"><b>=</b></span><span class="s6">f'Linear Regression; \nEin={</span><span class="s1">Ein</span><span class="s6">}'</span><span class="s4">)</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">max_iters </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s7">10000</span></p>
+<p class="p3"><span class="s1">w </span><span class="s5"><b>=</b></span><span class="s1"> pocket</span><span class="s4">(</span><span class="s1">Xtrain</span><span class="s4">,</span><span class="s1"> ytrain</span><span class="s4">,</span><span class="s1"> w_init</span><span class="s5"><b>=</b></span><span class="s1">w_lin</span><span class="s4">,</span><span class="s1"> max_iters</span><span class="s5"><b>=</b></span><span class="s1">max_iters</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">Ein </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">round</span><span class="s4">(</span><span class="s1">E</span><span class="s4">(</span><span class="s1">w</span><span class="s4">,</span><span class="s1"> Xtrain</span><span class="s4">,</span><span class="s1"> ytrain</span><span class="s4">),</span><span class="s1"> </span><span class="s7">5</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1">plotLinearSeparator</span><span class="s4">(</span><span class="s1">w</span><span class="s4">,</span><span class="s1"> Xtrain</span><span class="s4">,</span><span class="s1"> ytrain</span><span class="s4">,</span><span class="s1"> \</span></p>
+<p class="p2"><span class="s3"><span class="Apple-converted-space">                    </span>title</span><span class="s5"><b>=</b></span><span class="s1">f'Pocket algorithm after Linear Regression with {</span><span class="s3">max_iters</span><span class="s1">} iterations; \nEin={</span><span class="s3">Ein</span><span class="s1">}'</span><span class="s4">)</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p6"><span class="s1">Ein 0.010249839846252402,<span class="Apple-converted-space"> </span></span></p>
+<p class="p6"><span class="s1">w_lin<span class="Apple-converted-space"> </span></span></p>
+<p class="p6"><span class="s1">[[-6.05415811]</span></p>
+<p class="p6"><span class="s1"><span class="Apple-converted-space"> </span>[ 0.16071908]</span></p>
+<p class="p6"><span class="s1"><span class="Apple-converted-space"> </span>[ 3.85642483]]</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p7"><span class="s1"><img src="file:///unknown_4.png" alt="unknown_4.png"><span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p7"><span class="s1"><img src="file:///unknown_5.png" alt="unknown_5.png"><span class="Apple-converted-space"> </span></span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p6"><span class="s1">Ein_best 0.009609224855861626,<span class="Apple-converted-space"> </span></span></p>
+<p class="p6"><span class="s1">w_best<span class="Apple-converted-space"> </span></span></p>
+<p class="p6"><span class="s1">[[-21.05415811]</span></p>
+<p class="p6"><span class="s1"><span class="Apple-converted-space"> </span>[ -2.77235905]</span></p>
+<p class="p6"><span class="s1"><span class="Apple-converted-space"> </span>[ 12.10354983]]</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p7"><span class="s1"><img src="file:///unknown_6.png" alt="unknown_6.png"><span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">In [26]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Gradient descent to minimize an arbitrary function</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> functionf</span><span class="s4">(</span><span class="s1">x</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Computes the value of an arbitrary function in two variables at the input location</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>TODO: Compute the value of the function at point x, y</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> fval</span></p>
+<p class="p4"><span class="s1"><span class="Apple-converted-space"> </span></span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> gradientf</span><span class="s4">(</span><span class="s1">x</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Computes the gradient of an arbitrary function in two variables at the input location</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>TODO: Compute the gradient</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> df_by_dx</span><span class="s4">,</span><span class="s1"> df_by_dy</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> gradientDescent4f</span><span class="s4">(</span><span class="s1">x</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">,</span><span class="s1"> eta</span><span class="s5"><b>=</b></span><span class="s7">0.001</span><span class="s4">,</span><span class="s1"> max_iters</span><span class="s5"><b>=</b></span><span class="s7">100</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Performs gradient descent to find the location at which the value of an arbitrary function is minimized</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>fvals </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s4">[]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>for</b></span><span class="s1"> i </span><span class="s5"><b>in</b></span><span class="s1"> range</span><span class="s4">(</span><span class="s1">max_iters</span><span class="s4">):</span></p>
+<p class="p8"><span class="s3"><span class="Apple-converted-space">        </span></span><span class="s1"><i># print(f'iteration {i}, x={x}, y={y}')</i></span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>fval </span><span class="s5"><b>=</b></span><span class="s1"> functionf</span><span class="s4">(</span><span class="s1">x</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>fvals</span><span class="s5"><b>.</b></span><span class="s1">append</span><span class="s4">(</span><span class="s1">fval</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>grad </span><span class="s5"><b>=</b></span><span class="s1"> gradientf</span><span class="s4">(</span><span class="s1">x</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>TODO: Complete this implementation of gradient descent for an arbitrary function f with two variables</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">plot</span><span class="s4">(</span><span class="s1">range</span><span class="s4">(</span><span class="s1">max_iters</span><span class="s4">),</span><span class="s1"> fvals</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">xlabel</span><span class="s4">(</span><span class="s6">'iteration'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">ylabel</span><span class="s4">(</span><span class="s6">'value of f'</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">show</span><span class="s4">()</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> x</span><span class="s4">,</span><span class="s1"> y</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s1">max_iters </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s7">1000</span></p>
+<p class="p9"><span class="s3">eta </span><span class="s5"><b>=</b></span><span class="s3"> </span><span class="s1">0.0001</span></p>
+<p class="p3"><span class="s1">gradientDescent4f</span><span class="s4">(</span><span class="s7">0.1</span><span class="s4">,</span><span class="s1"> </span><span class="s7">0.1</span><span class="s4">,</span><span class="s1"> eta</span><span class="s5"><b>=</b></span><span class="s1">eta</span><span class="s4">,</span><span class="s1"> max_iters</span><span class="s5"><b>=</b></span><span class="s1">max_iters</span><span class="s4">)</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p7"><span class="s1"><img src="file:///unknown_7.png" alt="unknown_7.png"><span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">Out[26]:</span></p>
+<p class="p6"><span class="s1">(-0.24182360040042794, 4.698413037027736e-06)</span></p>
+<p class="p1"><span class="s1">In [27]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">The Logistic Regression algorithm with the cross entropy error measure</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> sigmoid</span><span class="s4">(</span><span class="s1">s</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Implements the sigmoid function</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> </span><span class="s7">1</span><span class="s1"> </span><span class="s5"><b>/</b></span><span class="s1"> </span><span class="s4">(</span><span class="s7">1</span><span class="s1"> </span><span class="s5"><b>+</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">exp</span><span class="s4">(</span><span class="s5"><b>-</b></span><span class="s7">1</span><span class="s5"><b>*</b></span><span class="s1">s</span><span class="s4">))</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> gradientCrossEntropyError</span><span class="s4">(</span><span class="s1">w</span><span class="s4">,</span><span class="s1"> X</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Computes the gradient of the cross entropy error function on the dataset X, y at input weights w</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>See LFD Exercise 3.7</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Input:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>w: a d x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>X: an N x d 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>y: an N x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Output:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>gradient: a d x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                  </span>gradient of the cross entropy error function on the dataset X, y at input weights w</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>N</span><span class="s4">,</span><span class="s1"> d </span><span class="s5"><b>=</b></span><span class="s1"> X</span><span class="s5"><b>.</b></span><span class="s1">shape</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>grad </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">zeros</span><span class="s4">((</span><span class="s1">d</span><span class="s4">,</span><span class="s1"> </span><span class="s7">1</span><span class="s4">))</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>for</b></span><span class="s1"> n </span><span class="s5"><b>in</b></span><span class="s1"> range</span><span class="s4">(</span><span class="s1">N</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>y_n </span><span class="s5"><b>=</b></span><span class="s1"> y</span><span class="s4">[</span><span class="s1">n</span><span class="s4">,</span><span class="s1"> </span><span class="s7">0</span><span class="s4">]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>x_n </span><span class="s5"><b>=</b></span><span class="s1"> X</span><span class="s4">[</span><span class="s1">n</span><span class="s4">,</span><span class="s1"> </span><span class="s4">:]</span><span class="s5"><b>.</b></span><span class="s1">reshape</span><span class="s4">((</span><span class="s1">d</span><span class="s4">,</span><span class="s1"> </span><span class="s7">1</span><span class="s4">))</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>TODO: Complete this implementation to compute the gradient at input weights w</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> grad</span></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p4"><span class="s1"></span><br></p>
+<p class="p3"><span class="s2"><b>def</b></span><span class="s1"> logisticRegression</span><span class="s4">(</span><span class="s1">X</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">,</span><span class="s1"> eta</span><span class="s5"><b>=</b></span><span class="s7">0.001</span><span class="s4">,</span><span class="s1"> w_init</span><span class="s5"><b>=</b></span><span class="s2"><b>None</b></span><span class="s4">,</span><span class="s1"> max_iters</span><span class="s5"><b>=</b></span><span class="s7">1000</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Implements the gradient descent algorithm for Logistic Regression</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>See LFD Example 3.3</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Input:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>X: A 2 dimensional N x d numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>The i-th row X[i, :] contains features for the i-th example in the training set</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>X[i, 0] = 1</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>X[i, 1], ... X[i, d] have values of features</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>y: A 2 dimensional N x d numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>y[i, 0] is the label associated with the i-th example</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>eta: learning rate</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>w_init: a d x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                </span>initial weights to start gradient descent</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>max_iters: maxmimum number of iterations of gradient descent</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>Output:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>w: a d x 1 2 dimensional numpy array</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">           </span>weights with (approximately) lowest error on the input training set X, y</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">    </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>N</span><span class="s4">,</span><span class="s1"> d </span><span class="s5"><b>=</b></span><span class="s1"> X</span><span class="s5"><b>.</b></span><span class="s1">shape</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>w </span><span class="s5"><b>=</b></span><span class="s1"> np</span><span class="s5"><b>.</b></span><span class="s1">zeros</span><span class="s4">((</span><span class="s1">d</span><span class="s4">,</span><span class="s1"> </span><span class="s7">1</span><span class="s4">))</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>if</b></span><span class="s1"> </span><span class="s5"><b>not</b></span><span class="s1"> isinstance</span><span class="s4">(</span><span class="s1">w_init</span><span class="s4">,</span><span class="s1"> type</span><span class="s4">(</span><span class="s2"><b>None</b></span><span class="s4">)):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>w </span><span class="s5"><b>=</b></span><span class="s1"> w_init</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>Eins </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s4">[]</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>for</b></span><span class="s1"> i </span><span class="s5"><b>in</b></span><span class="s1"> range</span><span class="s4">(</span><span class="s1">max_iters</span><span class="s4">):</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>Ein </span><span class="s5"><b>=</b></span><span class="s1"> E</span><span class="s4">(</span><span class="s1">w</span><span class="s4">,</span><span class="s1"> X</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>Eins</span><span class="s5"><b>.</b></span><span class="s1">append</span><span class="s4">(</span><span class="s1">Ein</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span>grad </span><span class="s5"><b>=</b></span><span class="s1"> gradientCrossEntropyError</span><span class="s4">(</span><span class="s1">w</span><span class="s4">,</span><span class="s1"> X</span><span class="s4">,</span><span class="s1"> y</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">        </span></span><span class="s6">'''</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>TODO: Complete this implementation of the gradient descent algorithm for logistic regression</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">        </span>'''</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span>plt</span><span class="s5"><b>.</b></span><span class="s1">plot</span><span class="s4">(</span><span class="s1">range</span><span class="s4">(</span><span class="s1">max_iters</span><span class="s4">),</span><span class="s1"> Eins</span><span class="s4">)</span></p>
+<p class="p3"><span class="s1"><span class="Apple-converted-space">    </span></span><span class="s2"><b>return</b></span><span class="s1"> w</span></p>
+<p class="p1"><span class="s1">In [28]:</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p2"><span class="s1">Run the logistic regression algorithm to classify 1s vs 5s</span></p>
+<p class="p2"><span class="s1">'''</span></p>
+<p class="p4"><span class="s1"><span class="Apple-converted-space">    </span></span></p>
+<p class="p3"><span class="s1">max_iters </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s7">10000</span></p>
+<p class="p3"><span class="s1">eta </span><span class="s5"><b>=</b></span><span class="s1"> </span><span class="s7">0.5</span></p>
+<p class="p3"><span class="s1">w </span><span class="s5"><b>=</b></span><span class="s1"> logisticRegression</span><span class="s4">(</span><span class="s1">Xtrain</span><span class="s4">,</span><span class="s1"> ytrain</span><span class="s4">,</span><span class="s1"> eta</span><span class="s5"><b>=</b></span><span class="s1">eta</span><span class="s4">,</span><span class="s1"> max_iters</span><span class="s5"><b>=</b></span><span class="s1">max_iters</span><span class="s4">)</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p7"><span class="s1"><img src="file:///unknown_8.png" alt="unknown_8.png"><span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">In [29]:</span></p>
+<p class="p3"><span class="s1">plotLinearSeparator</span><span class="s4">(</span><span class="s1">w</span><span class="s4">,</span><span class="s1"> Xtrain</span><span class="s4">,</span><span class="s1"> ytrain</span><span class="s4">,</span><span class="s1"> title</span><span class="s5"><b>=</b></span><span class="s6">f'Logistic Regression with {</span><span class="s1">max_iters</span><span class="s6">} iterations; \nEin={</span><span class="s1">Ein</span><span class="s6">}'</span><span class="s4">)</span></p>
+<p class="p5"><span class="s1"></span><br></p>
+<p class="p7"><span class="s1"><img src="file:///unknown_9.png" alt="unknown_9.png"><span class="Apple-converted-space"> </span></span></p>
+</body>
+</html>

@@ -1,0 +1,35 @@
+{
+  "id": "",
+  "ccq_no": "",
+  "control_num": "rr",
+  "configuration_name": "",
+  "countries": [
+    ""
+  ],
+  "required_id": {
+    "rr_005_t1": {
+      "test_name": "",
+      "test_procedure": "",
+      "presentation_col": [
+      ],
+      "ccq_name": "",
+      "expected_result_logical_operator": null,
+      "hard_coded_where": "",
+      "configurable_fields": {
+        "pe_key": {
+          "expected_op": "",
+          "expected_val": [
+            ""
+          ],
+          "expected_result_order": ""
+        }
+      },
+      "user_param": {
+        "user login id": {
+          "test_user_desc": "TBD",
+          "test_user_field": ""
+        }
+      }
+    }
+  }
+}

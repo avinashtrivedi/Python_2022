@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Collins, Carlos (GBS B&amp;S US SOL-GMS-1)</LastAuthor>
+  <Created>2022-07-22T19:52:30Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5040</WindowHeight>
+  <WindowWidth>17256</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Microsoft Sans Serif" ss:Size="8.25" ss:Color="#333399"/>
+   <Interior ss:Color="#C2D4EB" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Microsoft Sans Serif" ss:Size="8.25" ss:Color="#333399"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Microsoft Sans Serif" ss:Size="8.25" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Microsoft Sans Serif" ss:Size="8.25" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="Short Date"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Q7 Activity report">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="46" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Column ss:Width="12" ss:AutoFit="0"/>
+   <Column ss:Width="15" ss:AutoFit="0"/>
+   <Column ss:Width="92.4" ss:AutoFit="0"/>
+   <Column ss:Width="68.399999999999991" ss:AutoFit="0"/>
+   <Column ss:Width="73.8" ss:AutoFit="0"/>
+   <Column ss:Width="72" ss:AutoFit="0"/>
+   <Column ss:Width="75" ss:AutoFit="0"/>
+   <Column ss:Width="74.400000000000006" ss:AutoFit="0"/>
+   <Column ss:Width="87.6" ss:AutoFit="0"/>
+   <Column ss:Width="88.800000000000011" ss:AutoFit="0"/>
+   <Column ss:Width="84" ss:AutoFit="0"/>
+   <Column ss:Width="88.800000000000011" ss:AutoFit="0"/>
+   <Row>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Employee Number</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Last Name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">First Name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Card Number</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Workgroup</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Date Occurred</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Earliest Access Time</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Earliest Access Point</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Latest Access Time</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Latest Access Point</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="11" ss:StyleID="s63"><Data ss:Type="String">Date Occurred: 7/13/2022 [44]</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Z000CNMN</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Estrada</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Esther</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2972549175</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Siemens Corp. Consultant</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="DateTime">2022-07-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">06:02:33</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">OQ7 PayRoll Permer</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">15:53:40</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">OQ7 S/R Mailroom ext</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Beumer</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Edith</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2737648878</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Siemens Corp.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="DateTime">2022-07-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">06:46:48</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">OQ7 MAIN ENTRY 1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">12:41:59</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">OQ7 File Room Patio Door</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Z002WD6T</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Irizarry</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sandra</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1975039190</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Siemens Corp.</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="DateTime">2022-07-13T00:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">07:12:31</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">OQ7 MAIN ENTRY 1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">07:33:18</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">OQ7 MAIN LOBBY</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

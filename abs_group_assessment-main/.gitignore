@@ -1,0 +1,11 @@
+# ignore log files (this is a comment)
+*.log
+*.ipynb_checkpoints
+gender_ownership_state.pdf
+*/.ipynb_checkpoints/*.ipynb
+__pycache__
+data/bus_char_df.csv
+data/bus_own_df.csv
+data/bus_tech_df.csv
+data/comp_sum_df.csv
+data/slbo.csv

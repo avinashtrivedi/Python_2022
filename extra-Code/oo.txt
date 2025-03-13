@@ -1,0 +1,3 @@
+tvEpisode: 14.57 mins
+movie: 121.5 mins
+video: 70.0 mins

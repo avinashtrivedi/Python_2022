@@ -1,0 +1,1687 @@
+{
+	"reportingSource": {
+		"precinctsReporting": 0,
+		"usingProportional": false,
+		"sourceIds": {
+			"voteTotal": "StateFeed",
+			"voteByMode": "WebScrape",
+			"totalBallotsCast": "Stringer"
+		},
+		"isGetting": true,
+		"trusted": true,
+		"active": true,
+		"locked": false,
+		"electoralVoteTotal": 0,
+		"candidates": [{
+				"id": 47499,
+				"npId": 41404,
+				"name": {
+					"last": "Abbott",
+					"first": "Greg",
+					"middle": "",
+					"suffix": "    ",
+					"abbrv": "Abbott"
+				},
+				"vote": {
+					"partyId": "GOP",
+					"partyName": "Republican",
+					"incumbent": true,
+					"isFused": false,
+					"majorCandidate": true,
+					"total": 0,
+					"votePercentage": 0,
+					"electoralVotesWon": 0,
+					"raceStatus": {
+						"status": "none",
+						"changelog": {
+							"created": {
+								"timestamp": "2022-02-02 17:26:31.587000",
+								"by": "System"
+							},
+							"updated": {
+								"timestamp": "2022-02-02 17:26:31.587000",
+								"by": "System"
+							}
+						}
+					},
+					"mode": {
+						"electionDayInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"earlyInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeMail": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"provisional": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"advanceInPersonTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"advanceTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"inPersonTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						}
+					},
+					"ranks": [{
+						"id": 0,
+						"total": 0,
+						"mode": {
+							"electionDayInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"earlyInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeMail": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"provisional": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"advanceInPersonTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"advanceTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"inPersonTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							}
+						}
+					}],
+					"parties": [{
+						"id": "GOP",
+						"candidateId": 62689,
+						"name": "Republican",
+						"type": "major",
+						"vote": {
+							"total": 0,
+							"mode": {
+								"electionDayInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"earlyInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeMail": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"provisional": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"advanceInPersonTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"advanceTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"inPersonTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								}
+							},
+							"ballotOrder": 1
+						}
+					}]
+				},
+				"changelog": {
+					"created": {
+						"timestamp": "2022-02-02 17:26:31.587000",
+						"by": "System"
+					},
+					"updated": {
+						"timestamp": "2022-02-03 13:59:09.264000",
+						"by": "appsync@ap.org"
+					}
+				}
+			},
+			{
+				"id": 51293,
+				"npId": 69797,
+				"name": {
+					"last": "Huffines",
+					"first": "Don",
+					"middle": "",
+					"suffix": "    ",
+					"abbrv": "Huffines"
+				},
+				"vote": {
+					"partyId": "GOP",
+					"partyName": "Republican",
+					"incumbent": false,
+					"isFused": false,
+					"majorCandidate": true,
+					"total": 0,
+					"votePercentage": 0,
+					"electoralVotesWon": 0,
+					"raceStatus": {
+						"status": "none",
+						"changelog": {
+							"created": {
+								"timestamp": "2022-02-02 17:26:31.587000",
+								"by": "System"
+							},
+							"updated": {
+								"timestamp": "2022-02-02 17:26:31.587000",
+								"by": "System"
+							}
+						}
+					},
+					"mode": {
+						"electionDayInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"earlyInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeMail": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"provisional": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"advanceInPersonTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"advanceTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"inPersonTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						}
+					},
+					"ranks": [{
+						"id": 0,
+						"total": 0,
+						"mode": {
+							"electionDayInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"earlyInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeMail": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"provisional": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"advanceInPersonTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"advanceTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"inPersonTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							}
+						}
+					}],
+					"parties": [{
+						"id": "GOP",
+						"candidateId": 63001,
+						"name": "Republican",
+						"type": "major",
+						"vote": {
+							"total": 0,
+							"mode": {
+								"electionDayInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"earlyInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeMail": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"provisional": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"advanceInPersonTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"advanceTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"inPersonTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								}
+							},
+							"ballotOrder": 5
+						}
+					}]
+				},
+				"changelog": {
+					"created": {
+						"timestamp": "2022-02-02 17:26:31.587000",
+						"by": "System"
+					},
+					"updated": {
+						"timestamp": "2022-02-03 13:59:09.264000",
+						"by": "appsync@ap.org"
+					}
+				}
+			},
+			{
+				"id": 53062,
+				"npId": 69796,
+				"name": {
+					"last": "Belew",
+					"first": "Paul",
+					"middle": "",
+					"suffix": "",
+					"abbrv": "Belew"
+				},
+				"vote": {
+					"partyId": "GOP",
+					"partyName": "Republican",
+					"incumbent": false,
+					"isFused": false,
+					"majorCandidate": true,
+					"total": 0,
+					"votePercentage": 0,
+					"electoralVotesWon": 0,
+					"raceStatus": {
+						"status": "none",
+						"changelog": {
+							"created": {
+								"timestamp": "2022-02-02 17:26:31.587000",
+								"by": "System"
+							},
+							"updated": {
+								"timestamp": "2022-02-02 17:26:31.587000",
+								"by": "System"
+							}
+						}
+					},
+					"mode": {
+						"electionDayInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"earlyInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeMail": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"provisional": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"advanceInPersonTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"advanceTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"inPersonTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						}
+					},
+					"ranks": [{
+						"id": 0,
+						"total": 0,
+						"mode": {
+							"electionDayInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"earlyInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeMail": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"provisional": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"advanceInPersonTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"advanceTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"inPersonTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							}
+						}
+					}],
+					"parties": [{
+						"id": "GOP",
+						"candidateId": 62998,
+						"name": "Republican",
+						"type": "major",
+						"vote": {
+							"total": 0,
+							"mode": {
+								"electionDayInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"earlyInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeMail": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"provisional": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"advanceInPersonTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"advanceTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"inPersonTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								}
+							},
+							"ballotOrder": 2
+						}
+					}]
+				},
+				"changelog": {
+					"created": {
+						"timestamp": "2022-02-02 17:26:31.587000",
+						"by": "System"
+					},
+					"updated": {
+						"timestamp": "2022-02-03 13:59:09.264000",
+						"by": "appsync@ap.org"
+					}
+				}
+			},
+			{
+				"id": 53063,
+				"npId": 69932,
+				"name": {
+					"last": "Harrison",
+					"first": "Danny",
+					"middle": "",
+					"suffix": "",
+					"abbrv": "Harrison"
+				},
+				"vote": {
+					"partyId": "GOP",
+					"partyName": "Republican",
+					"incumbent": false,
+					"isFused": false,
+					"majorCandidate": true,
+					"total": 0,
+					"votePercentage": 0,
+					"electoralVotesWon": 0,
+					"raceStatus": {
+						"status": "none",
+						"changelog": {
+							"created": {
+								"timestamp": "2022-02-02 17:26:31.587000",
+								"by": "System"
+							},
+							"updated": {
+								"timestamp": "2022-02-02 17:26:31.587000",
+								"by": "System"
+							}
+						}
+					},
+					"mode": {
+						"electionDayInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"earlyInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeMail": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"provisional": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"advanceInPersonTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"advanceTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"inPersonTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						}
+					},
+					"ranks": [{
+						"id": 0,
+						"total": 0,
+						"mode": {
+							"electionDayInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"earlyInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeMail": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"provisional": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"advanceInPersonTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"advanceTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"inPersonTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							}
+						}
+					}],
+					"parties": [{
+						"id": "GOP",
+						"candidateId": 62999,
+						"name": "Republican",
+						"type": "major",
+						"vote": {
+							"total": 0,
+							"mode": {
+								"electionDayInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"earlyInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeMail": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"provisional": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"advanceInPersonTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"advanceTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"inPersonTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								}
+							},
+							"ballotOrder": 3
+						}
+					}]
+				},
+				"changelog": {
+					"created": {
+						"timestamp": "2022-02-02 17:26:31.587000",
+						"by": "System"
+					},
+					"updated": {
+						"timestamp": "2022-02-03 13:59:09.264000",
+						"by": "appsync@ap.org"
+					}
+				}
+			},
+			{
+				"id": 53064,
+				"npId": 69798,
+				"name": {
+					"last": "Horn",
+					"first": "Kandy Kaye",
+					"middle": "",
+					"suffix": "",
+					"abbrv": "Horn"
+				},
+				"vote": {
+					"partyId": "GOP",
+					"partyName": "Republican",
+					"incumbent": false,
+					"isFused": false,
+					"majorCandidate": true,
+					"total": 0,
+					"votePercentage": 0,
+					"electoralVotesWon": 0,
+					"raceStatus": {
+						"status": "none",
+						"changelog": {
+							"created": {
+								"timestamp": "2022-02-02 17:26:31.587000",
+								"by": "System"
+							},
+							"updated": {
+								"timestamp": "2022-02-02 17:26:31.587000",
+								"by": "System"
+							}
+						}
+					},
+					"mode": {
+						"electionDayInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"earlyInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeInPerson": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeMail": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"provisional": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"absenteeTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"advanceInPersonTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"advanceTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						},
+						"inPersonTotal": {
+							"directInput": {
+								"isNull": true,
+								"value": 0
+							},
+							"rolledUp": {
+								"isNull": true,
+								"value": 0
+							}
+						}
+					},
+					"ranks": [{
+						"id": 0,
+						"total": 0,
+						"mode": {
+							"electionDayInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"earlyInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeInPerson": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeMail": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"provisional": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"absenteeTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"advanceInPersonTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"advanceTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							},
+							"inPersonTotal": {
+								"directInput": {
+									"isNull": true,
+									"value": 0
+								},
+								"rolledUp": {
+									"isNull": true,
+									"value": 0
+								}
+							}
+						}
+					}],
+					"parties": [{
+						"id": "GOP",
+						"candidateId": 63000,
+						"name": "Republican",
+						"type": "major",
+						"vote": {
+							"total": 0,
+							"mode": {
+								"electionDayInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"earlyInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeInPerson": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeMail": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"provisional": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"absenteeTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"advanceInPersonTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"advanceTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								},
+								"inPersonTotal": {
+									"directInput": {
+										"isNull": true,
+										"value": 0
+									},
+									"rolledUp": {
+										"isNull": true,
+										"value": 0
+									}
+								}
+							},
+							"ballotOrder": 4
+						}
+					}]
+				},
+				"changelog": {
+					"created": {
+						"timestamp": "2022-02-02 17:26:31.587000",
+						"by": "System"
+					},
+					"updated": {
+						"timestamp": "2022-02-03 13:59:09.264000",
+						"by": "appsync@ap.org"
+					}
+				}
+			}
+		]
+	}
+}

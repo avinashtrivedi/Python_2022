@@ -1,0 +1,1482 @@
+nan	Technisch sehr zuverlÃ¤ssig	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	WMware VSphere,	nan	nan	nan	nan	nan	nan	nan	nan
+nan	best in class	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	GCPã®ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã¯å¤šè¨€èªžåŒ–ã•ã‚Œã¦ãŠã‚Šã€å¤šãã®ãƒ¦ãƒ¼ã‚¶ãƒ¼ã®çš†ã•ã¾ã«ã¨ã£ã¦ã€å¤§å¤‰èª­ã¿ã‚„ã™ããªã£ã¦ãŠã‚Šã¾ã™ã€‚	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	æœ¬å¹´åº¦ã¯è©•ä¾¡åˆ©ç”¨ã€æ¬¡å¹´åº¦è©¦é¨“åˆ©ç”¨ã¨ãªã‚Šã¾ã™ã€‚	nan
+nan	I'd be extremely satisfied if I could learn about your product roadmap, pricing for short-medium term and long term pricing strategy	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å®‰å®šã—ãŸã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã€‚æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ãƒã‚°å¤šã™ãŽã¾ã™ãŒã€‚	æ—¥æœ¬èªžæƒ…å ±ãŒä¸è¶³ã—ã¦ã„ã‚‹ã€‚	nan	æ—¥æœ¬èªžæƒ…å ±ãŒä¸è¶³ã—ã¦ã„ã‚‹ã€‚	nan	nan	ã‚µãƒãƒ¼ãƒˆã‚µã‚¤ã‚¯ãƒ«ãŒçŸ­ã™ãŽã‚‹ã€‚	nan	nan
+nan	VxRail works great, but the upgrade process to the latest version or patch could be a lot easier.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	User friendly and easy to handle	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ã‚¤ãƒ³ãƒ•ãƒ©ã®æ ¹å¹¹ã¨ã—ã¦æ©Ÿèƒ½ã—ã¦ãŠã‚Šå®‰å®šã—ãŸç¨¼åƒã¨å¯ç”¨æ€§ã®é«˜ã•ç°¡ä¾¿ã•ã«ã‚ˆã‚Šã€å…¨èˆ¬çš„ã«é«˜å“è³ªã§ã‚ã‚‹ã€‚	nan	VMC on AWSã‚’åˆ©ç”¨ä¸­ã€‚DCã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³è©•ä¾¡ã¨åŒæ§˜ã«ã€å®‰å®šæ€§ãƒ»å¯ç”¨æ€§ç­‰ã®å“è³ªãŒé«˜ã„ã€‚	é‹ç”¨ã¯è¡Œã£ã¦ã„ãªã„ãŸã‚è©•ä¾¡NA	nan	NWä¸Šã®ã‚³ãƒŸãƒ¥ãƒ‹ã‚±ãƒ¼ã‚·ãƒ§ãƒ³ãƒ„ãƒ¼ãƒ«ã®åˆ©ç”¨ã«ãŠã„ã¦æº€è¶³åº¦ãŒä½Žãã€ãã®åˆ†è©•ä¾¡ã‚’ä¸‹ã’ãŸ	ãƒžã‚¤ã‚¯ãƒ­ã‚»ã‚°ãƒ¡ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ãªã©ãƒ‹ãƒ¼ã‚ºã«ã‚ã£ãŸé‹ç”¨ãŒå¯èƒ½ã¨ãªã‚‹ç‚¹ã‚’è©•ä¾¡	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ä»‹é¢ç°¡æ½”ä¸”æ¸…æ¥šï¼Œç³»çµ±ç©©å®šå¯é ã€‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	8	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	It's good but could be improved	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ã€ŒãƒŽãƒ¼ãƒˆãƒ©ãƒ–ãƒ«ã€ã«å°½ãã‚‹	nan	nan	nan	nan	nan	nan	nan	nan
+nan	æ–¹ä¾¿é‹ç”¨	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	8	nan	nan	nan	nan	nan	nan
+nan	å®‰å®šã—ã¦ç¨¼åƒã—ã¦ã„ã‚‹	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ç¾çŠ¶ã«æº€è¶³ã—ã¦ã„ã‚‹	nan	nan	nan	nan	nan	ç¾çŠ¶ã«æº€è¶³ã—ã¦ã„ã‚‹	nan	nan
+nan	ç”¢å“é‚„ç®—ç©©å®š	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å®‰å®šçš„ã«ç¨¼åƒã—ã¦ã„ã‚‹ã‹ã‚‰	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ç‰¹æ®µå•é¡Œãªã—	nan	nan	nan	nan	nan	ç‰¹æ®µå•é¡Œãªã—	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Vmware does not support custom linux distro. So, it was let to my team to explore and solve the issue with no help from Vmware team.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Functionality and efficiency	nan	nan	nan	nan	nan	Flexible and advanced solutionto configure and manage	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Good	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	easier for backup and manage	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Product is very stableble	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	æ–°ãŸãªã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã‚’æä¾›ã„ãŸã ã„ã¦ã¾ã™ã€‚	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Flexible and easy to use	nan	nan	nan	nan	There are several issues to be occurred after 'Go Live'	nan	nan	nan
+nan	vsphere	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	åŠŸèƒ½è¶³å¤ ç¾æ³ä½¿ç”¨	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å¯ç”¨æ€§ã®é«˜ã•	å¯ç”¨æ€§ã®é«˜ã•	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	As per our usage	nan	Working only for student's project	nan	nan	Official use is limited	College wide use	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ä»®æƒ³ãƒžã‚·ãƒ³ã®é‹ç”¨æ‹…å½“è€…ã¨ã—ã¦ã€ã‚µãƒ¼ãƒãƒ¼æ§‹ç¯‰ã€è¤‡è£½ã€ã‚¹ãƒŠãƒƒãƒ—ã‚·ãƒ§ãƒƒãƒˆãªã©ã®å„ç¨®æ©Ÿèƒ½ãŒåˆ©ç”¨ã—ã‚„ã™ãã€æ—¥ã€…ã®é‹ç”¨ä¸Šã¨ã¦ã‚‚åŠ©ã‹ã£ã¦ã„ã¾ã™ã€‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ä¸­å°è¦æ¨¡ãªã‚‰æ‰±ã„ã‚„ã™ã„	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ç¨¼åƒã®å®‰å®šæ€§ã«ä¿¡é ¼æ„ŸãŒã‚ã‚‹ã‹ã‚‰	nan	nan	nan	nan	ã‚³ã‚¹ãƒˆã®ä½Žä¾¡æ ¼åŒ–ã‚’æœŸå¾…	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Once we get over its requirements and learning curves, it does what it supposed to do	nan	Same as above	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ç‰¹ã«æº€è¶³ã‚‚ç„¡ãã€ä¸æº€ã‚‚ç„¡ã„ãŸã‚	nan	nan	ç‰¹ã«æº€è¶³ã‚‚ç„¡ãã€ä¸æº€ã‚‚ç„¡ã„ãŸã‚	nan	nan	ãƒãƒªã‚·ãƒ¼å¤‰æ›´æ™‚ã®GUIæ“ä½œæ€§ãŒæ‚ªã‹ã£ãŸãŸã‚	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	lizensierung	nan	preis/leistung	nan	nan	nan	nan	nan	nan
+nan	å¤§ããªå•é¡Œãªãç¨¼åƒã—ã¦ã„ã‚‹ã€‚vSANã®4å°ä»¥ä¸Šã®ã‚¹ãƒˆãƒ¬ãƒ¼ã‚¸ãŒã‚ã‚‹å ´åˆã®å®¹é‡ç®¡ç†ã¯åˆ†ã‹ã‚Šã«ãã„ã€‚	nan	å¤§ããªå•é¡Œãªãç¨¼åƒã—ã¦ã„ã‚‹ã€‚	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	ç’°å¢ƒã®å¯èƒ½æ€§ã‚‚ã‚ã‚‹ãŒã€éŸ³å£°å“è³ªã«èª²é¡Œã‚ã‚Š	nan	nan	nan
+nan	nan	nan	nan	nan	nan	Innovatives Management rund um UEM	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	AWSé€£æºãŒã—ã£ã‹ã‚Šã§ãã¦ã„ã‚‹	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	é‹ç”¨ã®å¯ç”¨æ€§ãƒ»æ“ä½œæ€§ã«å„ªã‚Œã¦ã„ã‚‹ã¨æ„Ÿã˜ã¦ã„ã¾ã™ã€‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	good	good	good	good	good	good	good	good	nan
+nan	å®‰å®šæ€§	nan	nan	nan	nan	å®‰å®šæ€§	ä¾¡æ ¼	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	ã‚ã‚‹ç¨‹åº¦ä½¿ãˆã¦ã„ã‚‹ä¸€æ–¹ã€ã‚¯ãƒ©ãƒƒã‚·ãƒ¥ã‚‚æ™‚ãŠã‚Šç™ºç”Ÿã—ã¦ã„ã‚‹	nan	nan	nan
+nan	So far so good but some times received alerts and have no idea how to handle	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	as per experience	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	é«˜ä¾¡ã§ã‚ã‚‹	nan	nan	nan
+nan	stable, effective and fit to our requirement	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	Habe nur Halbwissen	nan	nan	nan	nan	nan	nan
+nan	nc.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	versatile , robusto	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Produkt erfÃ¼llt unsere Erwartungen	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Sicher und Flexibel	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	-	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	perchÃ¨ Ã¨ un prodotto affidabile e ben strutturato	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	Old Airwatch still kicking because of superior tech knowledge in VMWare for containerized OS	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	it does what is expected of it	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	macOS features lack fine-grained control. Scripts and Freestyle orchestrator will bring that in the future for our on-prem solution	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	I prodotti migliori e piÃ¹ sofisticati sono molto costosi ed abbisognano di VMWARE specialist di alto livello	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	it is difficult to trace vSphere purchases associated per business partner and extract reports	nan	nan	nan	nan	nan	nan	nan
+nan	Abbiamo avuto problemi di compatibilitÃ  con l'host HP e instabilitÃ  alcune volte data proprio dagli aggiornamenti rilasciati. Nello stesso tempo nessuna situazione Ã¨ risultata bloccante per l'azienda.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Wir wollten eine LÃ¶sung aus einer Hand haben.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Funktioniert und hilft dem Betrieb	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	StabilitÃ  e performance	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Solid product set	nan	nan	Complicated set-up and poor VMWare engagement	nan	Solid product set	Good product set although we need more use cases	nan	nan
+nan	generally satisfied	nan	generally satisfied	nan	nan	no so good support for Android features, problems with deployment, maintenance.	nan	nan	nan
+nan	Facile Ã  installer et suffisant pour les petites entreprises	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	We are in the process of moving away from IBM to an on-prem VCF solution.	nan	nan	nan	nan	nan	nan
+nan	Robust & reliable	nan	nan	nan	nan	very high costs	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	flexibility	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	Cfr commento precedente.	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	recovery ne fonctionne pas obliger de passer par Veeam	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Longtime market leader, experienced, de facto	New(er) way to help admins daily work	nan	nan	nan	What and where VDI should be or should go	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Ã© estÃ¡vel e versÃ¡til	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Fluida , semplice e compatta	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	VxRail is ABSOLUTE garbage. We've experienced data loss, down-time with it.	nan	nan	nan	nan	The solution is slow; uses self-signed certificates for the broker; I hate Workspace ONE. It feels like an overengineered list of links.	nan	nan	nan
+nan	nan	nan	nan	nan	nan	Overall, it works very well. It's not visible to me on how tight a relationship Apple has with VMware when issues or questions arise.	nan	nan	nan
+nan	Fonctionne bien, mais des rÃ©glages pas forcÃ©ment Ã©vidents. Et la gestion des SSL obligatoirement en mode console.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	I sure did	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Things mostly work, but when there are issues it can be difficult to get support to assist quick enough.	nan	nan	nan	nan	Things mostly work, but when there are issues it can be difficult to get support to assist quick enough.	nan	nan	nan
+nan	I don't get to play with this as much as I would like	nan	nan	nan	nan	nan	nan	nan	nan
+nan	certain action must be done in command line	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Killed using the vSphere web interface on v6, so have to use the old vsphere client	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	reliable software	nan	nan	nan	nan	reliable software	nan	nan	nan
+nan	Hace flata una buena capacitaciÃ³n para usar los productos	nan	nan	nan	nan	nan	nan	nan	nan
+nan	It always works as expected.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Havent had the chance to get it installed yet	nan	nan	nan	nan	nan	nan	nan	nan
+nan	It works.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Not moving forward much over the past 2-3 years.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	it works well for me so far, but we could do better	nan	nan	nan
+nan	Solid product.  Design keeps improving.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	not a big user, primarily MS Hyper-V, use VMware for specific tasks	nan	nan	nan	nan	nan	nan	nan	nan
+nan	we have a highly heterogeneous host inventory -- multiple vendors, multiple levels of CPUs. I have had very little trouble installing and updating  our entire range of hosts. In fact, the hypervisor installer is one or the best installers out there -- fast, prompts are nearly impossible to misinterpret and incompatibility warnings are presented early enough to halt an upgrade without damaging the existing version. On the down side, when there is a driver that setup doesn't like it doesn't offer enough detail to figure out which driver is causing the stop or what driver/version setup was expecting. The vCenter server installer for Windows  installer, however, is far less friendly, to the point that if  a new vCenter installation fails to start the only choices are a long easter egg hunt for the reason or a full re-install of the OS. I know that the Windws version of vCenter has been discontinued, but I expect that the team that designed the installer still works for VMware and the design philosophies that made the Windows vCenter setup so much tweakier than the ESXi setup are still being applied on other products.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	sinceramente es mas simple usar hipervim en este escenario que el uso de de vmware	la daminstracion se realiza por una consola que nos da el proveedor y es mas simple y practica	nan	nan	nan	nan	nan
+nan	works well	nan	nan	too expensive	extremely expensive	nan	expensive	nan	nan
+nan	For the reasons I stated in the beginning.	nan	nan	nan	nan	For the reasons I stated in the beginning.	nan	nan	nan
+nan	nan	nan	ç§»è¡ŒãŒã—ã‚„ã™ã‹ã£ãŸ	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	This is based on experience until few months ago. But recently I feel the quality of the customer facing architects is diluted, do not understand TAS as much as old folks from Pivotol were. Anyway thus far, it had been super Developer friendly. Integration with SpringCloud is strongest point plus the architects (until recently) we interacted with were great, super knowledgeable (with less of marketing focus), truly helped for the best interest of our company.	nan	nan	nan	nan
+nan	Love Vsan, wish network bonding worked and more instrumentation	nan	nan	Need better default reports to cumbersome for execs	Not fully Baked, barely supportable in a disconnected environment	Need better optimizations, why do I need to by a wan optimizer?	Works good kinda hard to troubleshoot.	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	We have used all these products over the years and they have functioned well and each cut our resource needs	nan	We have used all these products over the years and they have functioned well and each cut our resource need	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	missing copy/paste functionality	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Easy to use	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Lack of quick response time to an issue	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Pricing is too high	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	It just works.   Reliable and consistent.	nan	nan	nan	nan	Some teething pains getting it running, but once past those, works good (Horizon).	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Dellã®ã‚µãƒ¼ãƒã§ã¯VMwareã‚’ä½¿ã£ã¦ã„ãªã„	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Solutions on some were not quite expected	nan	nan	nan	nan	Solutions on some were not quite expected	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	é¡§å®¢ã«ç´å…¥ã—ã€å•é¡Œãªãç¨¼åƒã—ã¦ã„ã‚‹	nan	nan	nan	nan	nan	nan	ä½¿ã£ã¦ã„ã¾ã›ã‚“ã€‚	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	é¡§å®¢ç’°å¢ƒæ§‹ç¯‰ã§ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒƒãƒˆæŽ¥ç¶šãŒå‡ºæ¥ãªã„ç’°å¢ƒã§ãƒ˜ãƒ«ãƒ—ç”»é¢ãŒè¦‹ã‚Œãªã„ã€‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	æ€§èƒ½ç­‰ã®å•é¡Œã‚‚ãªãç¨¼åƒã—ã¦ã„ã‚‹ç‚º	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ESXi 7 / Vsphere 7 Fehlerbehaftet	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	See earlier input	nan	nan	nan	nan	nan	nan	nan	nan
+nan	very stable virtualization platform.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	soluzione affidabile e completa	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	For the most part, it just works.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Manque de compÃ©tence sur l'administration aprÃ¨s installation initiale.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Easy to use for the most part. Very powerful with it's capabilities.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	Overall good quality products but to many tech disruption on vRA	nan	nan	Overall good quality, bit nasty migration v-t	nan	nan
+nan	å®‰å®šç¨¼åƒã—ã¦ã„ã‚‹ãŸã‚ã€‚	nan	nan	é‹ç”¨å´ã«å½¹ã«ç«‹ã£ã¦ã„ã‚‹ãŸã‚ã€‚	nan	nan	LBã€åˆ†æ•£FWç­‰ãŒå•é¡Œãªãåˆ©ç”¨ã§ãã¦ã„ã‚‹ãŸã‚ã€‚	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Good for vSphere	nan	nan	nan	nan	nan	Complicated solution and lacking visibility and performance concern	nan	nan
+nan	80/100	nan	nan	nan	nan	nan	nan	nan	nan
+nan	AÃºn se puede mejorar el diseÃ±o de seguridad de la soluciÃ³n implementada.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	As mentioned earlier, performance is good but complexity for use/configuration is too high.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	it works most of the time.  Just fails to connect a lot, but that's not always your fault.	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	stable, user friendly and common.	too Changes, complicated and costly.	nan	Good.	nan	nan	complicated and costly.	nan	nan
+nan	We are new to VMWare and cannot answer some questions due to not using the product that long and not having interactions with any support other than purchase	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Recent bugs (7.0u3)	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£é¢ã€å®‰å®šã—ã¦ç¶™ç¶šåˆ©ç”¨å‡ºæ¥ã¦ã„ã‚‹ã‹ã‚‰	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Por que sou da 3M do Brasil e o suporte deveria ser em Portugues e deveria entrar em contato comigo quando euprecisasse	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	éžå¸¸ã«å®‰å®šã—ã¦ã„ã‚‹	å°‘ã€…è¤‡é›‘ã®ãŸã‚	å„ç¤¾ã§æ‰‹ç¶šãã‚„èª²é‡‘ãŒé•ã†ã®ã§	åˆ©ç”¨ãŒå°‘ãªãã“ã¡ã‚‰ãŒçµŒé¨“ä¸è¶³	nan	ãƒ¬ã‚¹ãƒãƒ³ã‚¹ãŒå°‘ã€…ãƒ»ãƒ»ãƒ»	nan	nan	nan
+nan	Solution Product that is good for business	nan	nan	nan	nan	Good supporting product	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ESXi 6	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Ã© mais facil gerir	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Performante, gut funktionierende und Wartbare LÃ¶sung.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	The solutions are solid, reliable, and reasonably priced. It's not rocket science now, a dozen companies do it.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	VMWare was a game changer	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	We are very happy with the power and stability that VMWare brings to the table in our DCs	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	Good product, missing some functionality	nan	nan	nan
+nan	The pricing and now having to add drives large enough to install v.7	nan	nan	nan	nan	nan	nan	nan	nan
+nan	VMWare is a good solution for our environment, but the recent updates have caused issues in our environment.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Stun issue.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Compatibility and ease of use.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	SoluÃ§Ã£o madura, precisa melhorar a transiÃ§Ã£o para a o ambiente nuvem	DocumentaÃ§Ã£o precisa melhorar	nan	nan	NÃ£o utilizei	nan	NÃ£o utilizei	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	Implementing it	nan	nan	nan
+nan	Nuestros clientes trabajan con vSphere y es un exito.	nan	Lo usamos internamente y no he escuchado inconvenientes.	nan	nan	nan	nan	nan	nan
+nan	Vxrail can be difficult to troubleshoot. Upgrades take hours.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	7	6	nan	7	nan	nan	nan	nan	nan
+nan	nan	nan	vmware on public cloud, what's not to like?!	nan	tanzu brings a lot of great features to how we leverage cloud	nan	nan	Still the best endpoint product on the market.	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	It is a solution that many customers use.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Stable and secure	nan	nan	nan	nan	nan	nan	nan	nan
+nan	good	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ç›®å‰éƒ¨ç½²çš„è™šæ‹ŸåŒ–æ–¹æ¡ˆæ­£å¸¸è¿è¡Œä¸­ï¼Œç›®å‰è¿˜ç®—æ­£å¸¸ï¼ŒæŒºæ»¡æ„çš„	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Reliable and cost effective solution	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Stable use to achieve our daily development solutions	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Very easy to use	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	IIt would be a 7 if ops (monitoring, analyltic, operasional) is not a seperate modules and licenses.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ç›®å‰è™•æ–¼æ»¿æ„ç‹€æ…‹	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å¥½ç”¨	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	ä¾¿åˆ©ã ã‹ã‚‰	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ä»–ã®ã‚½ãƒ•ãƒˆãƒ™ãƒ³ãƒ€ãƒ¼ã¨ã®é€£æºãŒåˆ†ã‹ã‚Šã«ãã„	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	it is stable	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	ãƒ‘ãƒ•ã‚©ãƒ¼ãƒžãƒ³ã‚¹ãŒè‰¯ã„	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Our update to V7U2 failed and had us working for days to establish an stable environement.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Stability	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	We recently had some issues with changing a VxRail gateway IP on a host that ended up being a major process to make this change.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Passt soweit.	nan	nan	nan	nan	Passt soweit.	nan	nan	nan
+nan	Once properly installed, it works.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Funktioniert, verlÃ¤sslich	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Stabil, schnell	nan	nan	nan	nan	Stabil	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	lÃ¤uft bisher problemlos	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Stability, Ease of Update Process, Quality of product	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Few things not too good on current Ver7 ...	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	goes we think is the best solution	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Disparition de fonctionnalitÃ©s (Export OVF)	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSan, vxrail to compicated	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Update issues aside, works well.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Le paramÃ©trage est consÃ©quent. Ainsi, je pense que notre prestataire n'a pas optimisÃ© la solution	nan	nan	nan	nan	nan	nan	nan	nan
+nan	VMware vSphere	nan	nan	nan	nan	VMware Horizon	nan	nan	nan
+nan	See my previous comment	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Potente e flessibile, stabile.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	lo utilizziamo	lo utilizziamo	nan	nan	nan	lo utilizziamo	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	gut	gut	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Das System lÃ¤uft ruhig und stabil	nan	nan	nan	nan	nan	nan	nan	nan
+nan	gute Performance, vielfÃ¤ltige MÃ¶glichkeiten, Sicherheit aber auch mittlerweile schwierige Installation, bzw. Einrichtung	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Funktioniert stÃ¶rungsfrei	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Parce que ca marche bien !	nan	nan	nan	nan	nan	nan	nan	nan
+nan	viele der Optionen sind fÃ¼r KMU schlichtweg Overkill	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	unici in questa soluzione	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Overall a very solid product.  Very disappointed that after the number of years its been out, that I have to go to enterprise level to get a basic function like distrubuted switching.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Virtualizzazione affidabile.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Vsphere	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Lizenzierung nicht vollumfÃ¤nglich passend fÃ¼r uns	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å®‰å®šç¨¼åƒã—ã¦ã„ã‚‹	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ç®¡ç†è€…æ©Ÿèƒ½ã®é€²åŒ–ã«æœŸå¾…	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	portability, long-term stability	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å®‰å®šç¨¼åƒã—ã¦ã„ã‚‹ãŸã‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å°Žå…¥ã€é‹ç”¨ç®¡ç†ã®ç«‹å ´ã‹ã‚‰ã€å°Žå…¥å¾Œã«ãƒˆãƒ©ãƒ–ãƒ«ã«ãªã‚‹ã“ã¨ãŒã»ã¼ãªã„ã€‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å®‰å®šç¨¼åƒã€æ€§èƒ½	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ãƒªã‚½ãƒ¼ã‚¹æä¾›ã®è¿…é€Ÿæ€§	nan	nan	nan	nan	ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£å‘ä¸Š	æŸ”è»Ÿæ€§ã®å‘ä¸Š	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ç”¨é€”ã«åˆã£ã¦ã„ã‚‹	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å®‰å®šæ€§	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ã¨ã¦ã‚‚å®‰å®šã—ã¦å‹•ã„ã¦ã„ã¾ã™ã€‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å¤§ããªå•é¡Œãªãä½¿ãˆã¦ã¯ã„ã‚‹ã€‚	nan	nan	nan	nan	å•é¡Œãªãä½¿ãˆã¦ã¯ã„ã‚‹ã€‚	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Simple, interactive, easy deployment	nan	nan	nan	nan	nan	nan	nan	nan
+nan	StabilitÃ¤t. FlexibilitÃ¤t.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSpere GUI ist zu verspielt anstatt sich auf das Wesentliche zu konzentrieren und dessen Bedienung zu erleichtern.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	Keine Information und keine Migration zwischen NSX-V und NSX-T	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Small mystery issues	Huge platform and too much possibilities ;-)	nan	Great softwares, configuration is quit hard to do.	One of the easiest installation what I know	nan	New world just open...	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	I've had several issues with vSphere 7, and doesn't feel as comfortable as I used to.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	There's all great, except some servise pack revocations or early retirement of some hardware platforms (server generations).	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Wurde uns empfohlen	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vsphere 6.7 is working great	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	KomplexitÃ¤t fÃ¼r KMUs wird immer grÃ¶ÃŸer	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	æ¤œè¨¼ç”¨ã‚µãƒ¼ãƒãƒ¼ã«ESXãƒ»Horizonã‚’æ§‹ç¯‰ã§ãã‚‹ã®ã§ã€éžå¸¸ã«ä¾¿åˆ©ã§ã™ã€‚	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	VxRAILã§ä»®æƒ³ç’°å¢ƒã‚’æ§‹ç¯‰	nan	Pocä¸­ã®ãŸã‚	nan	nan	ç¤¾å†…ã§åˆ©ç”¨ã—ã¦ã„ã‚‹ãŒç›´æŽ¥ã®æ‹…å½“ã§ã¯ãªã„	nan	nan	nan
+nan	ãƒ¢ãƒã‚¤ãƒ«ãƒ¯ãƒ¼ã‚¯ç’°å¢ƒã‚’æ”¯ãˆã‚‹åŸºç›¤ã¨ã—ã¦æ´»ç”¨ã§ãã¦ã„ã‚‹ãŸã‚ã€‚	nan	nan	nan	nan	nan	ãƒ¢ãƒã‚¤ãƒ«ãƒ¯ãƒ¼ã‚¯ç’°å¢ƒã‚’æ”¯ãˆã‚‹åŸºç›¤ã¨ã—ã¦æ´»ç”¨ã§ãã¦ã„ã‚‹ãŸã‚ã€‚	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ä»®æƒ³ã‚µãƒ¼ãƒã®ç®¡ç†ãŒè¡Œã„æ˜“ã„ã€‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å½“ç¤¾ã«ã¯ã€ç„¡ãã¦ã¯ãªã‚‰ãªã„ã‚‚ã®ã§ã™ã€‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	The last 12 months have been a nightmare of substandard releases due to insufficient or poor QA. I have been a VMware administrator of small and large environments since the early days of GSX and this is without a doubt the most frustrating period I have been through in those 20 years. I have spent an inordinate amount of time patching, opening GSS cases, unpatching, rolling back, and reinstalling vSphere on new boot devices due to the sloppy, poorly documented (initially) rollout of VMFS-L in ESXi 7.x with respect to SD and USB-based media devices. USB-based boot devices have been a supported method for DECADES on this platform only to suddenly dumped rather unceremoniously with NO forewarning - and yes I am aware that guidance now states "will be unsupported in a future major release", but that was NOT the guidance after issues were first reported. Our 100% virtualized large infrastructure environment is completely diskless and this retrofit-requiring change will have massive financial and opportunity cost implications for our organization. vSphere has always been a rock-solid platform for enterprise virtualization requiring minimal day-to-day care and feeding - which has allowed me some focus on initiatives that advance my business' other goals, but this past year I have spent the entirety of my time dealing with the vSphere issues mentioned above. Want to know why we're not experimenting with Tanzu yet? With VMW on AWS yest? With NSX yet? Because ALL of my current time is devoted to simply keeping our core vSphere 7.x environment stable as a result of issues that should never have made it past QA! I'm hopeful these issues will pass soon given the tacit admission by VMware (by recalling them) that these releases were not up to normal VMware standards, but this past year has been a major black eye for vSphere as an enterprise infrastructure product in my opinion.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	usually it works well, but we also experienced few problems which were hard to debug/explain	nan	nan	nan	nan	nan	nan	nan	nan
+nan	.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSphereè£½å“ã®LifeCycleãŒã‚‚ã†å°‘ã—é•·ã„ã¨ã•ã‚‰ã«è‰¯ã„	nan	nan	ç‰¹ã«ãªã—	PKSã®å“è³ªãŒå®‰å®šã—ãªã„å°è±¡	Horizonã«é–¢é€£ã™ã‚‹ä¸å…·åˆæƒ…å ±ãŒå¤šã„å°è±¡	ç‰¹ã«ãªã—	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	After using bother VSAN and HyperV HCI its no question whose solution is superior.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	From my perspective as a consumer within a company leveraging VMware vSphere, the product has helped us achieve efficiency and scalability in the OT environment.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSphere	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSpher scores should be lower, as we have problems with updates /code issues	nan	nan	nan	nan	nan	WE jave [ircujased ot//ised tp be ,pre ex[emsive, now seems to be more sueful, less expensive. Now we need to deploy it.	nan	nan
+nan	nan	nan	nan	nan	nan	Application is not user friendly	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Falta de relacionamento com a VMWare, nÃ£o estÃ£o preocupados se estamos usando bem o produto, falta de atualizaÃ§Ã£o sobre tecnologias, dificuldade de contato	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	I am still new to using it and am unsure of specific data on how it's used at my company.	I am still new to using it and am unsure of specific data on how it's used at my company.	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Nothing Beats your hypervisor and its management	nan	nan	nan	nan	i don't know much about WS one.  View horizon is great howeve rit can be clunky and slow and support for it is lacking.	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vsphere	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Generally works pretty well.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	provide stable virtual machine environment	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	æ“ä½œå®¹æ˜“	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	ã‚«ãƒ¡ãƒ©ãƒ‡ãƒã‚¤ã‚¹ã®ãƒªãƒ€ã‚¤ãƒ¬ã‚¯ãƒˆã«ãŠã‘ã‚‹ãƒã‚°å¯¾å¿œä¸­ã®ãŸã‚	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	VMware vSphere Virtualization to reduce HW Management effor & Cost	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ãƒ‘ãƒƒãƒã®é©ç”¨æ‰‹é †ãŒç…©é›‘	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	deliver good performance with less issue in production	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	å®‰å®šã—ã¦ã„ã‚‹	nan	nan	nan
+nan	Around 75%	nan	nan	nan	nan	nan	Around 50-55 % ,	nan	nan
+nan	I was really amazed after using this.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSphere	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ãƒãƒ¼ã‚¸ãƒ§ãƒ³ãŒå¤ãã€ç®¡ç†ã‚µã‚¤ãƒˆãŒflashè£½ã§ä½¿ãˆãªã„	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ã‚µãƒ¼ãƒ“ã‚¹æä¾›ã«ãŠã„ã¦æ“ä½œæ€§ã®è‰¯ã•ã‚„æ©Ÿèƒ½ãŒå……å®Ÿã—ã¦ã„ã‚‹ãŸã‚	ã‚ªãƒ³ãƒ—ãƒ¬ãƒŸã‚¹ã«ã¦æ§‹ç¯‰ã™ã‚‹å ´åˆã®è¦ä»¶ã¨ã—ã¦å¿…è¦ååˆ†ã§ã‚ã‚‹ãŸã‚ã€‚	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã®æ“ä½œãŒã‚ã‹ã‚Šã‚„ã™ã„ãŸã‚	nan	nan	nan	nan	å‰ã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã®ãŸã‚å°‘ã—ã‚³ãƒ³ã‚½ãƒ¼ãƒ«ãŒé‡ã„	nan	nan	nan
+nan	éšœå®³å¾©æ—§ã®é€Ÿã•ã€å®‰å®šæ€§ã€æ‹¡å¼µæ€§	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ä»®æƒ³ã‚µãƒ¼ãƒç’°å¢ƒã‚’æ§‹ç¯‰ã—ã€ç‰©ç†ã‚µãƒ¼ãƒã«æ¯”ã¹ã¦ã‚³ã‚¹ãƒˆå‰Šæ¸›ãŠã‚ˆã³é‹ç”¨åŠ¹çŽ‡åŒ–ãŒå¯èƒ½ã§ã‚ã‚‹ãŸã‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	æ•°å¹´é–“éšœå®³ãŒå…¨ãèµ·ãã¦ã„ãªã„	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	sehr stabil	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	leicht zu administrieren	nan	nan	nan	nan	nan	flexible	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	k/a	k/a	nan	k/a	k/a	nan	k/a	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vsphere	nan	nan	nan	nan	horizon	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Not sure	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSphere ist besser, ausgereifter und performanter als Hyper-V.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSphere	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	AngekÃ¼ndigte in-Place Migration 3.x > 4.x doch nicht mÃ¶glich	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Vmware Vsphere	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Non utilizzo direttamente ma sono soddisfatta del prodotto in base all'uso fatto dai consulenti IT	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	VelocitÃ  di deploy VM	nan	nan	nan	nan	Sicurezza	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	modern and reliable	nan	nan	nan	nan	nan	modern and reliable	nan	nan
+nan	ConfianÃ§a	nan	nan	nan	nan	nan	ConfianÃ§a	ConfianÃ§a	nan
+nan	lentidÃ£o rede	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Easy management & deployment	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Sehr komplexe LÃ¶sungen. Ohne tiefgehende Schulungen nur schwer beim Kundne zu implementieren	nan	nan	nan	nan	Konnte ich bisher nur zu Testzwecken im Vergleich zu Citrix evaluieren	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Installationsprozess im Fehlerfall undurchsichtig	nan	nan	nan	nan	nan	nan	nan	nan
+nan	alle i.o.	nan	nan	nan	nan	Kein deutscher Support, keine Schulungen oder Webinare im Angebot, Fehlende Beratung seits VMware fÃ¼r den Ausbau der LÃ¶sung	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Expandability has limitations	nan	nan	nan	nan	Some limitations	nan	Works VERY well.  VERY pleased.	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Best Hypervisor	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	VxRail install still pending	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	does the job	nan	nan	nan	nan	only parly implemented, so not yet much experience	NSX-T just implementing, no production yet.	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å“è³ªãŒå®‰å®šã—ã¦ã„ã‚‹	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å®‰å®šã—ã¦ã„ã‚‹	nan	nan	nan	nan	å°‘ã—ãƒ‡ãƒªã‚±ãƒ¼ãƒˆãªã¨ã“ã‚ãŒã‚ã‚‹	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	my score is base  on my work with vSphere	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ä¸Šæ‰‹è·Ÿæ“ä½œçš„é›£æ˜“åº¦æœ‰å¾…æ”¹å–„ï¼Œå¸Œæœ›å¯ä»¥æ›´ç›´è¦ºæ›´å¥½ä¸Šæ‰‹æ“ä½œï¼	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Great performance and experience all around.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Reliable performance	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	long-term stability and reliability	nan	nan	nan	nan	nan	recent access to NSX allows us to test it	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Globalement satisfait. Qques pb avec les mises Ã  jour des VMware Tools.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	molto pratico e semplice	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	It works	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ä¸å…·åˆãŒãªã„	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Vmware Vsphere and vSAN	VCF	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	it's a good product and it works	nan	nan	nan	nan	nan	it's a good product and it works	nan	nan
+nan	Soluzione flessibile e completa	nan	nan	nan	nan	nan	Soluzione flessibile e completa	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Easy maintenance	nan	nan	nan	nan	nan	Easy segmentation	nan	nan
+nan	Jahrelanger Einsatz ohne grÃ¶ÃŸere Probleme	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ê°€ìƒì„œë²„ë¥¼ ê´€ë¦¬í•  ìˆ˜ ìžˆëŠ” ê¸°ëŠ¥ì´ ì œí•œì ì´ë‹¤.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Good reliable platform	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	UI need to be easier to use. No hidden links that you need to hover over to find.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Frequent release of bad patches.	Product not as complete or polished as needed to complete what it sells.	nan	Migration from version 7 to version 8.	nan	Complication with consolidating tools with other vendors options.	Implementation is painful.	nan	nan
+nan	nan	nan	nan	nan	I can only respond in relation to Vmware support on capability enablement for their tanzu products. The Pandora skills guild was a good start for this, and we're hoping that we can continue the initiative with them this 2022.	nan	nan	nan	nan
+nan	Easy licensing	nan	Easy to use	Good management	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	The solutions are solid, but not innovative	nan	nan	We are really trying hard to exit this platform	nan	It works, but is not feature rich	It was an abyssmal failure in our DCs, exiting	nan	nan
+nan	ç¤¾å†…ã®æ¤œè¨¼ç’°å¢ƒã§ã®åˆ©ç”¨ã«é™å®šã—ã¦ã®åˆ¤æ–­	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	æŸ”è»Ÿæ€§ãŒã‚ã‚‹(å¯¾éšœå®³ã€å†—é•·åŒ–)	nan	nan	nan	æŸ”è»Ÿæ€§ãŒã‚ã‚‹(å¯¾éšœå®³ã€å†—é•·åŒ–)	nan	å¼·åŒ–ã«ã¤ãªãŒã£ã¦ã„ã‚‹	nan
+nan	I have an issue selling VMware products with Cisco Hardware	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Simplified storage	Simplified deployment	nan	nan	nan	nan	Network virtualization	nan	nan
+nan	Very reliable.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	It Worms great	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	VMHorizon, didnt meet our business requimrents. we had to drop the project in 3 months. Workspace1 we have just initated.	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	6	nan	nan	nan	nan	nan	6	6	nan
+nan	è£½å“å®Œæˆåº¦ãŒé«˜ã„	nan	nan	nan	nan	è£½å“å®Œæˆåº¦ãŒé«˜ã„	nan	nan	nan
+nan	No Words.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	It works pretty well. No nonsense product	nan	nan	nan	nan	Features are not comparable with competitors	nan	nan	nan
+nan	ç‰©ç†PCã®éƒ¨é–€ã‚µãƒ¼ãƒãƒ¼ã®ä»®æƒ³åŒ–ã‚’è¡Œã†éš›ã«éžå¸¸ã«å½¹ã«ç«‹ã£ã¦ãŠã‚Šã¾ã™ã€‚ã‚ã¨å¼Šç¤¾è£½å“è©•ä¾¡ã®éš›ã«ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯æ§‹æˆã«ã¤ã„ã¦ã‚‚ä»®æƒ³åŒ–ã§ãã‚‹ã“ã¨ãŒéžå¸¸ã«å½¹ã«ç«‹ã£ã¦ãŠã‚Šã¾ã™ã€‚æº€ç‚¹ã§ã¯ãªã„ç†ç”±ã¯ã‚ªãƒ³ãƒ©ã‚¤ãƒ³ãƒžãƒ‹ãƒ¥ã‚¢ãƒ«ãŒæ¤œç´¢ã—è¾›ã„ã¨ã“ã‚ã§ã™ã€‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ç”¢å“é‚„ç®—ç©©å®š	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSphereã®å®‰å®šæ€§	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ä»Žç®¡ç†å’Œä½¿ç”¨ä¸Šå‡æ¯”è¾ƒæ»¡æ„	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	After given support, the trouble still coming again.	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Reliable	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	8	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ease of deployment	nan	nan	nan	ease of deployment	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	ç‰¹ã«ä¸æº€ã¯ã”ã–ã„ã¾ã›ã‚“ã€‚	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	å¾…ã¡æ™‚é–“ãŒé•·ã„æ™‚ãŒã‚ã‚‹	nan	nan	nan
+nan	ç”¢å“å¯é , ä½†å°ç¡¬é«”èˆ‡è»Ÿé«”æ­é…ä¸æ»¿æ„,æ¯”å¦‚vCenteræœ‰å®‰å…¨æ€§æ›´æ–°ç‰ˆæœ¬å¯ç”¨, å»è¦ç­‰å¯é…åˆä½¿ç”¨çš„RecoverPoint for VMsç‰ˆæœ¬æœ‰é‡‹å‡ºæ‰èƒ½ä½¿ç”¨, æˆ–æ˜¯è¦ç­‰å°ˆç‚ºVxRail å°ˆå±¬çš„vCenterç‰ˆæœ¬å‡ºç¾,æ‰èƒ½ä¿®è£œvCenterçš„å®‰å…¨æ€§æ¼æ´ž.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ãƒŽãƒ¼ãƒ‰ã®è¿½åŠ ã‚„å…¥æ›¿ä½œæ¥­ãŒç…©é›‘ã€‚Dellã®æŠ€è¡“è€…ã®ã‚¹ã‚­ãƒ«ãŒä¸å……åˆ†ã€‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	æ…£ã‚Œè¦ªã—ã‚“ã§ã„ã‚‹ã‹ã‚‰ã€‚	nan	nan	nan	nan	VDIç’°å¢ƒã¨ã—ã¦ä¸€å®šã®è©•ä¾¡ãŒã§ãã‚‹ã¨åˆ¤æ–­ã€‚	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	åœç•™åœ¨ç©©å®šä½¿ç”¨	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	é«˜å¯ç”¨æ€§	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	good customer service	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSphereã¯ä»®æƒ³åŒ–ã€å†—é•·åŒ–ã«ã¯åŠ©ã‹ã£ã¦ã„ã‚‹ã€‚	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ä½¿ã„ã‚„ã™ãã€å®‰å®šã—ã¦ã„ã‚‹	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ã‚ªãƒ©ã‚¯ãƒ«ã¨ã®é–¢ä¿‚ã‚’é™¤ã„ã¦ç‰¹ã«ä¸æº€ç„¡ã—	nan	nan	nan	nan	VDIã§ã®WindowsãŒSleepã—ãŸå¾Œã®å¾©å¸°ã«ã¤ã„ã¦ã®ãƒˆãƒ©ãƒ–ãƒ«ã§å¯¾å¿œãŒæ‚ªã‹ã£ãŸ	nan	nan	nan
+nan	KBã®æ¤œç´¢æ©Ÿèƒ½å‘ä¸Š	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	ã‚·ãƒ³ã‚¯ãƒ©ã‚¤ã‚¢ãƒ³ãƒˆã¨åˆ©ç”¨ã—ã¦ãŠã‚Šã€è©•ä¾¡ã—ã¦ã„ã‚‹	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ESXi is just harder to use than Hyper-V	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	è¨­å‚™é›†ä¸­ç®¡ç†ï¼Œç¯€çœè³‡æºåŠäººåŠ›	nan	nan	nan	nan	nan	éœ€æ­é…å…¶ä»–è»Ÿé«”æ‰èƒ½ç™¼æ®æ•ˆæžœï¼Œæ“ä½œä»‹é¢ä¸å‹å–„	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Die LÃ¶sung funktioniert gut, hat aber einfach ein paar Ã¤rgerliche Bugs, Ã¼ber die man auch noch andauernd fÃ¤llt. Nichts schwerwiegendes oder den Betrieb gefÃ¤hrdendes, aber einfach nervig.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	We dont have direct communocation channel with vmware need to establish those to see what all is being offered by vmware	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	Please see my comments on what can be improved.	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Because vSphere has proven to be very stable	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	ã‚¹ã‚±ãƒ¼ãƒ©ãƒ–ãƒ«ãªVPCç®¡ç†	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Simplify, Robust and less down time. Improve production efficiency	nan	nan	nan	nan	Robust product and less down time to sustain the client access	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	leading backup and recovery for all VMs	Stop more attacks and control your endpoints	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSphere works well!	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	The score is good but can always be better.	nan	nan	nan	nan	New to this so finding it difficult to understand all of it	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	-	nan	nan	nan	nan	nan	-	-	nan
+nan	Sempre efficiente senza problemi	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Your solution is ok	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	It works and is stable.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Product security and extensibility to other sites	nan	nan	vRealize Operations is a good product but the latest releases show there is no vision on this product	nan	nan	Very satisfied with NSX	nan	nan
+nan	Techniquement trÃ¨s bon	nan	nan	Un peu complexe de mise en oeuvre	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Dell EMC VxRailãŒè³ªå•ã«å«ã¾ã‚Œã¦ã„ãªã‘ã‚Œã°ã€éžå¸¸ã«æº€è¶³ã€ã¨å›žç­”ã—ã¾ã™ã€‚VxRailã¯ã‚µãƒãƒ¼ãƒˆä½“åˆ¶ãŒè„†å¼±ã§ã€VMwareè£½å“ã®ä¾¡å€¤ã‚’è²¶ã‚ã¦ã„ã‚‹ã¨è€ƒãˆã¦ã„ã¾ã™ã€‚	nan	nan	nan	nan	ãŠãŠã‚€ã­è£½å“ã«ã¯æº€è¶³ã—ã¦ã„ã¾ã™ãŒã€ã‚³ã‚¹ãƒˆã®ç‚¹ã§ã€æº€è¶³ã§ããªã„ã“ã¨ãŒãŠãŠã„ã§ã™ã€‚	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	v	nan	nan	nan	nan	nan	nan	nan	nan
+nan	sehr gutes Produkt	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Stable and effective. Secures reliable datacenter operations	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	simple et efficace	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Our customers have solution base on VMware vSphere mostly	nan	nan	nan	nan	nan	nan	nan	nan
+nan	pratique facile d usage	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	Not always easy to navigate the console	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	The solutions work fine although they might not be the greatest solutions in todays market (i just have no knowledge of competitive vendors)	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	an sich stabiler Betrieb, Major Upgrade trotz namenhafter Dienstleister immer aufwendig, UnnÃ¶tiges Versionswirrwar / kompatibilitÃ¤tsprobleme aufgrund Kundenunfreundlicher Lizenzmodelle	nan	nan	nan	nan	Horizon toll wenn es funktioniert, Troubleshooting erfordert immer sehr viel zeit. UnnÃ¶tiges Versionswirrwar / kompatibilitÃ¤tsprobleme aufgrund Kundenunfreundlicher Lizenzmodelle	nan	nan	nan
+nan	nan	nan	nan	nan	nan	Not intuitive	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Good products and just what my company requires	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Anfrage	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	We purchased a new server and it was configured with VMware vSphere and it works as expected.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	correspond Ã  mes besoins	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Solid, dependable product that does what we need.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	The HTML5 client is still not great.	nan	nan	There are many problems that we struggle to solve due to limitations with vRA/vRO and VROps	nan	There is too much focus on combining these two products and the Mobile management in large organizations is often managed by a different group vs VDI	We continue to have mystery issues with NSX but it could be worse	nan	nan
+nan	Vsphere functionality and versatility is great	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Would like more support for the newest Microsoft versions	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Very complicate vxRails update process	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Everything works.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	interlinking of solution and itâ€™s complexity	nan	nan	nan	nan	nan	nan	nan	nan
+nan	I  think it is the best product on the market	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	experience with the platforms	nan	nan	nan	nan	nan	nan	nan
+nan	vSphere runs all the Operating Systems we need and allows us to back them up.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	My system was ordered with BOSS technology instead of dual SD cards. My system is a bit more reliable.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Ease of use & options for expansion	nan	nan	nan	nan	nan	nan	nan	nan
+nan	We need better reporting, forecasting and troubleshooting tools.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	We are overall quite successful with these products but vendor integration is lacking.  There is allot of fluff with partners like Dell and HPE around integration and updates that do not come to fruition.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSphere	nan	nan	nan	nan	VMWare Horizont	nan	nan	nan
+nan	ESXI, Vcenter does what its supposed to do and makes sense most of the the time.  Just isn't as intuitive as it could be.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Si	nan	nan	nan	nan	nan	nan	nan	nan
+nan	the last update was buggy	nan	nan	nan	nan	nan	nan	nan	nan
+nan	reliability	doesn't really doi that much for us yet	nan	incomplete itegration of open source solutions makes some things unusable especially in automation	appears to be stable - but therre have been some srious bugs in dev env and incompleteness in TMC	this has been relable and provided the needed performance	its amazing what SDN can offer - but vmware does not provide enoiugh insight into how things really work	this is a stable and reliable product	nan
+nan	nan	organization of data	nan	nan	nan	nan	nan	nan	nan
+nan	It works but heaven help me if I have an issue	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Security issues, antiquated interfaces. Management only available on certain platforms. Fusion not even close to Workstation in remote management features.	nan	Fast implementation without hardware or network infrastructure investment.	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	I have had a couple of issues surrounding these tools and the support. The purchasing process and customer involvement in even the renewal process is a night mare sometimes. They don't email me renewal notices and everything becomes pretty difficult.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	I'd like to be able to update it ourselves rather than have to rely on consultants so much. That's down to my lack of training more than anything else	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Reliable and stable	nan	Never been an advocate of the storing data outside of secured facilities that are controlled by company.	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Good products can always improve.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å”åŠ©ç³»çµ±æ•´åˆ	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	æœ‰è§£æ±ºå…¬å¸é‡åˆ°çš„å•é¡Œ	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSAN wastes so much space.	nan	nan	nan	nan	nan	nan	nan	nan
+nan	å®‰å®šç¨¼åƒã—ã¦ã„ã‚‹ã‹ã‚‰	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	I use VDI to do my work.  I am an end user.  I do not administrate these systems and sometimes I get what I need, sometimes not.  It has not replaced remote access to my desktop PC.	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Update QualitÃ¤t	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Its a very stable platform with good performance	nan	nan	nan	nan	nan	nan	nan	nan
+nan	ãƒˆãƒ©ãƒ–ãƒ«ãŒç™ºç”Ÿã—ã¦ã„ãªã„	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Utilisation quotidienne de la solution au travail	nan	nan	nan	nan	nan	Utilisation quotidienne de la solution au travail	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	No problems so far	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	Overall a good product. Some configurations are poorly documented.	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	LÃ¤uft...	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	it completely meet expectations	nan	nan	nan	nan	works smoothly without troubles	nan	nan	nan
+nan	???	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	cumple perfectamente con las necesidades actuales	nan	nan	nan	nan	nan	nan	nan	nan
+nan	8	8	8	8	nan	nan	8	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	VMWare vSphere	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	Mala integraciÃ³n con varios sistemas operativos	nan	nan	nan	nan	nan
+nan	Weil es geht; allerdings macht ESX7.0 bei uns div. Probleme auf Dell-Hardware	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	6	nan	nan	nan	nan	6	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	Son soluciones solidas y estables con grandes beneficios para el cliente	nan	nan	nan	nan	VDI es una muy buena solucion como asi tambien WS1, solo que sus costos no logran hacer que se adopte mucho mas.	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSphere is working without issues	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	vSphereã‚’ã¯ã˜ã‚ã¨ã™ã‚‹ Data Center Virtualization solutionã¯å …ç‰¢ã‹ã¤å®‰å®šæ€§ãŒé«˜ã„ã“ã¨	nan	nan	nan	nan	éžå¸¸ã«æŸ”è»Ÿæ€§ã®é«˜ã„MDMã¨ãƒªãƒ¢ãƒ¼ãƒˆã‚¢ã‚¯ã‚»ã‚¹ã‚¤ãƒ³ãƒ•ãƒ©ã€‚ç«¶åˆä»–ç¤¾è£½å“ã‚ˆã‚Šã‚‚æ§‹æˆæŸ”è»Ÿæ€§ãŒé«˜ã„ã¨æ„Ÿã˜ã‚‹ã€‚	nan	nan	nan
+nan	Estoy conforme con el funcional pero me parece elevado el costo de upgrade y soportes	nan	nan	nan	nan	conforme en general	nan	nan	nan
+nan	Works well and reliable	nan	nan	nan	nan	Works well but have room to get better	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	so far no issues I met	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan
+nan	nan	nan	nan	nan	nan	nan	nan	nan	nan

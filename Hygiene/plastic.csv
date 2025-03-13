@@ -1,0 +1,93 @@
+﻿item_name,plastic_type,plastic_landfil_factor,plastic_burning_factor,plastic_treatment
+PB-Peanut Butter,PET,0.06,2.9,1.23
+MN-Mayonnaise,PET,0.06,2.9,1.23
+SLD-Salad Dressings,PET,0.06,2.9,1.23
+SS-Sandwich Spread,MLP,0.06,2.9,-1.586
+BI-Biscuits,MLP,0.06,2.9,-1.586
+AT-Atta,LDPE,0.06,2.9,1.586
+CF-Confectionery,MLP,0.06,2.9,-1.586
+CK-Cake,PP,0.06,2.9,1.586
+DF-Dairy Foods,PET,0.06,2.9,1.23
+ND-Noodles,PP,0.06,2.9,1.586
+PD-Pizza Dough,MLP,0.06,2.9,-1.586
+RT-Ready to Eat,MLP,0.06,2.9,-1.586
+SA-Salt,PET,0.06,2.9,1.23
+SI-Spices,PET,0.06,2.9,1.23
+SX-Snacks,MLP,0.06,2.9,-1.586
+JU-Juices,PET,0.06,2.9,1.23
+DA-Distributor Atta,LDPE,0.06,2.9,1.586
+SR-Sweet Serups,HDPE,0.06,2.9,0.96
+SU-Sweet Sauces,HDPE,0.06,2.9,0.96
+CM-Cake Mixes,MLP,0.06,2.9,-1.586
+ST-Starch,MLP,0.06,2.9,-1.586
+SJ-Suji,MLP,0.06,2.9,-1.586
+BD-Bread,LDPE,0.06,2.9,1.586
+RS-Rusk,MLP,0.06,2.9,-1.586
+CR-Cream,MLP,0.06,2.9,-1.586
+DB-Dairy Best Milk,MLP,0.06,2.9,-1.586
+DM-Dairy Milk,MLP,0.06,2.9,-1.586
+FE-Fruit Plup,MLP,0.06,2.9,-1.586
+FOOD-Mix,MLP,0.06,2.9,-1.586
+IC-Instant Cofee,MLP,0.06,2.9,-1.586
+IC-Instant Coffee,MLP,0.06,2.9,-1.586
+MIX,MLP,0.06,2.9,-1.586
+SN-Pasta,MLP,0.06,2.9,-1.586
+CH-Chocolates,MLP,0.06,2.9,-1.586
+RG-Roasted & Ground Coffee,MLP,0.06,2.9,-1.586
+CMP-Chocolate & Milk Powder,MLP,0.06,2.9,-1.586
+FV-Fresh Vegetables,None,0,0,0
+MB-MAIDA BAKERY,MLP,0.06,2.9,-1.586
+MF-Mixed Food,MLP,0.06,2.9,-1.586
+RC-Fried Chicken,MLP,0.06,2.9,-1.586
+VO-Vegetable Oil,LDPE,0.06,2.9,1.586
+BM-Blended Masalas,MLP,0.06,2.9,-1.586
+BV-Beverages,PET,0.06,2.9,1.23
+IM-Instant Mixes,MLP,0.06,2.9,-1.586
+PS-Pure Spices,MLP,0.06,2.9,-1.586
+SV-Savories,MLP,0.06,2.9,-1.586
+SW-Sweet,MLP,0.06,2.9,-1.586
+VE-Vermicelli,MLP,0.06,2.9,-1.586
+TE-Tea,MLP,0.06,2.9,-1.586
+SO-Soda,MLP,0.06,2.9,-1.586
+BS-Besan,MLP,0.06,2.9,-1.586
+PL-Pulses,MLP,0.06,2.9,-1.586
+VG-Ready to Eat(Veg),MLP,0.06,2.9,-1.586
+TQ-TataQ,MLP,0.06,2.9,-1.586
+NV-Ready to Eat(Non Veg),MLP,0.06,2.9,-1.586
+PU-Puri,MLP,0.06,2.9,-1.586
+SEV-Sev,MLP,0.06,2.9,-1.586
+AD-Ambient Dips,MLP,0.06,2.9,-1.586
+AP-Appitas,MLP,0.06,2.9,-1.586
+MY-Mayo Tube,MLP,0.06,2.9,-1.586
+NC-Naan Chips,MLP,0.06,2.9,-1.586
+SUT-Sauce Tube,MLP,0.06,2.9,-1.586
+CORN-Corn,MLP,0.06,2.9,-1.586
+GRE-Green peas,MLP,0.06,2.9,-1.586
+DORB-Rice Bran,MLP,0.06,2.9,-1.586
+SUN-Sunflower Seed,MLP,0.06,2.9,-1.586
+PH-Peanut Husk,MLP,0.06,2.9,-1.586
+ACV-Apple Cider Vinegar,MLP,0.06,2.9,-1.586
+PO-Poha,MLP,0.06,2.9,-1.586
+SF-Soulfull,MLP,0.06,2.9,-1.586
+ALM-Almond,MLP,0.06,2.9,-1.586
+CAS-Cashew,MLP,0.06,2.9,-1.586
+NUT-Nuts Mix,MLP,0.06,2.9,-1.586
+PEA-Peanut,MLP,0.06,2.9,-1.586
+DP-Dairy Milk Powder,MLP,0.06,2.9,-1.586
+DMP-Dairy Milk Powder,MLP,0.06,2.9,-1.586
+CER-Cereal,MLP,0.06,2.9,-1.586
+ROT-Rotis,MLP,0.06,2.9,-1.586
+RTE-Ready To Eat,MLP,0.06,2.9,-1.586
+FPSH-Potato Starch,MLP,0.06,2.9,-1.586
+FSSK-Snacks,MLP,0.06,2.9,-1.586
+ATT-Atta,LDPE,0.06,2.9,1.586
+TOR-Tortilla Wraps,MLP,0.06,2.9,-1.586
+SCS-Snacks&Chips Seasoning Rejects,MLP,0.06,2.9,-1.586
+SK-Sticks,MLP,0.06,2.9,-1.586
+SDS-Seeds,MLP,0.06,2.9,-1.586
+PU-Puri,MLP,0.06,2.9,-1.586
+SEV-Sev,MLP,0.06,2.9,-1.586
+BAT-Batter,MLP,0.06,2.9,-1.586
+SNA-Snacks,MLP,0.06,2.9,-1.586
+Garlic Peel,None,0,0,0
+CAK-Cake,PP,0.06,2.9,1.586

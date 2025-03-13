@@ -1,0 +1,634 @@
+,customer_name,item_name,Rate
+0,Alpha FMCG Pvt. Ltd.,AT-Atta,10
+1,Alpha FMCG Pvt. Ltd.,BI-Biscuits,10
+2,Alpha FMCG Pvt. Ltd.,CF-Confectionery,10
+3,Alpha FMCG Pvt. Ltd.,CK-Cake,10
+4,Alpha FMCG Pvt. Ltd.,DF-Dairy Foods,10
+5,Alpha FMCG Pvt. Ltd.,ND-Noodles,10
+6,Alpha FMCG Pvt. Ltd.,PD-Pizza Dough,10
+7,Alpha FMCG Pvt. Ltd.,RT-Ready to Eat,10
+8,Alpha FMCG Pvt. Ltd.,SA-Salt,10
+9,Alpha FMCG Pvt. Ltd.,SI-Spices,10
+10,Alpha FMCG Pvt. Ltd.,SX-Snacks,10
+11,Alpha FMCG Pvt. Ltd.,TS-Toilet Soap,10
+12,Bagrry India Pvt. Ltd.,CER-Cereal,10
+13,Britannia Industries Ltd Karnataka,BIS-Biscuit,10
+14,Britannia Industries Ltd Karnataka,CAK-Cake,10
+15,Britannia Industries Ltd Karnataka,MLK-Milk,10
+16,Britannia Industries Ltd Karnataka,RSK-Rusk,10
+17,Compact India Pvt. Ltd.,PB-Peanut Butter,10
+18,Crimsonwave Private Limited,DA-Distributor Atta,10
+19,Fuerst Day Lawson (India) Pvt. Ltd.,BI-Biscuits,10
+20,Fuerst Day Lawson (India) Pvt. Ltd.,IC-Instant Cofee,10
+21,Fuerst Day Lawson (India) Pvt. Ltd.,SR-Sweet Serups,10
+22,Fuerst Day Lawson (India) Pvt. Ltd.,SU-Sweet Sauces,10
+23,General Mills India Delhi,AT-Atta,10
+24,General Mills India Delhi,CM-Cake Mixes,10
+25,General Mills India Delhi,ST-Starch,10
+26,General Mills India Karnataka,AT-Atta,10
+27,General Mills India Karnataka,BI-Biscuits,10
+28,General Mills India Karnataka,CM-Cake Mixes,10
+29,General Mills India Karnataka,SW-Sweet,10
+30,General Mills India Maharashtra,AT-Atta,10
+31,General Mills India Maharashtra,CM-Cake Mixes,10
+32,General Mills India Maharashtra,SJ-Suji,10
+33,General Mills India Maharashtra,ST-Starch,10
+34,General Mills India Punjab,AT-Atta,10
+35,General Mills India Punjab,CM-Cake Mixes,10
+36,General Mills India Punjab,ST-Starch,10
+37,General Mills India Pvt Ltd. Goa,AT-Atta,10
+38,General Mills India Pvt Ltd. Kerala,AT-Atta,10
+39,General Mills India Pvt Ltd. Kerala,CM-Cake Mixes,10
+40,General Mills India Tamil Nadu,AT-Atta,10
+41,General Mills India Tamil Nadu,BI-Biscuits,10
+42,General Mills India Tamil Nadu,CM-Cake Mixes,10
+43,General Mills India Tamil Nadu,SJ-Suji,10
+44,General Mills India Telangana,AT-Atta,10
+45,General Mills India Telangana,CM-Cake Mixes,10
+46,General Mills India Uttar Pradesh,AT-Atta,10
+47,General Mills India Uttar Pradesh,CM-Cake Mixes,10
+48,General Mills India Uttar Pradesh,ROT-Rotis,10
+49,General Mills India Uttar Pradesh,ST-Starch,10
+50,General Mills India West Bengal,CM-Cake Mixes,10
+51,Great Brown Foods India Pvt Ltd,AT-Atta,10
+52,Great Brown Foods India Pvt Ltd,BD-Bread,10
+53,Great Brown Foods India Pvt Ltd,BI-Biscuits,10
+54,Great Brown Foods India Pvt Ltd,RS-Rusk,10
+55,Greendot Health Foods Pvt Ltd.,ALM-Almond,10
+56,Greendot Health Foods Pvt Ltd.,CAS-Cashew,10
+57,Greendot Health Foods Pvt Ltd.,GRE-Green peas,10
+58,Greendot Health Foods Pvt Ltd.,NUT-Nuts Mix,10
+59,Greendot Health Foods Pvt Ltd.,PEA-Peanut,10
+60,Greendot Health Foods Pvt Ltd.,SCS-Snacks&Chips Seasoning Rejects,10
+61,Greendot Health Foods Pvt Ltd.,SUN-Sunflower Seed,10
+62,Greendot Health Foods Pvt Ltd.,TOR-Tortilla Wraps,10
+63,Happy Jars,PH-Peanut Husk,10
+64,ID Fresh Food India Pvt. Ltd.,BAT-Batter,10
+65,ID Fresh Food India Pvt. Ltd.,BRE-Bread,10
+66,ID Fresh Food India Pvt. Ltd.,CRD-Curd,10
+67,ID Fresh Food India Pvt. Ltd.,ROT-Rotis,10
+68,ITC DEL Distributors,ABAG-Atta Bags,10
+69,ITC DEL Distributors,AG-Agarbatti,10
+70,ITC DEL Distributors,AL-Antispectic Liquid,10
+71,ITC DEL Distributors,AT-Atta,10
+72,ITC DEL Distributors,BI-Biscuits,10
+73,ITC DEL Distributors,CF-Confectionery,10
+74,ITC DEL Distributors,CH-Chocolates,10
+75,ITC DEL Distributors,CR-Cream,10
+76,ITC DEL Distributors,DB-Dairy Best Milk,10
+77,ITC DEL Distributors,DF-Dairy Foods,10
+78,ITC DEL Distributors,DM-Dairy Milk,10
+79,ITC DEL Distributors,DT-Deodrant,10
+80,ITC DEL Distributors,FC-Floor Cleaner,10
+81,ITC DEL Distributors,FOOD-Mix,10
+82,ITC DEL Distributors,FW-Facewash,10
+83,ITC DEL Distributors,GU-Gum,10
+84,ITC DEL Distributors,HS-Hand Sanitizer,10
+85,ITC DEL Distributors,HW-Hand Wash,10
+86,ITC DEL Distributors,HW-Handwash,10
+87,ITC DEL Distributors,IC-Instant Cofee,10
+88,ITC DEL Distributors,IC-Instant Coffee,10
+89,ITC DEL Distributors,JU-Juices,10
+90,ITC DEL Distributors,MF-Mixed Food,10
+91,ITC DEL Distributors,MIX,10
+92,ITC DEL Distributors,MP-Mixed PCP,10
+93,ITC DEL Distributors,ND-Noodles,10
+94,ITC DEL Distributors,NG-Nicotine Gum,10
+95,ITC DEL Distributors,OP-Body oil,10
+96,ITC DEL Distributors,PCP-Mix,10
+97,ITC DEL Distributors,PR-Premium Range,10
+98,ITC DEL Distributors,RT-Ready to Eat,10
+99,ITC DEL Distributors,SA-Salt,10
+100,ITC DEL Distributors,SD-Spray Disinfect,10
+101,ITC DEL Distributors,SG-Shower Gel,10
+102,ITC DEL Distributors,SI-Spices,10
+103,ITC DEL Distributors,SN-Pasta,10
+104,ITC DEL Distributors,SX-Snacks,10
+105,ITC DEL Distributors,TA-Talc,10
+106,ITC DEL Distributors,TS-Toilet Soap,10
+107,ITC DEL Distributors,WA-Waste Atta Bag,10
+108,ITC DEL Distributors,WJ-Waste Juice,10
+109,ITC DEL Distributors,WP-Waste PCP,10
+110,ITC DEL Distributors,WR-Waste Wrappers,10
+111,ITC DEL WH Ghaziabad,AG-Agarbatti,10
+112,ITC DEL WH Ghaziabad,AL-Antispectic Liquid,10
+113,ITC DEL WH Ghaziabad,AT-Atta,10
+114,ITC DEL WH Ghaziabad,BI-Biscuits,10
+115,ITC DEL WH Ghaziabad,CF-Confectionery,10
+116,ITC DEL WH Ghaziabad,DF-Dairy Foods,10
+117,ITC DEL WH Ghaziabad,DT-Deodrant,10
+118,ITC DEL WH Ghaziabad,HS-Hand Sanitizer,10
+119,ITC DEL WH Ghaziabad,HW-Hand Wash,10
+120,ITC DEL WH Ghaziabad,HW-Handwash,10
+121,ITC DEL WH Ghaziabad,IC-Instant Cofee,10
+122,ITC DEL WH Ghaziabad,IC-Instant Coffee,10
+123,ITC DEL WH Ghaziabad,MP-Mixed PCP,10
+124,ITC DEL WH Ghaziabad,ND-Noodles,10
+125,ITC DEL WH Ghaziabad,RT-Ready to Eat,10
+126,ITC DEL WH Ghaziabad,SA-Salt,10
+127,ITC DEL WH Ghaziabad,SG-Shower Gel,10
+128,ITC DEL WH Ghaziabad,SI-Spices,10
+129,ITC DEL WH Ghaziabad,SN-Pasta,10
+130,ITC DEL WH Ghaziabad,SX-Snacks,10
+131,ITC DEL WH Ghaziabad,TS-Toilet Soap,10
+132,ITC DEL WH Hamidpur,AT-Atta,10
+133,ITC DEL WH Hamidpur,BI-Biscuits,10
+134,ITC DEL WH Hamidpur,CF-Confectionery,10
+135,ITC DEL WH Hamidpur,DF-Dairy Foods,10
+136,ITC DEL WH Hamidpur,DT-Deodrant,10
+137,ITC DEL WH Hamidpur,HW-Handwash,10
+138,ITC DEL WH Hamidpur,ND-Noodles,10
+139,ITC DEL WH Hamidpur,RT-Ready to Eat,10
+140,ITC DEL WH Hamidpur,SI-Spices,10
+141,ITC DEL WH Hamidpur,SN-Pasta,10
+142,ITC DEL WH Hamidpur,SX-Snacks,10
+143,ITC DEL WH Hamidpur,TS-Toilet Soap,10
+144,ITC DEL WH Hassangarh,AT-Atta,10
+145,ITC DEL WH Hassangarh,BI-Biscuits,10
+146,ITC DEL WH Hassangarh,CF-Confectionery,10
+147,ITC DEL WH Hassangarh,CH-Chocolates,10
+148,ITC DEL WH Hassangarh,CR-Cream,10
+149,ITC DEL WH Hassangarh,DF-Dairy Foods,10
+150,ITC DEL WH Hassangarh,DM-Dairy Milk,10
+151,ITC DEL WH Hassangarh,DT-Deodrant,10
+152,ITC DEL WH Hassangarh,FC-Floor Cleaner,10
+153,ITC DEL WH Hassangarh,FW-Facewash,10
+154,ITC DEL WH Hassangarh,HS-Hand Sanitizer,10
+155,ITC DEL WH Hassangarh,HW-Handwash,10
+156,ITC DEL WH Hassangarh,IC-Instant Cofee,10
+157,ITC DEL WH Hassangarh,JU-Juices,10
+158,ITC DEL WH Hassangarh,MF-Mixed Food,10
+159,ITC DEL WH Hassangarh,MP-Mixed PCP,10
+160,ITC DEL WH Hassangarh,ND-Noodles,10
+161,ITC DEL WH Hassangarh,PR-Premium Range,10
+162,ITC DEL WH Hassangarh,RT-Ready to Eat,10
+163,ITC DEL WH Hassangarh,SA-Salt,10
+164,ITC DEL WH Hassangarh,SG-Shower Gel,10
+165,ITC DEL WH Hassangarh,SI-Spices,10
+166,ITC DEL WH Hassangarh,SN-Pasta,10
+167,ITC DEL WH Hassangarh,SX-Snacks,10
+168,ITC DEL WH Hassangarh,TA-Talc,10
+169,ITC DEL WH Hassangarh,TS-Toilet Soap,10
+170,ITC DEL WH Hassangarh,WR-Waste Wrappers,10
+171,ITC DEL WH Jhundpur,AG-Agarbatti,10
+172,ITC DEL WH Jhundpur,AT-Atta,10
+173,ITC DEL WH Jhundpur,BI-Biscuits,10
+174,ITC DEL WH Jhundpur,CF-Confectionery,10
+175,ITC DEL WH Jhundpur,CH-Chocolates,10
+176,ITC DEL WH Jhundpur,CK-Cake,10
+177,ITC DEL WH Jhundpur,CR-Cream,10
+178,ITC DEL WH Jhundpur,DF-Dairy Foods,10
+179,ITC DEL WH Jhundpur,DT-Deodrant,10
+180,ITC DEL WH Jhundpur,FE-Fruit Plup,10
+181,ITC DEL WH Jhundpur,HS-Hand Sanitizer,10
+182,ITC DEL WH Jhundpur,HW-Hand Wash,10
+183,ITC DEL WH Jhundpur,HW-Handwash,10
+184,ITC DEL WH Jhundpur,IC-Instant Cofee,10
+185,ITC DEL WH Jhundpur,JU-Juices,10
+186,ITC DEL WH Jhundpur,MP-Mixed PCP,10
+187,ITC DEL WH Jhundpur,ND-Noodles,10
+188,ITC DEL WH Jhundpur,RT-Ready to Eat,10
+189,ITC DEL WH Jhundpur,SA-Salt,10
+190,ITC DEL WH Jhundpur,SG-Shower Gel,10
+191,ITC DEL WH Jhundpur,SI-Spices,10
+192,ITC DEL WH Jhundpur,SN-Pasta,10
+193,ITC DEL WH Jhundpur,SX-Snacks,10
+194,ITC DEL WH Jhundpur,TS-Toilet Soap,10
+195,ITC DEL WH Jhundpur,WR-Waste Wrappers,10
+196,ITC DEL WH Narela,AG-Agarbatti,10
+197,ITC DEL WH Narela,AL-Antispectic Liquid,10
+198,ITC DEL WH Narela,AT-Atta,10
+199,ITC DEL WH Narela,CF-Confectionery,10
+200,ITC DEL WH Narela,CR-Cream,10
+201,ITC DEL WH Narela,DT-Deodrant,10
+202,ITC DEL WH Narela,FW-Facewash,10
+203,ITC DEL WH Narela,HS-Hand Sanitizer,10
+204,ITC DEL WH Narela,HW-Handwash,10
+205,ITC DEL WH Narela,SG-Shower Gel,10
+206,ITC DEL WH Narela,TS-Toilet Soap,10
+207,ITC FBD Sourcewell,AT-Atta,10
+208,ITC MUM WH Ambernath,AT-Atta,10
+209,ITC MUM WH Ambernath,RT-Ready to Eat,10
+210,ITC MUM WH Ray Road,AT-Atta,10
+211,ITC Mumbai Distributors,AG-Agarbatti,10
+212,ITC Mumbai Distributors,AT-Atta,10
+213,ITC Mumbai Distributors,BI-Biscuits,10
+214,ITC Mumbai Distributors,CH-Chocolates,10
+215,ITC Mumbai Distributors,FW-Facewash,10
+216,ITC Mumbai Distributors,ND-Noodles,10
+217,ITC Mumbai Distributors,SX-Snacks,10
+218,ITC Mumbai Distributors,VG-Ready to Eat(Veg),10
+219,ITC Panchkula,AG-Agarbatti,10
+220,ITC Panchkula,AL-Antispectic Liquid,10
+221,ITC Panchkula,BI-Biscuits,10
+222,ITC Panchkula,CF-Confectionery,10
+223,ITC Panchkula,CH-Chocolates,10
+224,ITC Panchkula,CR-Cream,10
+225,ITC Panchkula,DT-Deodrant,10
+226,ITC Panchkula,FW-Facewash,10
+227,ITC Panchkula,GU-Gum,10
+228,ITC Panchkula,HS-Hand Sanitizer,10
+229,ITC Panchkula,HW-Hand Wash,10
+230,ITC Panchkula,HW-Handwash,10
+231,ITC Panchkula,IC-Instant Cofee,10
+232,ITC Panchkula,JU-Juices,10
+233,ITC Panchkula,ND-Noodles,10
+234,ITC Panchkula,RT-Ready to Eat,10
+235,ITC Panchkula,SA-Salt,10
+236,ITC Panchkula,SG-Shower Gel,10
+237,ITC Panchkula,SH-Shampoo,10
+238,ITC Panchkula,SI-Spices,10
+239,ITC Panchkula,SN-Pasta,10
+240,ITC Panchkula,SX-Snacks,10
+241,ITC Panchkula,TA-Talc,10
+242,ITC Panchkula,TS-Toilet Soap,10
+243,ITC UP WH Kanpur,AT-Atta,10
+244,ITC UP WH Kanpur,BI-Biscuits,10
+245,ITC UP WH Kanpur,CF-Confectionery,10
+246,ITC UP WH Kanpur,IC-Instant Cofee,10
+247,ITC UP WH Kanpur,ND-Noodles,10
+248,ITC UP WH Kanpur,RT-Ready to Eat,10
+249,ITC UP WH Kanpur,SN-Pasta,10
+250,ITC UP WH Kanpur,SX-Snacks,10
+251,ITC UP WH Kanpur,TS-Toilet Soap,10
+252,ITC UP WH Kanpur,WR-Waste Wrappers,10
+253,ITC UP WH Lucknow,AT-Atta,10
+254,ITC UP WH Lucknow,BI-Biscuits,10
+255,ITC UP WH Lucknow,CF-Confectionery,10
+256,ITC UP WH Lucknow,IC-Instant Cofee,10
+257,ITC UP WH Lucknow,JU-Juices,10
+258,ITC UP WH Lucknow,MP-Mixed PCP,10
+259,ITC UP WH Lucknow,ND-Noodles,10
+260,ITC UP WH Lucknow,RT-Ready to Eat,10
+261,ITC UP WH Lucknow,SA-Salt,10
+262,ITC UP WH Lucknow,SI-Spices,10
+263,ITC UP WH Lucknow,SN-Pasta,10
+264,ITC UP WH Lucknow,SX-Snacks,10
+265,ITC UP WH Lucknow,TS-Toilet Soap,10
+266,ITC UP WH Varanasi,AG-Agarbatti,10
+267,ITC UP WH Varanasi,AT-Atta,10
+268,ITC UP WH Varanasi,BI-Biscuits,10
+269,ITC UP WH Varanasi,CF-Confectionery,10
+270,ITC UP WH Varanasi,IC-Instant Cofee,10
+271,ITC UP WH Varanasi,MP-Mixed PCP,10
+272,ITC UP WH Varanasi,ND-Noodles,10
+273,ITC UP WH Varanasi,SI-Spices,10
+274,ITC UP WH Varanasi,SX-Snacks,10
+275,ITC UP WH Varanasi,TS-Toilet Soap,10
+276,ITC UP WH Varanasi,WR-Waste Wrappers,10
+277,ITC Uttar Pradesh Distributors,AG-Agarbatti,10
+278,ITC Uttar Pradesh Distributors,AL-Antispectic Liquid,10
+279,ITC Uttar Pradesh Distributors,AT-Atta,10
+280,ITC Uttar Pradesh Distributors,BI-Biscuits,10
+281,ITC Uttar Pradesh Distributors,CF-Confectionery,10
+282,ITC Uttar Pradesh Distributors,CH-Chocolates,10
+283,ITC Uttar Pradesh Distributors,CR-Cream,10
+284,ITC Uttar Pradesh Distributors,DB-Dairy Best Milk,10
+285,ITC Uttar Pradesh Distributors,DF-Dairy Foods,10
+286,ITC Uttar Pradesh Distributors,DT-Deodrant,10
+287,ITC Uttar Pradesh Distributors,FE-Fruit Plup,10
+288,ITC Uttar Pradesh Distributors,GU-Gum,10
+289,ITC Uttar Pradesh Distributors,HS-Hand Sanitizer,10
+290,ITC Uttar Pradesh Distributors,HW-Hand Wash,10
+291,ITC Uttar Pradesh Distributors,HW-Handwash,10
+292,ITC Uttar Pradesh Distributors,IC-Instant Cofee,10
+293,ITC Uttar Pradesh Distributors,JU-Juices,10
+294,ITC Uttar Pradesh Distributors,MP-Mixed PCP,10
+295,ITC Uttar Pradesh Distributors,MT-Safety Matches,10
+296,ITC Uttar Pradesh Distributors,ND-Noodles,10
+297,ITC Uttar Pradesh Distributors,RG-Roasted & Ground Coffee,10
+298,ITC Uttar Pradesh Distributors,RT-Ready to Eat,10
+299,ITC Uttar Pradesh Distributors,SA-Salt,10
+300,ITC Uttar Pradesh Distributors,SG-Shower Gel,10
+301,ITC Uttar Pradesh Distributors,SH-Shampoo,10
+302,ITC Uttar Pradesh Distributors,SI-Spices,10
+303,ITC Uttar Pradesh Distributors,SN-Pasta,10
+304,ITC Uttar Pradesh Distributors,SX-Snacks,10
+305,ITC Uttar Pradesh Distributors,TA-Talc,10
+306,ITC Uttar Pradesh Distributors,TS-Toilet Soap,10
+307,ITC Uttar Pradesh Distributors,WR-Waste Wrappers,10
+308,Janvi and Company,AT-Atta,10
+309,Jubilant FoodWorks Limited,AT-Atta,10
+310,Jubilant FoodWorks Limited,BR-BREAD,10
+311,Jubilant FoodWorks Limited,BR-Bread,10
+312,Jubilant FoodWorks Limited,CH-Chocolates,10
+313,Jubilant FoodWorks Limited,CK-Cake,10
+314,Jubilant FoodWorks Limited,CMP-Chocolate & Milk Powder,10
+315,Jubilant FoodWorks Limited,DF-Dairy Foods,10
+316,Jubilant FoodWorks Limited,FV-Fresh Vegetables,10
+317,Jubilant FoodWorks Limited,MB-MAIDA BAKERY,10
+318,Jubilant FoodWorks Limited,MF-Mixed Food,10
+319,Jubilant FoodWorks Limited,MP-Mixed PCP,10
+320,Jubilant FoodWorks Limited,PD-Pizza Dough,10
+321,Jubilant FoodWorks Limited,PR-Premium Range,10
+322,Jubilant FoodWorks Limited,RC-Fried Chicken,10
+323,Jubilant FoodWorks Limited,RT-Ready to Eat,10
+324,Jubilant FoodWorks Limited,SA-Salt,10
+325,Jubilant FoodWorks Limited,SI-Spices,10
+326,Jubilant FoodWorks Limited,SN-Pasta,10
+327,Jubilant FoodWorks Limited,SU-Suji,10
+328,Jubilant FoodWorks Limited,SX-Snacks,10
+329,Jubilant FoodWorks Limited,VO-Vegetable Oil,10
+330,Jubilant FoodWorks Limited,WF-Waste Food,10
+331,Jubilant FoodWorks Limited,WJ-Waste Juice,10
+332,Jubilant FoodWorks Limited,WP-Waste PCP,10
+333,Jubilant FoodWorks Limited,WR-Waste Wrappers,10
+334,Kailash Agro Private Limited NCR,DF-Dairy Foods,10
+335,Kailash Sales,SNA-Snacks,10
+336,Maiyas Beverages and Foods Pvt Ltd,BM-Blended Masalas,10
+337,Maiyas Beverages and Foods Pvt Ltd,BV-Beverages,10
+338,Maiyas Beverages and Foods Pvt Ltd,IM-Instant Mixes,10
+339,Maiyas Beverages and Foods Pvt Ltd,PS-Pure Spices,10
+340,Maiyas Beverages and Foods Pvt Ltd,RTE-Ready To Eat,10
+341,Maiyas Beverages and Foods Pvt Ltd,SV-Savories,10
+342,Maiyas Beverages and Foods Pvt Ltd,SW-Sweet,10
+343,Maiyas Beverages and Foods Pvt Ltd,VE-Vermicelli,10
+344,Mother Dairy Fruit and Vegetable Pvt Ltd,BRE-Bread,10
+345,Nandi Dairy Products,GAR-Garlic Peel,10
+346,Nestle India Limited,DB-Dairy Best Milk,10
+347,Nestle India Limited,DP-Dairy Milk Powder,10
+348,Nestle India Limited,KHY-Khoya,10
+349,SVL Agencies,CH-Chocolates,10
+350,SVL Agencies,DF-Dairy Foods,10
+351,SVL Agencies,DM-Dairy Milk,10
+352,SVL Agencies,DMP-Dairy Milk Powder,10
+353,SVL Agencies,SW-Sweet,10
+354,Sanjay Ghodawat Group,ATT-Atta,10
+355,Sanjay Ghodawat Group,CAK-Cake,10
+356,Sanjay Ghodawat Group,FPSH-Potato Starch,10
+357,Sanjay Ghodawat Group,FSSK-Snacks,10
+358,Sanjay Ghodawat Group,LAM-Laminates,10
+359,Sanjay Ghodawat Group,PLSE-Laminates,10
+360,Sanjay Ghodawat Group,POT-Potato Starch,10
+361,Sanjay Ghodawat Group,SNA-Snacks,10
+362,Seeta Enterprises,AT-Atta,10
+363,Shri Ventures,CHI-Chilli Flakes,10
+364,Shri Ventures,CHO-Chocolates,10
+365,Shri Ventures,SNA-Snacks,10
+366,Sowparnika Retail Pvt Ltd.,AT-Atta,10
+367,Sowparnika Retail Pvt Ltd.,SX-Snacks,10
+368,Tata Consumer Products Bihar,SA-Salt,10
+369,Tata Consumer Products Bihar,SI-Spices,10
+370,Tata Consumer Products Bihar,SO-Soda,10
+371,Tata Consumer Products Bihar,TE-Tea,10
+372,Tata Consumer Products Gujarat,BS-Besan,10
+373,Tata Consumer Products Gujarat,PL-Pulses,10
+374,Tata Consumer Products Gujarat,PO-Poha,10
+375,Tata Consumer Products Gujarat,SA-Salt,10
+376,Tata Consumer Products Gujarat,SF-Soulfull,10
+377,Tata Consumer Products Gujarat,SI-Spices,10
+378,Tata Consumer Products Gujarat,TE-Tea,10
+379,Tata Consumer Products Gujarat,VG-Ready to Eat(Veg),10
+380,Tata Consumer Products Jharkhand,BS-Besan,10
+381,Tata Consumer Products Jharkhand,PL-Pulses,10
+382,Tata Consumer Products Jharkhand,SA-Salt,10
+383,Tata Consumer Products Jharkhand,SI-Spices,10
+384,Tata Consumer Products Jharkhand,SO-Soda,10
+385,Tata Consumer Products Jharkhand,TE-Tea,10
+386,Tata Consumer Products Karnataka,BS-Besan,10
+387,Tata Consumer Products Karnataka,IC-Instant Cofee,10
+388,Tata Consumer Products Karnataka,IC-Instant Coffee,10
+389,Tata Consumer Products Karnataka,PL-Pulses,10
+390,Tata Consumer Products Karnataka,PO-Poha,10
+391,Tata Consumer Products Karnataka,SA-Salt,10
+392,Tata Consumer Products Karnataka,SF-Soulfull,10
+393,Tata Consumer Products Karnataka,SI-Spices,10
+394,Tata Consumer Products Karnataka,SO-Soda,10
+395,Tata Consumer Products Karnataka,TE-Tea,10
+396,Tata Consumer Products Karnataka,VG-Ready to Eat(Veg),10
+397,Tata Consumer Products Ltd. Andhra Pradesh,BS-Besan,10
+398,Tata Consumer Products Ltd. Andhra Pradesh,IC-Instant Cofee,10
+399,Tata Consumer Products Ltd. Andhra Pradesh,PL-Pulses,10
+400,Tata Consumer Products Ltd. Andhra Pradesh,PO-Poha,10
+401,Tata Consumer Products Ltd. Andhra Pradesh,SA-Salt,10
+402,Tata Consumer Products Ltd. Andhra Pradesh,SF-Soulfull,10
+403,Tata Consumer Products Ltd. Andhra Pradesh,SI-Spices,10
+404,Tata Consumer Products Ltd. Andhra Pradesh,SO-Soda,10
+405,Tata Consumer Products Ltd. Andhra Pradesh,TE-Tea,10
+406,Tata Consumer Products Ltd. Andhra Pradesh,VG-Ready to Eat(Veg),10
+407,Tata Consumer Products Ltd. Assam,BS-Besan,10
+408,Tata Consumer Products Ltd. Assam,IC-Instant Cofee,10
+409,Tata Consumer Products Ltd. Assam,PL-Pulses,10
+410,Tata Consumer Products Ltd. Assam,PO-Poha,10
+411,Tata Consumer Products Ltd. Assam,SA-Salt,10
+412,Tata Consumer Products Ltd. Assam,SF-Soulfull,10
+413,Tata Consumer Products Ltd. Assam,SI-Spices,10
+414,Tata Consumer Products Ltd. Assam,SO-Soda,10
+415,Tata Consumer Products Ltd. Assam,TE-Tea,10
+416,Tata Consumer Products Ltd. Chhattisgarh,IC-Instant Cofee,10
+417,Tata Consumer Products Ltd. Chhattisgarh,SA-Salt,10
+418,Tata Consumer Products Ltd. Chhattisgarh,SF-Soulfull,10
+419,Tata Consumer Products Ltd. Chhattisgarh,SI-Spices,10
+420,Tata Consumer Products Ltd. Chhattisgarh,SO-Soda,10
+421,Tata Consumer Products Ltd. Chhattisgarh,TE-Tea,10
+422,Tata Consumer Products Ltd. Delhi,BS-Besan,10
+423,Tata Consumer Products Ltd. Delhi,IC-Instant Cofee,10
+424,Tata Consumer Products Ltd. Delhi,NV-Ready to Eat(Non Veg),10
+425,Tata Consumer Products Ltd. Delhi,PL-Pulses,10
+426,Tata Consumer Products Ltd. Delhi,PO-Poha,10
+427,Tata Consumer Products Ltd. Delhi,SA-Salt,10
+428,Tata Consumer Products Ltd. Delhi,SF-Soulfull,10
+429,Tata Consumer Products Ltd. Delhi,SI-Spices,10
+430,Tata Consumer Products Ltd. Delhi,SO-Soda,10
+431,Tata Consumer Products Ltd. Delhi,TE-Tea,10
+432,Tata Consumer Products Ltd. Delhi,VG-Ready to Eat(Veg),10
+433,Tata Consumer Products Ltd. Goa,SA-Salt,10
+434,Tata Consumer Products Ltd. Goa,SF-Soulfull,10
+435,Tata Consumer Products Ltd. Goa,TE-Tea,10
+436,Tata Consumer Products Ltd. Haryana,BS-Besan,10
+437,Tata Consumer Products Ltd. Haryana,BT-Batter,10
+438,Tata Consumer Products Ltd. Haryana,IC-Instant Cofee,10
+439,Tata Consumer Products Ltd. Haryana,NV-Ready to Eat(Non Veg),10
+440,Tata Consumer Products Ltd. Haryana,PL-Pulses,10
+441,Tata Consumer Products Ltd. Haryana,PO-Poha,10
+442,Tata Consumer Products Ltd. Haryana,SA-Salt,10
+443,Tata Consumer Products Ltd. Haryana,SF-Soulfull,10
+444,Tata Consumer Products Ltd. Haryana,SI-Spices,10
+445,Tata Consumer Products Ltd. Haryana,TE-Tea,10
+446,Tata Consumer Products Ltd. Haryana,VG-Ready to Eat(Veg),10
+447,Tata Consumer Products Ltd. Himachal Pradesh,BS-Besan,10
+448,Tata Consumer Products Ltd. Himachal Pradesh,IC-Instant Cofee,10
+449,Tata Consumer Products Ltd. Himachal Pradesh,PL-Pulses,10
+450,Tata Consumer Products Ltd. Himachal Pradesh,SI-Spices,10
+451,Tata Consumer Products Ltd. Himachal Pradesh,TE-Tea,10
+452,Tata Consumer Products Ltd. Himachal Pradesh,VG-Ready to Eat(Veg),10
+453,Tata Consumer Products Ltd. Jammu and Kashmir,BS-Besan,10
+454,Tata Consumer Products Ltd. Jammu and Kashmir,IC-Instant Cofee,10
+455,Tata Consumer Products Ltd. Jammu and Kashmir,PL-Pulses,10
+456,Tata Consumer Products Ltd. Jammu and Kashmir,SA-Salt,10
+457,Tata Consumer Products Ltd. Jammu and Kashmir,SI-Spices,10
+458,Tata Consumer Products Ltd. Jammu and Kashmir,TE-Tea,10
+459,Tata Consumer Products Ltd. Kerala,BS-Besan,10
+460,Tata Consumer Products Ltd. Kerala,IC-Instant Cofee,10
+461,Tata Consumer Products Ltd. Kerala,PL-Pulses,10
+462,Tata Consumer Products Ltd. Kerala,PO-Poha,10
+463,Tata Consumer Products Ltd. Kerala,SA-Salt,10
+464,Tata Consumer Products Ltd. Kerala,SF-Soulfull,10
+465,Tata Consumer Products Ltd. Kerala,SI-Spices,10
+466,Tata Consumer Products Ltd. Kerala,TE-Tea,10
+467,Tata Consumer Products Ltd. Kerala,VG-Ready to Eat(Veg),10
+468,Tata Consumer Products Ltd. Maharashtra,BS-Besan,10
+469,Tata Consumer Products Ltd. Maharashtra,IC-Instant Cofee,10
+470,Tata Consumer Products Ltd. Maharashtra,NV-Ready to Eat(Non Veg),10
+471,Tata Consumer Products Ltd. Maharashtra,PL-Pulses,10
+472,Tata Consumer Products Ltd. Maharashtra,PO-Poha,10
+473,Tata Consumer Products Ltd. Maharashtra,SA-Salt,10
+474,Tata Consumer Products Ltd. Maharashtra,SF-Soulfull,10
+475,Tata Consumer Products Ltd. Maharashtra,SI-Spices,10
+476,Tata Consumer Products Ltd. Maharashtra,SO-Soda,10
+477,Tata Consumer Products Ltd. Maharashtra,TE-Tea,10
+478,Tata Consumer Products Ltd. Maharashtra,VG-Ready to Eat(Veg),10
+479,Tata Consumer Products Ltd. Odisha,BS-Besan,10
+480,Tata Consumer Products Ltd. Odisha,PO-Poha,10
+481,Tata Consumer Products Ltd. Odisha,SA-Salt,10
+482,Tata Consumer Products Ltd. Odisha,SI-Spices,10
+483,Tata Consumer Products Ltd. Odisha,SO-Soda,10
+484,Tata Consumer Products Ltd. Odisha,TE-Tea,10
+485,Tata Consumer Products Ltd. Puducherry,IC-Instant Cofee,10
+486,Tata Consumer Products Ltd. Puducherry,SF-Soulfull,10
+487,Tata Consumer Products Ltd. Puducherry,TE-Tea,10
+488,Tata Consumer Products Ltd. Punjab,IC-Instant Cofee,10
+489,Tata Consumer Products Ltd. Punjab,PL-Pulses,10
+490,Tata Consumer Products Ltd. Punjab,SA-Salt,10
+491,Tata Consumer Products Ltd. Punjab,SF-Soulfull,10
+492,Tata Consumer Products Ltd. Punjab,SI-Spices,10
+493,Tata Consumer Products Ltd. Punjab,TE-Tea,10
+494,Tata Consumer Products Ltd. Rajasthan,BS-Besan,10
+495,Tata Consumer Products Ltd. Rajasthan,IC-Instant Cofee,10
+496,Tata Consumer Products Ltd. Rajasthan,PL-Pulses,10
+497,Tata Consumer Products Ltd. Rajasthan,PO-Poha,10
+498,Tata Consumer Products Ltd. Rajasthan,SA-Salt,10
+499,Tata Consumer Products Ltd. Rajasthan,SF-Soulfull,10
+500,Tata Consumer Products Ltd. Rajasthan,SI-Spices,10
+501,Tata Consumer Products Ltd. Rajasthan,SO-Soda,10
+502,Tata Consumer Products Ltd. Rajasthan,TE-Tea,10
+503,Tata Consumer Products Ltd. Rajasthan,VG-Ready to Eat(Veg),10
+504,Tata Consumer Products Ltd. Tamilnadu,BS-Besan,10
+505,Tata Consumer Products Ltd. Tamilnadu,IC-Instant Cofee,10
+506,Tata Consumer Products Ltd. Tamilnadu,PL-Pulses,10
+507,Tata Consumer Products Ltd. Tamilnadu,PO-Poha,10
+508,Tata Consumer Products Ltd. Tamilnadu,SA-Salt,10
+509,Tata Consumer Products Ltd. Tamilnadu,SF-Soulfull,10
+510,Tata Consumer Products Ltd. Tamilnadu,SI-Spices,10
+511,Tata Consumer Products Ltd. Tamilnadu,SO-Soda,10
+512,Tata Consumer Products Ltd. Tamilnadu,TE-Tea,10
+513,Tata Consumer Products Ltd. Tamilnadu,VG-Ready to Eat(Veg),10
+514,Tata Consumer Products Madhya Pradesh,BS-Besan,10
+515,Tata Consumer Products Madhya Pradesh,PL-Pulses,10
+516,Tata Consumer Products Madhya Pradesh,PO-Poha,10
+517,Tata Consumer Products Madhya Pradesh,SA-Salt,10
+518,Tata Consumer Products Madhya Pradesh,SF-Soulfull,10
+519,Tata Consumer Products Madhya Pradesh,SI-Spices,10
+520,Tata Consumer Products Madhya Pradesh,TE-Tea,10
+521,Tata Consumer Products Telangana,BS-Besan,10
+522,Tata Consumer Products Telangana,IC-Instant Cofee,10
+523,Tata Consumer Products Telangana,NV-Ready to Eat(Non Veg),10
+524,Tata Consumer Products Telangana,PL-Pulses,10
+525,Tata Consumer Products Telangana,PO-Poha,10
+526,Tata Consumer Products Telangana,SA-Salt,10
+527,Tata Consumer Products Telangana,SF-Soulfull,10
+528,Tata Consumer Products Telangana,SI-Spices,10
+529,Tata Consumer Products Telangana,SO-Soda,10
+530,Tata Consumer Products Telangana,TE-Tea,10
+531,Tata Consumer Products Telangana,VG-Ready to Eat(Veg),10
+532,Tata Consumer Products Uttar Pradesh,BS-Besan,10
+533,Tata Consumer Products Uttar Pradesh,IC-Instant Cofee,10
+534,Tata Consumer Products Uttar Pradesh,IC-Instant Coffee,10
+535,Tata Consumer Products Uttar Pradesh,PL-Pulses,10
+536,Tata Consumer Products Uttar Pradesh,PO-Poha,10
+537,Tata Consumer Products Uttar Pradesh,SA-Salt,10
+538,Tata Consumer Products Uttar Pradesh,SF-Soulfull,10
+539,Tata Consumer Products Uttar Pradesh,SI-Spices,10
+540,Tata Consumer Products Uttar Pradesh,SO-Soda,10
+541,Tata Consumer Products Uttar Pradesh,TE-Tea,10
+542,Tata Consumer Products Uttar Pradesh,TQ-TataQ,10
+543,Tata Consumer Products Uttar Pradesh,VG-Ready to Eat(Veg),10
+544,Tata Consumer Products West Bengal,BS-Besan,10
+545,Tata Consumer Products West Bengal,BT-Batter,10
+546,Tata Consumer Products West Bengal,IC-Instant Cofee,10
+547,Tata Consumer Products West Bengal,IC-Instant Coffee,10
+548,Tata Consumer Products West Bengal,PL-Pulses,10
+549,Tata Consumer Products West Bengal,PO-Poha,10
+550,Tata Consumer Products West Bengal,SA-Salt,10
+551,Tata Consumer Products West Bengal,SF-Soulfull,10
+552,Tata Consumer Products West Bengal,SI-Spices,10
+553,Tata Consumer Products West Bengal,SO-Soda,10
+554,Tata Consumer Products West Bengal,TE-Tea,10
+555,Tata Consumer Products West Bengal,VG-Ready to Eat(Veg),10
+556,Tata SmartFoodz Limited,NV-Ready to Eat(Non Veg),10
+557,Tata SmartFoodz Limited,SF-Soulfull,10
+558,Tata SmartFoodz Limited,VG-Ready to Eat(Veg),10
+559,To Be Honest,SX-Snacks,10
+560,Unibic Foods India Andhara,BI-Biscuits,10
+561,Unibic Foods India Delhi,BI-Biscuits,10
+562,Unibic Foods India Goa,BI-Biscuits,10
+563,Unibic Foods India Gujarat,BI-Biscuits,10
+564,Unibic Foods India Karnataka,BI-Biscuits,10
+565,Unibic Foods India Madhya Pradesh,BI-Biscuits,10
+566,Unibic Foods India Mumbai,BI-Biscuits,10
+567,Unibic Foods India Punjab,BI-Biscuits,10
+568,Unibic Foods India Pvt. Ltd. Karnataka,BI-Biscuits,10
+569,Unibic Foods India Pvt. Ltd. Tamilnadu,BI-Biscuits,10
+570,Unibic Foods India Pvt. Ltd. West Bengal,BI-Biscuits,10
+571,Unibic Foods India Rest of Maharashtra,BI-Biscuits,10
+572,Unibic Foods India Telangana,BI-Biscuits,10
+573,Veeba Food Services Bangalore WH,SU-Sweet Sauces,10
+574,Veeba Food Services DEL Distributors,MN-Mayonnaise,10
+575,Veeba Food Services DEL Distributors,PB-Peanut Butter,10
+576,Veeba Food Services DEL Distributors,SLD-Salad Dressings,10
+577,Veeba Food Services DEL Distributors,SS-Sandwich Spread,10
+578,Veeba Food Services DEL Distributors,SU-Sweet Sauces,10
+579,Veeba Food Services DEL WH Keshwana,MN-Mayonnaise,10
+580,Veeba Food Services DEL WH Keshwana,SLD-Salad Dressings,10
+581,Veeba Food Services DEL WH Keshwana,SU-Sweet Sauces,10
+582,Veeba Food Services DEL WH Neemarana,MN-Mayonnaise,10
+583,Veeba Food Services DEL WH Neemarana,PB-Peanut Butter,10
+584,Veeba Food Services DEL WH Neemarana,SLD-Salad Dressings,10
+585,Veeba Food Services DEL WH Neemarana,SS-Sandwich Spread,10
+586,Veeba Food Services DEL WH Neemarana,SU-Sweet Sauces,10
+587,Veeba Food Services DEL WH Tikri,MN-Mayonnaise,10
+588,Veeba Food Services DEL WH Tikri,PB-Peanut Butter,10
+589,Veeba Food Services DEL WH Tikri,SLD-Salad Dressings,10
+590,Veeba Food Services DEL WH Tikri,SU-Sweet Sauces,10
+591,Veeba Food Services Karnataka Distributors,MN-Mayonnaise,10
+592,Veeba Food Services Karnataka Distributors,PB-Peanut Butter,10
+593,Veeba Food Services Karnataka Distributors,SLD-Salad Dressings,10
+594,Veeba Food Services Karnataka Distributors,SS-Sandwich Spread,10
+595,Veeba Food Services Karnataka Distributors,SU-Sweet Sauces,10
+596,Veeba Food Services Maharashtra Distributors,PB-Peanut Butter,10
+597,Veeba Food Services Maharashtra Distributors,SLD-Salad Dressings,10
+598,Veeba Food Services Maharashtra Distributors,SS-Sandwich Spread,10
+599,Veeba Food Services Maharashtra Distributors,SU-Sweet Sauces,10
+600,Veeba Food Services Pvt Ltd. Tamilnadu,MN-Mayonnaise,10
+601,Veeba Food Services Pvt Ltd. Tamilnadu,PB-Peanut Butter,10
+602,Veeba Food Services Pvt Ltd. Tamilnadu,SLD-Salad Dressings,10
+603,Veeba Food Services Pvt Ltd. Tamilnadu,SU-Sweet Sauces,10
+604,Veeba Food Services Uttar Pradesh Distributors,MN-Mayonnaise,10
+605,Veeba Food Services Uttar Pradesh Distributors,PB-Peanut Butter,10
+606,Veeba Food Services Uttar Pradesh Distributors,SD-Spray Disinfect,10
+607,Veeba Food Services Uttar Pradesh Distributors,SLD-Salad Dressings,10
+608,Veeba Food Services Uttar Pradesh Distributors,SS-Sandwich Spread,10
+609,Veeba Food Services Uttar Pradesh Distributors,SU-Sweet Sauces,10
+610,Vishv Foods and Beverages (Snackry),PU-Puri,10
+611,Vishv Foods and Beverages (Snackry),SDS-Seeds,10
+612,Vishv Foods and Beverages (Snackry),SEV-Sev,10
+613,Vishv Foods and Beverages (Snackry),SK-Sticks,10
+614,Wastelink Bangalore,NV-Ready to Eat(Non Veg),10
+615,Wastelink Bangalore,VG-Ready to Eat(Veg),10
+616,Wastelink Bangalore,WR-Waste Wrappers,10
+617,Wastelink Lucknow,CF-Confectionery,10
+618,Wastelink Lucknow,VG-Ready to Eat(Veg),10
+619,Wastelink Mumbai,SU-Sweet Sauces,10
+620,Wastelink Mumbai,VG-Ready to Eat(Veg),10
+621,Wingreens Farms Pvt Ltd. Gujarat,AD-Ambient Dips,10
+622,Wingreens Farms Pvt Ltd. Gujarat,AP-Appitas,10
+623,Wingreens Farms Pvt Ltd. Gujarat,MY-Mayo Tube,10
+624,Wingreens Farms Pvt Ltd. Maharashtra,ACV-Apple Cider Vinegar,10
+625,Wingreens Farms Pvt Ltd. Maharashtra,AD-Ambient Dips,10
+626,Wingreens Farms Pvt Ltd. Maharashtra,AP-Appitas,10
+627,Wingreens Farms Pvt Ltd. Maharashtra,NC-Naan Chips,10
+628,Wingreens Farms Pvt Ltd. Maharashtra,SUT-Sauce Tube,10
+629,Wingreens Farms Pvt Ltd. Tamilnadu,MY-Mayo Tube,10
+630,Wingreens Farms Pvt Ltd. Tamilnadu,SUT-Sauce Tube,10
+631,Wise Bin,NBR-Nutribar,10
+632,Wise Bin,NWO-Nutribarwowrapper,10

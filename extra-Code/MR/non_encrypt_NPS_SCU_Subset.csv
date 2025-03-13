@@ -1,0 +1,846 @@
+﻿StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,DistributionChannel,UserLanguage,Q_RecaptchaScore,Q1_NPS_GROUP,Q1,Q2A,Q2B,Q2C,Q3,Q4,Q4A,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,Q5_6,Q6_1,Q6_2,Q6_3,Q6_4,Q6_5,Q6A,Q7_1,Q7_2,Q7_3,Q7_4,Q7_5,Q7_6,Q7_7,Q7_8,Q7_9,Q7_9_TEXT,Q7A_1,Q7A_2,Q7A_3,Q7A_4,Q7A_5,Q7A_6,Q7A_7,Q7A_8,Q7A_9,Q7A_9_TEXT,Q7B_1_1,Q7B_2_1,Q7B_3_1,Q7B_4_1,Q7B_5_1,Q7B_6_1,Q7B_7_1,Q7B_8_1,Q7B_9_TEXT,Q7B_9_1,Q8_1,Q8_2,Q8_3,Q8_4,Q8_5,Q8_6,Q8_7,Q8_8,Q8_9,Q8_9_TEXT,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q9_6,Q9_7,Q9_8,Q9_9,Q10_1_1,Q11_1,Wave,WaveUpdate,complete_status,SurveyID,ResponseID,Subject,PanelID,Language,RecipientLanguage,Q_Language,person_geo,person_region,person_country,language,person_industry,sales_segment,source,account,TranslationLanguage,CSM,CMBU_CSM,EUC_CSM,VMC_CSM,Hierarchy,Job Role,Job Title,ResponseId,FINALREGION,WEIGHT,CB_CSM,WT_SEGMENT,mobile_device,Q4A_EN,Q2C_EN,Q6a_EN,Q2A_EN,Q2B_EN,Q7b_1_EN,Q7b_2_EN,Q7b_3_EN,Q7b_4_EN,Q7b_9_EN,Q7b_5_EN,Q7b_6_EN,Q7b_8_EN,Q7b_7_EN
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Distribution Channel,User Language,Q_RecaptchaScore,How likely are you to recommend VMware products or services to a colleague or associate? - Group,How likely are you to recommend VMware products or services to a colleague or associate?,Your feedback goes a long way to helping us build out great experiences for customers like you. Please explain why you would recommend VMware.â€‹,Your feedback goes a long way to helping us build out great experiences for customers like you. Please explain why you would not recommend VMware.â€‹,What can we do to improve your experience?,"Currently, which option best describes your role when it comes to VMware?",Do you consider VMware a trusted advisor?,Why would you not consider VMware a trusted advisor?,Please rate your satisfaction with each of the following: - Pricing,Please rate your satisfaction with each of the following: - Purchasing Process,Please rate your satisfaction with each of the following: - VMware's renewals process,Please rate your satisfaction with each of the following: - Onboarding into VMware products/services,Please rate your satisfaction with each of the following: - Using VMware products and services,Please rate your satisfaction with each of the following: - Optimizing your solution and/or expanding use cases with VMware,Please express your agreement with each of the following: - VMware has flexible policies and practices,Please express your agreement with each of the following: - VMware solves my company's problems quickly,Please express your agreement with each of the following: - My company's relationship with VMware is a long-term partnership,Please express your agreement with each of the following: - VMware helps my company achieve its overall business objectives,Please express your agreement with each of the following: - VMware is a strategic innovation leader,Why would you not consider VMware a strategic innovation leader?,"Which of the following VMware solutions do you/your team currently use? - Selected Choice - Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Which of the following VMware solutions do you/your team currently use? - Selected Choice - Private Cloud
+
+ VMware Cloud Foundation (VCF)
+","Which of the following VMware solutions do you/your team currently use? - Selected Choice - Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+","Which of the following VMware solutions do you/your team currently use? - Selected Choice - Cloud Management
+
+ VMware vRealize portfolio
+","Which of the following VMware solutions do you/your team currently use? - Selected Choice - Modern Application Platform
+
+	VMware Tanzu portfolio
+
+","Which of the following VMware solutions do you/your team currently use? - Selected Choice - Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+","Which of the following VMware solutions do you/your team currently use? - Selected Choice - Networking
+
+	VMware NSX portfolio including Avi
+
+","Which of the following VMware solutions do you/your team currently use? - Selected Choice - Security
+
+	VMware Carbon Black portfolio
+
+",Which of the following VMware solutions do you/your team currently use? - Selected Choice - Other,Which of the following VMware solutions do you/your team currently use? - Other - Text,"Please rate your satisfaction with the following. - Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail","Please rate your satisfaction with the following. - Private Cloud
+
+ VMware Cloud Foundation (VCF)","Please rate your satisfaction with the following. - Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers","Please rate your satisfaction with the following. - Cloud Management
+
+ VMware vRealize portfolio","Please rate your satisfaction with the following. - Modern Application Platform
+
+	VMware Tanzu portfolio","Please rate your satisfaction with the following. - Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon","Please rate your satisfaction with the following. - Networking
+
+	VMware NSX portfolio including Avi","Please rate your satisfaction with the following. - Security
+
+	VMware Carbon Black portfolio",Please rate your satisfaction with the following. - Other,Please rate your satisfaction with the following. - Other - Text,"Please tell us why you gave us the score you did. - Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+ -","Please tell us why you gave us the score you did. - Private Cloud
+
+ VMware Cloud Foundation (VCF)
+ -","Please tell us why you gave us the score you did. - Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other par... - Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+ -","Please tell us why you gave us the score you did. - Cloud Management
+
+ VMware vRealize portfolio
+ -","Please tell us why you gave us the score you did. - Modern Application Platform
+
+	VMware Tanzu portfolio
+
+ -","Please tell us why you gave us the score you did. - Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+ -","Please tell us why you gave us the score you did. - Networking
+
+	VMware NSX portfolio including Avi
+
+ -","Please tell us why you gave us the score you did. - Security
+
+	VMware Carbon Black portfolio
+
+ -",Please tell us why you gave us the score you did. - Other - Text,Please tell us why you gave us the score you did. - Other -,"Which VMware solution(s) are you evaluating to adopt or expand your usage? - Selected Choice - Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Which VMware solution(s) are you evaluating to adopt or expand your usage? - Selected Choice - Private Cloud
+
+ VMware Cloud Foundation (VCF)
+","Which VMware solution(s) are you evaluating to adopt or expand your usage? - Selected Choice - Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+","Which VMware solution(s) are you evaluating to adopt or expand your usage? - Selected Choice - Cloud Management
+
+ VMware vRealize portfolio
+","Which VMware solution(s) are you evaluating to adopt or expand your usage? - Selected Choice - Modern Application Platform
+
+ VMware Tanzu portfolio
+","Which VMware solution(s) are you evaluating to adopt or expand your usage? - Selected Choice - Digital Workspace (including VDI)
+
+ Workspace ONE, VMware Horizon
+","Which VMware solution(s) are you evaluating to adopt or expand your usage? - Selected Choice - Networking
+
+ VMware NSX portfolio including Avi
+","Which VMware solution(s) are you evaluating to adopt or expand your usage? - Selected Choice - Security
+
+ VMware Carbon Black portfolio
+",Which VMware solution(s) are you evaluating to adopt or expand your usage? - Selected Choice - Other,Which VMware solution(s) are you evaluating to adopt or expand your usage? - Other - Text,How will your future technology strategy evolve due to the current business climate?  Select all that apply. - Accelerate IaaS adoption,How will your future technology strategy evolve due to the current business climate?  Select all that apply. - Expand hybrid cloud,How will your future technology strategy evolve due to the current business climate?  Select all that apply. - Expand on-prem,How will your future technology strategy evolve due to the current business climate?  Select all that apply. - Scale down on-prem,How will your future technology strategy evolve due to the current business climate?  Select all that apply. - Accelerate SaaS adoption,How will your future technology strategy evolve due to the current business climate?  Select all that apply. - Remote workforce,How will your future technology strategy evolve due to the current business climate?  Select all that apply. - Enhance security,How will your future technology strategy evolve due to the current business climate?  Select all that apply. - Business continuity,How will your future technology strategy evolve due to the current business climate?  Select all that apply. - Maintain with less budget,"Are you interested in providing us with more feedback on VMwareâ€™s products, services and experiences? We invite you to join our Inner Circle Community where you can directly influence the future of VMware. We commit to making it worth your time with added value for joining. - Please check this box if you'd like to join the program and we'llÂ follow up with more information soon! - 1",Would you be willing to participate in a follow-up conversation via phone or email related to this survey? - I wish to be contacted by VMware to discuss my feedback.,Wave,WaveUpdate,complete_status,SurveyID,ResponseID,Subject,PanelID,Language,RecipientLanguage,Q_Language,person_geo,person_region,person_country,language,person_industry,sales_segment,source,account,TranslationLanguage,CSM,CMBU_CSM,EUC_CSM,VMC_CSM,Hierarchy,Job Role,Job Title,ResponseId,FINALREGION,WEIGHT,CB_CSM,WT_SEGMENT,mobile_device,Why would you not consider VMware a trusted advisor? EN,What can we do to improve your experience? EN,q6a_EN,Your feedback goes a long way to helping us build out great experiences for... EN,Your feedback goes a long way to helping us build out great experiences for... EN,q7b_1_EN,q7b_2_EN,q7b_3_EN,q7b_4_EN,q7b_9_EN,q7b_5_EN,q7b_6_EN,q7b_8_EN,q7b_7_EN
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""Q_RecaptchaScore""}","{""ImportId"":""QID8_NPS_GROUP""}","{""ImportId"":""QID8""}","{""ImportId"":""QID179_TEXT""}","{""ImportId"":""QID180_TEXT""}","{""ImportId"":""QID173_TEXT""}","{""ImportId"":""QID49""}","{""ImportId"":""QID165""}","{""ImportId"":""QID166_TEXT""}","{""ImportId"":""QID167_13""}","{""ImportId"":""QID167_24""}","{""ImportId"":""QID167_21""}","{""ImportId"":""QID167_15""}","{""ImportId"":""QID167_19""}","{""ImportId"":""QID167_20""}","{""ImportId"":""QID172_1""}","{""ImportId"":""QID172_9""}","{""ImportId"":""QID172_10""}","{""ImportId"":""QID172_12""}","{""ImportId"":""QID172_13""}","{""ImportId"":""QID177_TEXT""}","{""ImportId"":""QID185"",""choiceId"":""1""}","{""ImportId"":""QID185"",""choiceId"":""2""}","{""ImportId"":""QID185"",""choiceId"":""3""}","{""ImportId"":""QID185"",""choiceId"":""4""}","{""ImportId"":""QID185"",""choiceId"":""5""}","{""ImportId"":""QID185"",""choiceId"":""6""}","{""ImportId"":""QID185"",""choiceId"":""7""}","{""ImportId"":""QID185"",""choiceId"":""8""}","{""ImportId"":""QID185"",""choiceId"":""9""}","{""ImportId"":""QID185_17_TEXT""}","{""ImportId"":""QID186_x11""}","{""ImportId"":""QID186_x12""}","{""ImportId"":""QID186_x14""}","{""ImportId"":""QID186_x15""}","{""ImportId"":""QID186_x1""}","{""ImportId"":""QID186_x5""}","{""ImportId"":""QID186_x7""}","{""ImportId"":""QID186_x6""}","{""ImportId"":""QID186_x17""}","{""ImportId"":""QID186_x17_TEXT""}","{""ImportId"":""QID190_x11_1""}","{""ImportId"":""QID190_x12_1""}","{""ImportId"":""QID190_x14_1""}","{""ImportId"":""QID190_x15_1""}","{""ImportId"":""QID190_x1_1""}","{""ImportId"":""QID190_x5_1""}","{""ImportId"":""QID190_x7_1""}","{""ImportId"":""QID190_x6_1""}","{""ImportId"":""QID190_x17_TEXT""}","{""ImportId"":""QID190_x17_1""}","{""ImportId"":""QID192"",""choiceId"":""1""}","{""ImportId"":""QID192"",""choiceId"":""2""}","{""ImportId"":""QID192"",""choiceId"":""3""}","{""ImportId"":""QID192"",""choiceId"":""4""}","{""ImportId"":""QID192"",""choiceId"":""5""}","{""ImportId"":""QID192"",""choiceId"":""6""}","{""ImportId"":""QID192"",""choiceId"":""7""}","{""ImportId"":""QID192"",""choiceId"":""8""}","{""ImportId"":""QID192"",""choiceId"":""9""}","{""ImportId"":""QID192_17_TEXT""}","{""ImportId"":""QID189"",""choiceId"":""1""}","{""ImportId"":""QID189"",""choiceId"":""2""}","{""ImportId"":""QID189"",""choiceId"":""3""}","{""ImportId"":""QID189"",""choiceId"":""4""}","{""ImportId"":""QID189"",""choiceId"":""5""}","{""ImportId"":""QID189"",""choiceId"":""6""}","{""ImportId"":""QID189"",""choiceId"":""7""}","{""ImportId"":""QID189"",""choiceId"":""8""}","{""ImportId"":""QID189"",""choiceId"":""9""}","{""ImportId"":""QID94_1"",""choiceId"":""1""}","{""ImportId"":""QID197"",""choiceId"":""1""}","{""ImportId"":""Wave""}","{""ImportId"":""WaveUpdate""}","{""ImportId"":""complete_status""}","{""ImportId"":""SurveyID""}","{""ImportId"":""QSEDResponseID""}","{""ImportId"":""Subject""}","{""ImportId"":""PanelID""}","{""ImportId"":""Language""}","{""ImportId"":""RecipientLanguage""}","{""ImportId"":""Q_Language""}","{""ImportId"":""person_geo""}","{""ImportId"":""person_region""}","{""ImportId"":""person_country""}","{""ImportId"":""language""}","{""ImportId"":""person_industry""}","{""ImportId"":""sales_segment""}","{""ImportId"":""source""}","{""ImportId"":""account""}","{""ImportId"":""TranslationLanguage""}","{""ImportId"":""CSM""}","{""ImportId"":""CMBU_CSM""}","{""ImportId"":""EUC_CSM""}","{""ImportId"":""VMC_CSM""}","{""ImportId"":""Hierarchy""}","{""ImportId"":""Job Role""}","{""ImportId"":""Job Title""}","{""ImportId"":""QSEDResponseId""}","{""ImportId"":""FINALREGION""}","{""ImportId"":""WEIGHT""}","{""ImportId"":""CB_CSM""}","{""ImportId"":""WT_SEGMENT""}","{""ImportId"":""mobile_device""}","{""ImportId"":""QID166_TEXT_TRANSLATEDenmatveqr""}","{""ImportId"":""QID173_TEXT_TRANSLATEDenop80yuv""}","{""ImportId"":""QID177_TEXT_TRANSLATEDenbxu5qq0""}","{""ImportId"":""QID179_TEXT_TRANSLATEDenfwltfjs""}","{""ImportId"":""QID180_TEXT_TRANSLATEDen9ewb5mw""}","{""ImportId"":""QID190_x11_1_TRANSLATEDentnqq60m""}","{""ImportId"":""QID190_x12_1_TRANSLATEDen2fkokcb""}","{""ImportId"":""QID190_x14_1_TRANSLATEDenfaplxe0""}","{""ImportId"":""QID190_x15_1_TRANSLATEDenrkg48f7""}","{""ImportId"":""QID190_x17_1_TRANSLATEDenumofwtd""}","{""ImportId"":""QID190_x1_1_TRANSLATEDent3f2pz4""}","{""ImportId"":""QID190_x5_1_TRANSLATEDeni9nif2s""}","{""ImportId"":""QID190_x6_1_TRANSLATEDentufoyj2""}","{""ImportId"":""QID190_x7_1_TRANSLATEDenggjrshl""}"
+11/15/21 21:04,11/15/21 21:07,Imported,100,223,TRUE,12/15/21 10:05,R_6AaCEkIn7LRXuUS,email,EN,0.600000024,Promoter,9,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,5,5,5,5,6,6,5,4,5,5,5,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_z5MHD66SVggkg6t,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,EN,EN,EN,APJ,ASEAN,INDONESIA,,,,SFDC,,,0,0,0,0,,,,R_z5MHD66SVggkg6t,,0.787109635,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/10/21 9:00,11/10/21 9:05,Imported,100,262,TRUE,12/15/21 10:05,R_74yZFhxf5VRBN2e,email,DE,1,Passive,8,,,"Technisch top, doch immer mehr kostenintensiv.",Budget Owner â€“ Final decision-maker on significant VMware purchases for my company,Yes,,3,6,4,4,6,5,5,6,6,6,5,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,6,,,,,,,,,,Technisch sehr zuverlÃ¤ssig,,,,,,,,,,,,,,"Modern Application Platform
+
+ VMware Tanzu portfolio
+","Digital Workspace (including VDI)
+
+ Workspace ONE, VMware Horizon
+",,,,,,Expand hybrid cloud,,,,Remote workforce,Enhance security,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2zjzLB3knKnIAdD,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,DE,DE,DE,EMEA,CEMEA,GERMANY,,Other,C2,MDH,,,0,0,0,0,IT PRACTITIONER,Systems Administrator,Sysadmin,R_2zjzLB3knKnIAdD,,0.536990027,0,2HFY22__1,0,,"Technically top, but always more expensive.",,,,Technically very reliable,,,,,,,,
+11/15/21 21:32,11/15/21 21:36,Imported,100,228,TRUE,12/15/21 10:05,R_81cqwo6bIRMxDf0,email,JA,0.899999976,Detractor,5,,ç¤¾å†…ã§ã¯è‡ªåˆ†ä»¥å¤–ãŒVMwareè£½å“ã‚’ä½¿ã£ã¦ã„ã‚‹ã“ã¨ã«æ„Ÿå¿ƒãŒãªã„ã€‚ ç¤¾å¤–ã«å¯¾ã—ã¦ã¯ã€å¤§ã—ãŸã“ã¨ã‚’ã—ã¦ã„ã‚‹ã‚ã‘ã§ã¯ãªã„ã®ã§ã€ã‚ã¾ã‚ŠæŽ¨å¥¨ã™ã‚‹ã»ã©ã®ã“ã¨ã§ã¯ãªã„ã¨æ„Ÿã˜ã‚‹,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,5,4,,,,,,,,,,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,5,,,,,,,,,,vSphereã‚’ä½¿ã£ã¦ã„ã‚‹ãŒç„¡å„Ÿã§ä½¿ã„å‹æ‰‹ãŒã‚ˆã„,,,,,,,,,,,,,,,,,,,,,,,Scale down on-prem,,,,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3KAsh8uT0AEb4tX,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,Services,,SFDC,,,0,0,0,0,PRACTITIONER-OTHER,Programmer / Developer,Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¼Â³Ã¯Â¼Â²Ã©Æ’Â¨,R_3KAsh8uT0AEb4tX,,0.462734375,0,2HFY22__1,0,,,,,"I'm not impressed that anyone other than myself is using VMware products in the company. I don't think I'm doing much to the outside world, so I don't think it's a good idea.","I am using vSphere, but it is free and easy to use.",,,,,,,,
+11/15/21 21:33,11/15/21 21:37,Imported,100,212,TRUE,12/15/21 10:05,R_8oc1McCxx2Gv5MW,email,EN,1,Promoter,10,"The product is ultra reliable , IT offers great flexibility. The online support for updates/ upgrades is well documented.",,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,5,6,5,6,Extremely Satisfied  -   7,6,5,6,5,5,,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,"Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+",,,,,,,,,Expand hybrid cloud,,,,,,Business continuity,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1Ln8PD3Q8Ww0DVC,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,ANZ,AUSTRALIA,,Other,,MDH,,,0,0,0,0,,Consultant,,R_1Ln8PD3Q8Ww0DVC,,1.742058824,0,2HFY22__1,0,,,,"The product is ultra reliable , IT offers great flexibility. The online support for updates/ upgrades is well documented.",,,,,,,,,,
+11/10/21 5:15,11/10/21 6:15,Imported,35,32,FALSE,12/15/21 10:05,R_baealDUWAvUQD66,email,DE,1,Promoter,10,,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2HFY22,2HFY22,0,SV_eX6YSL8Lzo20kmi,R_3KT1VO2673mOS5H,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,DE,DE,DE,EMEA,CEMEA,GERMANY,,,C2,MDH,,,0,0,0,0,,,,R_3KT1VO2673mOS5H,,0.536990027,0,2HFY22__0,0,,,,,,,,,,,,,,
+11/10/21 5:02,11/10/21 5:04,Imported,100,110,TRUE,12/15/21 10:05,R_bfn4E9VepSIOViC,email,PT-BR,0.899999976,Promoter,9,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,3,5,4,6,Extremely Satisfied  -   7,Extremely Satisfied  -   7,5,6,6,5,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Expand on-prem,Scale down on-prem,,Remote workforce,Enhance security,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_237VPT8DHm8rhq3,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,PT-BR,PT-BR,PT-BR,EMEA,SEMEA,PORTUGAL,,Government - Local,C2,MDH,,,0,0,0,0,,Other,,R_237VPT8DHm8rhq3,,0.552003728,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/10/21 10:23,11/10/21 10:26,Imported,100,143,TRUE,12/15/21 10:05,R_bmcdsXv1Vif0l9A,email,EN,0.899999976,Passive,7,,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,6,6,6,4,6,,6,5,6,6,5,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,,Scale down on-prem,,Remote workforce,Enhance security,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3dKvurlmFPlJtfD,NPS Closed Loop â€“ 2HFY22,CG_1hSTBytw8era6ar,EN,EN,EN,AMER,NAMERICA,UNITED STATES OF AMERICA,,Education - Primary & Secondary,C2,MDH,,,0,0,0,0,C-2 LEVEL IT,Cio,IT Director,R_3dKvurlmFPlJtfD,,2.77081992,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/15/21 21:11,11/15/21 21:13,Imported,100,145,TRUE,12/15/21 10:05,R_br9vx6tzXNE2Hk2,email,EN,0.899999976,Promoter,10,,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+","Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+","Cloud Management
+
+ VMware vRealize portfolio
+","Modern Application Platform
+
+	VMware Tanzu portfolio
+
+","Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+","Networking
+
+	VMware NSX portfolio including Avi
+
+","Security
+
+	VMware Carbon Black portfolio
+
+",,,6,6,6,6,6,6,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_vJ47NDZ44AhuKcN,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,INDIA,SRI LANKA,,Pharmaceutical,C2,MDH,,,0,0,0,0,C LEVEL IT,,IT executive,R_vJ47NDZ44AhuKcN,,0.429202899,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/10/21 21:44,11/10/21 21:45,Imported,100,60,TRUE,12/15/21 10:05,R_cBDjbBgO6IRka58,email,EN,1,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,5,5,5,5,5,5,5,5,5,5,5,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+",,"Cloud Management
+
+ VMware vRealize portfolio
+",,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+","Networking
+
+	VMware NSX portfolio including Avi
+
+",,,,6,6,,6,,6,6,,,,,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,,Expand on-prem,,,,Enhance security,,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1IatnrPas2zlV3M,NPS Closed Loop â€“ 2HFY22,CG_xFyuGIchk6aEixb,EN,EN,EN,APJ,ANZ,AUSTRALIA,,,C2,MDH,,,0,0,0,0,,,,R_1IatnrPas2zlV3M,,1.742058824,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/10/21 21:03,11/10/21 21:06,Imported,100,138,TRUE,12/15/21 10:05,R_eLO6IwJcB7K9mw6,email,JA,1,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,5,5,5,5,Extremely Satisfied  -   7,,5,5,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Expand on-prem,,,,,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_xilWI2J2DQQiclX,NPS Closed Loop â€“ 2HFY22,CG_xFyuGIchk6aEixb,JA,JA,JA,APJ,JAPAN,JAPAN,,Manufacturing - Discrete,C2,MDH,,,0,0,0,0,,,,R_xilWI2J2DQQiclX,,0.462734375,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/10/21 5:01,11/10/21 6:03,Imported,35,103,FALSE,12/15/21 10:05,R_0NZtFQyxZpxEs0S,email,EN,1,Promoter,10,,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2HFY22,2HFY22,0,SV_eX6YSL8Lzo20kmi,R_2ossZDPdBfV8UKZ,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,EN,EN,EN,EMEA,CEMEA,ROMANIA,,,C2,MDH,,,0,0,0,0,,,,R_2ossZDPdBfV8UKZ,,0.536990027,0,2HFY22__0,0,,,,,,,,,,,,,,
+11/15/21 21:03,11/15/21 21:04,Imported,100,83,TRUE,12/15/21 10:05,R_0dBp8dmWP2ksD6C,email,ZH-S,,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,5,5,4,6,6,6,6,6,6,6,6,,,,,,"Modern Application Platform
+
+	VMware Tanzu portfolio
+
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,product,,,,,,,,,,,,,,,,,,,,,,,Business continuity,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1IaNueYJ5QoTHVo,NPS Closed Loop â€“ 2HFY22,CG_1pyAcPykvJTM0uJ,ZH-S,ZH-S,ZH-S,APJ,GCH,China,,,,Tanzu,,,0,0,0,0,,,,R_1IaNueYJ5QoTHVo,,0.671161473,0,2HFY22__1,0,,,,,,,,,,,product,,,
+11/15/21 21:35,11/15/21 21:36,Imported,100,82,TRUE,12/15/21 10:05,R_1EWuGS1vlnSXcz4,email,JA,0.800000012,Detractor,5,,,,"Non-IT Influencer - Influence my companyâ€™s adoption of VMware, but not involved in implementation of VMware",Yes,,2,3,4,4,5,4,4,3,2,3,4,,,,"Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+",,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,,,Scale down on-prem,,,,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_R7SsDA9BExGsSyZ,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,Manufacturing - Discrete,C1,MDH,,,0,0,0,0,IT PRACTITIONER,Engineer,ç”Ÿç”£æŠ€è¡“éƒ¨ ç”Ÿç”£æŠ€è¡“èª² å‰¯å‚äº‹,R_R7SsDA9BExGsSyZ,,0.462734375,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/10/21 22:47,11/10/21 22:49,Imported,100,164,TRUE,12/15/21 10:05,R_1Sa6yEBXdqZLHr8,email,ZH-T,0.899999976,Promoter,9,ç©©å®š,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,4,6,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,6,6,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,"Cloud Management
+
+ VMware vRealize portfolio
+",,,,,,,Extremely Satisfied  - 7,,,Extremely Satisfied  - 7,,,,,,,ç©©å®š,,,å®¢è£½åŒ–,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,,Expand on-prem,,Accelerate SaaS adoption,Remote workforce,Enhance security,Business continuity,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_30kF7YGjtfrzmB6,NPS Closed Loop â€“ 2HFY22,CG_xFyuGIchk6aEixb,ZH-T,ZH-T,ZH-T,APJ,GCH,TAIWAN,,"Banking, Finance & Insurance",,MDH,,,0,0,0,0,,Platform/system Architect,SP,R_30kF7YGjtfrzmB6,,0.671161473,0,2HFY22__1,0,,,,stability,,stability,,,customized,,,,,
+11/15/21 21:08,11/15/21 21:12,Imported,100,192,TRUE,12/15/21 10:05,R_249MsaizTdPwVP8,email,JA,0.899999976,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,5,5,Extremely Agree  - 7,Extremely Agree  - 7,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,"Cloud Management
+
+ VMware vRealize portfolio
+",,,"Networking
+
+	VMware NSX portfolio including Avi
+
+",,,,Extremely Satisfied  - 7,,,6,,,6,,,,,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,,Scale down on-prem,,,Enhance security,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2rVDuxDhvz9rrGE,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,High Tech,,SFDC,,,0,0,0,0,IT PRACTITIONER,Engineer,Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã£Æ’Â©Ã£â€šÂ¦Ã£Æ’â€°Ã¥Å’â€“Ã¯Â¿Â½Ã¯Â¿Â½Ã©â‚¬Â²Ã©Æ’Â¨,R_2rVDuxDhvz9rrGE,,0.462734375,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/15/21 21:07,11/15/21 21:12,Imported,100,345,TRUE,12/15/21 10:05,R_4Z2c2yznUdg2unY,email,JA,0.899999976,Promoter,10,ç‰©ç†çš„ãªãƒãƒ¼ãƒ‰ã‚¦ã‚§ã‚¢ã®ç®¡ç†ã‚³ã‚¹ãƒˆãŒã»ã¼ãªãã€å…¥ã‚Œæ›¿ãˆæ™‚ã‚‚å³ã‹ã‚‰å·¦ã¸ç§»ã™ã ã‘ã®æ„Ÿè¦šã€‚vmwareã‚’é¸æŠžã™ã‚‹ã“ã¨ã§ã€ãƒ‘ãƒ–ãƒªãƒƒã‚¯ã‚¯ãƒ©ã‚¦ãƒ‰ã¸ã®ç§»è¡Œã®é¸æŠžè‚¢ã‚‚åºƒãŒã‚Šã¾ã™ã€‚,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,ãƒˆãƒ©ãƒ–ãƒ«ãŒã»ã¼ãªã„ã€‚æ¥­å‹™åœæ­¢ã‚‚ã—ãŸã“ã¨ãŒã‚ã‚Šã¾ã›ã‚“ã€‚,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,,,,,,,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1OHKLHeIjOfZ4J3,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,Other,C2,MDH,,,0,0,0,0,C-2 LEVEL OTHER,Systems Administrator,ç®¡ç†éƒ¨,R_1OHKLHeIjOfZ4J3,,0.462734375,0,2HFY22__1,0,,,,"There is almost no physical hardware management cost, and it feels like moving from right to left when replacing. Choosing vmware gives you more options for migrating to the public cloud.",,There is almost no trouble. I have never stopped business.,,,,,,,,
+11/15/21 21:07,11/15/21 21:11,Imported,100,264,TRUE,12/15/21 10:05,R_573Rnn22faIZpGK,email,JA,1,Detractor,5,,ç¤¾å†…ã®ã‚¤ãƒ³ãƒ•ãƒ©è¨­è¨ˆã‚’ã©ã†æ§‹ç¯‰ã—ã¦ã„ãã‹ã«ä¾å­˜ã™ã‚‹ã¨æ€ã„ã¾ã™ã€‚ ãã†ã„ã†æ„å‘³ã§ã¯å¯ã‚‚ãªãä¸å¯ã‚‚ãªãã§ã™ãŒã€Hyper-VãŒååˆ†ã«æ©Ÿèƒ½ã™ã‚‹ç¾çŠ¶ã§ã¯ã€é‹ç”¨è¨­è¨ˆã®è€ƒãˆæ–¹æ¬¡ç¬¬ã¨æ€ã„ã¾ã™ã€‚,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,,,,,2,,,,4,4,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,4,,,,,,,,,,å¯ã‚‚ãªãä¸å¯ã‚‚ãªã,,,,,,,,,,,,,,,,,,,,,,,,,,,,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1E6E57zIuISKamK,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,Business Services,C2,SFDC,,,0,0,0,0,IT PRACTITIONER,,Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã§â„¢ÂºÃ¦Å“Â¬Ã©Æ’Â¨ 1Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½,R_1E6E57zIuISKamK,,0.462734375,0,2HFY22__1,0,,,,,"I think it depends on how you build your in-house infrastructure design. In that sense, it is neither good nor bad, but in the current situation where Hyper-V is fully functional, I think it depends on the concept of operational design.",It's neither good nor bad,,,,,,,,
+11/15/21 21:27,11/15/21 21:29,Imported,100,119,TRUE,12/15/21 10:05,R_5yy6sAGGkGy1h8a,email,JA,0.600000024,Promoter,10,,,,Partner â€“ Member of the VMware Partner Network (e.g. Value-Added Reseller),Yes,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,6,6,5,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,"Cloud Management
+
+ VMware vRealize portfolio
+",,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+",,,,,6,,,6,,6,,,,,,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,Expand on-prem,,,Remote workforce,Enhance security,Business continuity,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3CVFFWw3vhnATUW,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,High Tech,C2,SFDC,,,0,0,0,0,C LEVEL GENERIC,Other,Ã¥ â€“Ã§Â·Â Ã¥Â½Â¹Ã¥â€°Â¯Ã§Â¤Â¾Ã©â€¢Â·,R_3CVFFWw3vhnATUW,,0.462734375,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/15/21 21:38,11/15/21 21:41,Imported,100,162,TRUE,12/15/21 10:05,R_6Sg3vNzJePIOiVM,email,EN,1,Passive,8,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,3,,5,,5,6,5,5,4,6,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,5,,,,,,,,,,"WMware VSphere,",,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,Expand on-prem,Scale down on-prem,,Remote workforce,Enhance security,,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_pmfMrt6riqJrQ7T,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,INDIA,SRI LANKA,,Education - Higher Education,C2,MDH,,,0,0,0,0,PRACTITIONER-OTHER,Consultant,Consultant,R_pmfMrt6riqJrQ7T,,0.429202899,0,2HFY22__1,0,,,,,,"WMware VSphere,",,,,,,,,
+11/10/21 6:02,11/10/21 6:08,Imported,100,354,TRUE,12/15/21 10:05,R_6rsNocfqBQwUMT4,email,EN,1,Promoter,10,exposure to all the market leader I just prefer VMware product management,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,6,3,Extremely Agree  - 7,6,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+","Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+","Cloud Management
+
+ VMware vRealize portfolio
+",,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+","Networking
+
+	VMware NSX portfolio including Avi
+
+",,,,Extremely Satisfied  - 7,Extremely Satisfied  - 7,Extremely Satisfied  - 7,,,Extremely Satisfied  - 7,3,,,,This is the widely deployed infrastructure that we support,"rarely used, but performs effectively","rarely used, but performs effectively","rarely used, but performs effectively",,Heavily used - updating can be quite complex,used for one deployment and is causing pain points so we are looking to remove,,,,,,,,,,,,,,,Expand hybrid cloud,,Scale down on-prem,,Remote workforce,,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_27VUA5Yq7OcPo8m,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,EN,EN,EN,EMEA,NEMEA,UNITED KINGDOM OF GREAT BRITAIN & NORTHERN IRELAND,,Business Services,C1,MDH,,,0,0,0,0,,Engineer,,R_27VUA5Yq7OcPo8m,,1.380652681,0,2HFY22__1,0,,,,exposure to all the market leader I just prefer VMware product management,,This is the widely deployed infrastructure that we support,"rarely used, but performs effectively","rarely used, but performs effectively","rarely used, but performs effectively",,,Heavily used - updating can be quite complex,,used for one deployment and is causing pain points so we are looking to remove
+11/15/21 21:13,11/15/21 21:15,Imported,100,121,TRUE,12/15/21 10:05,R_81RRO2xwQMF9dYi,email,EN,0.899999976,Promoter,10,Great environment software & support.,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,Excellent software & support.,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,,,,Remote workforce,Enhance security,Business continuity,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1lmhw2ysD5sNY5J,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,EN,EN,EN,APJ,ANZ,AUSTRALIA,,High Tech,,SFDC,,,0,0,0,0,C-2 LEVEL IT,Manager,IT MANAGER,R_1lmhw2ysD5sNY5J,,1.742058824,0,2HFY22__1,0,,,,Great environment software & support.,,Excellent software & support.,,,,,,,,
+11/10/21 5:40,11/10/21 5:43,Imported,100,210,TRUE,12/15/21 10:05,R_8kd53xg5pddILnU,email,EN,0.600000024,Passive,8,,,,Partner â€“ Member of the VMware Partner Network (e.g. Value-Added Reseller),Yes,,5,6,,3,5,4,4,,6,,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,5,,,,,,,,,,best in class,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,,,,,,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3NJ0ZA8QC7OFjbA,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,EN,EN,EN,EMEA,CEMEA,HUNGARY,,,C2,MDH,,,0,0,0,0,PRACTITIONER-OTHER,,Technical Presales Consultant,R_3NJ0ZA8QC7OFjbA,,0.536990027,0,2HFY22__1,0,,,,,,best in class,,,,,,,,
+11/15/21 21:36,11/15/21 21:39,Imported,100,195,TRUE,12/15/21 10:05,R_9WBRM9b9JNiBtcy,email,JA,1,Passive,8,,,ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆï¼ˆæ“ä½œæ–¹æ³•ï¼‰ã®ç®‡æ‰€ãŒã‚ã‹ã‚Šã¥ã‚‰ã„,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,3,3,4,5,6,5,4,4,5,5,5,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,Expand hybrid cloud,,,Accelerate SaaS adoption,Remote workforce,,Business continuity,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_zdSZ1RH7ctFOFEZ,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,Business Services,,SFDC,,,0,0,0,0,PRACTITIONER-OTHER,Architect,Employee,R_zdSZ1RH7ctFOFEZ,,0.462734375,0,2HFY22__1,0,,It is difficult to understand the part of the document (operation method),,,,,,,,,,,,
+11/15/21 21:22,11/15/21 21:27,Imported,100,299,TRUE,12/15/21 10:05,R_bBKBlhjh3AzdxFs,email,JA,0.899999976,Promoter,9,"Although Nutanix is gaining ground, it still holds a certain share of the virtual machine market, and its operation is stable.",,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,5,5,6,5,5,5,5,4,5,4,4,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,5,,,,,,,,,,"As already mentioned, it has a certain share of the virtual machine market, and its operation is stable.",,,,,,,,,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,,,Expand on-prem,,Accelerate SaaS adoption,Remote workforce,Enhance security,Business continuity,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_ULORRjvYq92tJcZ,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,Manufacturing - Process,C2,SFDC,,,0,0,0,0,PRACTITIONER-OTHER,Vice President,Ã£â€šÂ½Ã£Æ’ÂªÃ£Æ’Â¥Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã£Æ’Â³Ã£â€šÂ¿Ã£Æ’Â¼,R_ULORRjvYq92tJcZ,,0.462734375,0,2HFY22__1,0,,,,"Although Nutanix is gaining ground, it still holds a certain share of the virtual machine market, and its operation is stable.",,"As already mentioned, it has a certain share of the virtual machine market, and its operation is stable.",,,,,,,,
+11/10/21 21:18,11/10/21 21:22,Imported,100,230,TRUE,12/15/21 10:05,R_bBkg3083FPdLip8,email,EN,0.899999976,Promoter,10,Good,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,,,,,Extremely Satisfied  -   7,,Extremely Agree  - 7,,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,its very good technology and scalable.,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,Expand on-prem,,,,,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1pyYTFXGxMZmnUt,NPS Closed Loop â€“ 2HFY22,CG_xFyuGIchk6aEixb,EN,EN,EN,APJ,INDIA,INDIA,,"Banking, Finance & Insurance",C2,MDH,,,0,0,0,0,IT PRACTITIONER,,IT,R_1pyYTFXGxMZmnUt,,0.429202899,0,2HFY22__1,0,,,,Good,,its very good technology and scalable.,,,,,,,,
+11/11/21 5:31,11/11/21 5:34,Imported,100,205,TRUE,12/15/21 10:05,R_bCmXsVkBVHFmcYu,email,JA,0.899999976,Passive,7,,,,Partner â€“ Member of the VMware Partner Network (e.g. Value-Added Reseller),Yes,,4,4,4,4,4,4,4,4,5,4,4,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,Expand hybrid cloud,,Scale down on-prem,Accelerate SaaS adoption,,Enhance security,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2CxiEMNDDzenBjy,NPS Closed Loop â€“ 2HFY22,CG_xFyuGIchk6aEixb,JA,JA,JA,APJ,JAPAN,JAPAN,,,,MDH,,,0,0,0,0,,Engineer,,R_2CxiEMNDDzenBjy,,0.462734375,0,2HFY22__1,1,,,,,,,,,,,,,,
+11/15/21 21:41,11/15/21 21:44,Imported,100,125,TRUE,12/15/21 10:05,R_bJkscG4WRTZUwd0,email,JA,0.899999976,Passive,7,,,,Partner â€“ Member of the VMware Partner Network (e.g. Value-Added Reseller),Yes,,3,2,3,5,5,5,5,5,6,3,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+","Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+","Cloud Management
+
+ VMware vRealize portfolio
+","Modern Application Platform
+
+	VMware Tanzu portfolio
+
+","Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+","Networking
+
+	VMware NSX portfolio including Avi
+
+","Security
+
+	VMware Carbon Black portfolio
+
+",,,5,5,5,5,5,5,5,5,,,,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,,,Accelerate SaaS adoption,,Enhance security,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1IaTNu4N3CLta9v,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,"Banking, Finance & Insurance",OTHER,SFDC,,,0,0,0,0,,,,R_1IaTNu4N3CLta9v,,0.462734375,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/15/21 21:05,11/15/21 21:08,Imported,100,155,TRUE,12/15/21 10:05,R_cGSBx5Qm0BnXgwu,email,JA,0.899999976,Promoter,10,å®‰å®šã—ã¦å‹•ä½œã™ã‚‹ã‹ã‚‰,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,5,5,5,5,5,5,6,6,6,6,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,,,Accelerate SaaS adoption,,Enhance security,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2ElRMRmfx7ruEQt,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,Manufacturing - Discrete,,SFDC,,,0,0,0,0,,Engineer,,R_2ElRMRmfx7ruEQt,,0.462734375,0,2HFY22__1,0,,,,Because it works stably,,,,,,,,,,
+11/15/21 21:11,11/15/21 21:13,Imported,100,98,TRUE,12/15/21 10:05,R_djbAycp3kbodtyK,email,JA,1,Detractor,3,,,,Partner â€“ Member of the VMware Partner Network (e.g. Value-Added Reseller),No,ã»ã¼æŽ¥ç‚¹ãŒç„¡ã„ã€‚ ä¸Šé•·ã«ç›´æŽ¥è©±ã‚’ã—ã¦ãŠã‚Šã€ç¾å ´ã¸ã®æƒ…å ±æä¾›ã¯ç„¡ã„ã€‚,,,,,,,4,4,4,4,4,,,,,,,,,"Security
+
+	VMware Carbon Black portfolio
+
+",,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,Expand hybrid cloud,,Scale down on-prem,,Remote workforce,Enhance security,Business continuity,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_cMZt5GcNxWzpghH,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,High Tech,,MDH,,,0,0,0,0,PRACTITIONER-OTHER,Engineer,ãƒžãƒãƒ¼ã‚¸ãƒ‰ã‚µãƒ¼ãƒ“ã‚¹æŽ¨é€²éƒ¨,R_cMZt5GcNxWzpghH,,0.462734375,0,2HFY22__1,0,"There are almost no contacts. I am talking directly to my superior, and there is no information provided to the site.",,,,,,,,,,,,,
+11/15/21 21:39,11/15/21 21:42,Imported,100,173,TRUE,12/15/21 10:05,R_eG0MSoxMp6ZNaBM,email,JA,0.899999976,Passive,8,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,5,6,5,5,5,6,6,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scale down on-prem,,,,Business continuity,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2aKqmIZxJTcNjqs,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,Retail & Wholesale,C1,MDH,,,0,0,0,0,,,,R_2aKqmIZxJTcNjqs,,0.462734375,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/15/21 21:20,11/15/21 21:24,Imported,100,213,TRUE,12/15/21 10:05,R_eyCXlSRP4VDvn7M,email,JA,0.899999976,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,Extremely Satisfied  -   7,4,4,4,Extremely Satisfied  -   7,6,4,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+",,,,,Extremely Satisfied  - 7,,,,,5,,,,,å®‰å®šç¨¼åƒã€é‹ç”¨ã‚’å®Ÿç¾ã§ãã¦ã„ã‚‹,,,,,æ¤œè¨¼ãªã©ã§æ´»ç”¨ã§ãã‚‹,,,,,,,,,,,,,,,Accelerate IaaS adoption,,,Scale down on-prem,Accelerate SaaS adoption,Remote workforce,Enhance security,Business continuity,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_82i1ZvHLVnJbxDz,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,,,SFDC,,,0,0,0,0,,,,R_82i1ZvHLVnJbxDz,,0.462734375,0,2HFY22__1,0,,,,,,Stable operation and operation have been achieved.,,,,,,"Can be used for verification, etc.",,
+11/15/21 21:41,11/15/21 21:44,Imported,100,202,TRUE,12/15/21 10:05,R_1YsIZjinxeg3Hz8,email,EN,0.899999976,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,,,4,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,6,6,Extremely Agree  - 7,6,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,Ease of use,,,,,,,,,,,,,,,,,,,,,,Expand on-prem,,,,,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_24o71LTV6HilAtC,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,ASEAN,PAKISTAN,,Education - Higher Education,C2,MDH,,,0,0,0,0,IT PRACTITIONER,,NETWORK ADMIN,R_24o71LTV6HilAtC,,0.787109635,0,2HFY22__1,0,,,,,,Ease of use,,,,,,,,
+11/15/21 21:32,11/15/21 21:40,Imported,100,493,TRUE,12/15/21 10:05,R_25DGhg90u7IOioK,email,JA,1,Passive,8,,,å€‹äººçš„ã«ã¯åŽŸèªžã§å•é¡Œç„¡ã„ã¨æ€ã†ã®ã§ã™ãŒã€Security Advisory ã®é€šçŸ¥å†…å®¹ã‚’å¤šè¨€èªžåŒ–ã—ã¦ã„ãŸã ã‘ã‚‹ã¨ã€ã‚ˆã‚Šå¤šãã®ãŠå®¢æ§˜ã«ãŠå–œã³ã„ãŸã ã‘ã‚‹ã®ã§ã¯ãªã„ã‹ã¨æ€ã„ã¾ã™ã€‚,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,6,6,6,6,6,6,6,6,6,6,6,,,,"Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+",,,,,,,,,,6,,,,,,,,,,GCPã®ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ã¯å¤šè¨€èªžåŒ–ã•ã‚Œã¦ãŠã‚Šã€å¤šãã®ãƒ¦ãƒ¼ã‚¶ãƒ¼ã®çš†ã•ã¾ã«ã¨ã£ã¦ã€å¤§å¤‰èª­ã¿ã‚„ã™ããªã£ã¦ãŠã‚Šã¾ã™ã€‚,,,,,,,,,,"Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+",,,,,,,,Accelerate IaaS adoption,Expand hybrid cloud,,Scale down on-prem,,,Enhance security,,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1KpdWGIbwEeorg1,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,Services,C2,MDH,,,0,0,0,0,IT PRACTITIONER,Analyst,ç‰¹å‘½éƒ¨,R_1KpdWGIbwEeorg1,,0.462734375,0,2HFY22__1,0,,"Personally, I don't think there is a problem with the original language, but I think that more customers will be pleased if the content of the Security Advisory notification is multilingual.",,,,,,The GCP documentation is multilingual and very easy to read for many users.,,,,,,
+11/10/21 7:31,11/10/21 8:03,Imported,100,1960,TRUE,12/15/21 10:05,R_2nrNmESiC33Euvc,email,DE,0.899999976,Promoter,10,Unkompliziert und zuverlÃ¤ssig.,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,,,6,Extremely Satisfied  -   7,,6,6,6,6,6,6,,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,rennt ...,,,,,,,,,,,,,,,,,,,,,,,,,,Enhance security,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_9n2dpQMqFXZoJ3j,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,DE,DE,DE,EMEA,CEMEA,GERMANY,,Energy & Mining,C2,MDH,,,0,0,0,0,IT PRACTITIONER,Network Administrator,Dipl.-Ing. (FH),R_9n2dpQMqFXZoJ3j,,0.536990027,0,2HFY22__1,0,,,,Straightforward and reliable.,,runs ...,,,,,,,,
+11/15/21 21:14,11/15/21 21:19,Imported,100,296,TRUE,12/15/21 10:05,R_3fx6PSJQdITjmOa,email,JA,0.899999976,Passive,8,,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,5,3,,6,6,,5,6,,6,4,,,,,,,,,"Security
+
+	VMware Carbon Black portfolio
+
+",,,,,,,,,,5,,,,,,,,,,æœ¬å¹´åº¦ã¯è©•ä¾¡åˆ©ç”¨ã€æ¬¡å¹´åº¦è©¦é¨“åˆ©ç”¨ã¨ãªã‚Šã¾ã™ã€‚,,,,,,,,,,"Security
+
+ VMware Carbon Black portfolio
+",,,Accelerate IaaS adoption,,,,,,Enhance security,,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2xL8Nn1ZUOzbgeN,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,,E2,SFDC,,,0,0,0,0,,,,R_2xL8Nn1ZUOzbgeN,,0.462734375,0,2HFY22__1,0,,,,,,,,,,,,,This year it will be used for evaluation and next year it will be used for testing.,
+11/15/21 21:23,11/15/21 21:43,Imported,100,1198,TRUE,12/15/21 10:05,R_3gZujnMs3pBcFg2,email,EN,1,Passive,8,,,"We would like to know your product roadmap, pricing strategy (once-off vs on-going/recurrent), capability and competency of your local support staff/teams/partners.",Budget Owner â€“ Final decision-maker on significant VMware purchases for my company,Yes,,5,5,5,4,5,6,5,6,6,5,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,6,,,,,,,,,,"I'd be extremely satisfied if I could learn about your product roadmap, pricing for short-medium term and long term pricing strategy",,,,,,,,,,,,,,,,"Networking
+
+ VMware NSX portfolio including Avi
+",,,,Accelerate IaaS adoption,,,,Accelerate SaaS adoption,,Enhance security,,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2eWqZfL76PLGPJb,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,GCH,HONG KONG,,Government - Local,E1,MDH,,,0,0,0,0,IT PRACTITIONER,HEAD,Assistant Secretary,R_2eWqZfL76PLGPJb,,0.671161473,0,2HFY22__1,0,,"We would like to know your product roadmap, pricing strategy (once-off vs on-going/recurrent), capability and competency of your local support staff/teams/partners.",,,,"I'd be extremely satisfied if I could learn about your product roadmap, pricing for short-medium term and long term pricing strategy",,,,,,,,
+11/10/21 5:19,11/10/21 5:24,Imported,100,337,TRUE,12/15/21 10:05,R_3pY6zys1EyaGHsi,email,IT,0.899999976,Promoter,9,"FlessibilitÃ  d'uso, ottimizzazione delle risorse hardware, affidabilitÃ  e buone prestazioni.",,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,5,6,6,5,5,Extremely Satisfied  -   7,5,6,3,5,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,6,,,,,,,,,,Vsphere,,,,,,,,,,,,,,,,,,,,,,,,,,Enhance security,Business continuity,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_vrkzkGRoCgZbrt7,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,IT,IT,IT,EMEA,SEMEA,ITALY,,Manufacturing - Discrete,,MDH,,,0,0,0,0,C LEVEL IT,,SENIOR CLOUD SOLUTIONS SALES EXECUTIVE,R_vrkzkGRoCgZbrt7,,0.552003728,0,2HFY22__1,1,,,,"Flexibility of use, optimization of hardware resources, reliability and good performance.",,Vsphere,,,,,,,,
+11/15/21 21:36,11/15/21 21:45,Imported,100,554,TRUE,12/15/21 10:05,R_6YIZDQ9gwM74yCa,email,JA,0.899999976,Passive,7,,,é¡§å®¢ãƒ‹ãƒ¼ã‚ºã®æŠŠæ¡ãŒè¶³ã‚Šãªã„,Influencer â€“ Influence what my company buys and oversee implementation of VMware,No,æ‹…å½“ãƒãƒ¼ãƒ ã®ã‚¹ã‚­ãƒ«ä¸è¶³,4,4,Extremely Dissatisfied  -  1,4,6,6,5,4,6,5,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+",,"Cloud Management
+
+ VMware vRealize portfolio
+",,,"Networking
+
+	VMware NSX portfolio including Avi
+
+",,,,6,5,,5,,,5,,,,å®‰å®šã—ãŸã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³ã€‚æ–°ãƒãƒ¼ã‚¸ãƒ§ãƒ³ãƒã‚°å¤šã™ãŽã¾ã™ãŒã€‚,æ—¥æœ¬èªžæƒ…å ±ãŒä¸è¶³ã—ã¦ã„ã‚‹ã€‚,,æ—¥æœ¬èªžæƒ…å ±ãŒä¸è¶³ã—ã¦ã„ã‚‹ã€‚,,,ã‚µãƒãƒ¼ãƒˆã‚µã‚¤ã‚¯ãƒ«ãŒçŸ­ã™ãŽã‚‹ã€‚,,,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,"Modern Application Platform
+
+ VMware Tanzu portfolio
+","Digital Workspace (including VDI)
+
+ Workspace ONE, VMware Horizon
+","Networking
+
+ VMware NSX portfolio including Avi
+",,,,,Expand hybrid cloud,Expand on-prem,,,Remote workforce,,Business continuity,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_a5EP0zXKrZ6Omlj,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,Communications,,SFDC,,,0,0,0,0,C-2 LEVEL IT,Manager,Server Group Manager,R_a5EP0zXKrZ6Omlj,,0.462734375,0,2HFY22__1,0,Insufficient skills of the team in charge,Insufficient understanding of customer needs,,,,Stable solution. There are too many new version bugs.,There is a lack of Japanese information.,,There is a lack of Japanese information.,,,,,The support cycle is too short.
+11/15/21 21:31,11/15/21 21:35,Imported,100,235,TRUE,12/15/21 10:05,R_72Kic3AzW1MpeQK,email,EN,0.899999976,Detractor,5,,every thing is well,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,5,6,6,6,Extremely Satisfied  -   7,Extremely Satisfied  -   7,3,6,6,6,5,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,6,,,,,,,,,,we are using forom long time ago we have no any issues so i have give score,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,Expand hybrid cloud,Expand on-prem,Scale down on-prem,Accelerate SaaS adoption,,,Business continuity,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2DZynx77PZwE9rg,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,INDIA,NEPAL,,,C2,MDH,,,0,0,0,0,,,,R_2DZynx77PZwE9rg,,0.429202899,0,2HFY22__1,0,,,,,every thing is well,we are using forom long time ago we have no any issues so i have give score,,,,,,,,
+11/10/21 5:07,11/10/21 5:12,Imported,100,303,TRUE,12/15/21 10:05,R_7R2XMzksup2XwJ8,email,EN,1,Promoter,9,"Stable, comfortable to use. Quite intuitive work. Consume affordable resources to enable VM's",,,Practitioner â€“ Perform the day-to-day VMware operations for my company,No,I just access VSphere in case of the helpdesk ticket. I'm not responsible to setup and run VM environement.,,,,,6,,,,Extremely Agree  - 7,,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+",,,,,,,,,6,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,,,,Accelerate SaaS adoption,Remote workforce,Enhance security,Business continuity,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_24OAjgRa1eBoWs3,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,EN,EN,EN,EMEA,CEMEA,CZECH REPUBLIC,,,C2,MDH,,,0,0,0,0,C-2 LEVEL OTHER,,Business Systems Manager,R_24OAjgRa1eBoWs3,,0.536990027,0,2HFY22__1,0,I just access VSphere in case of the helpdesk ticket. I'm not responsible to setup and run VM environement.,,,"Stable, comfortable to use. Quite intuitive work. Consume affordable resources to enable VM's",,,,,,,,,,
+11/10/21 21:39,11/10/21 21:46,Imported,100,409,TRUE,12/15/21 10:05,R_7WIaJJbM6r9MoiG,email,ZH-S,0.899999976,Promoter,10,,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,Extremely Satisfied  -   7,4,4,5,6,5,5,5,6,5,4,,,,,,,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+",,,,,,,,,,6,,,,,,,,,,å‹‰å¼ºå¯ç”¨ï¼ŒVMä½“éªŒä»æœ‰å¾…æé«˜,,,,,,,,,,"Digital Workspace (including VDI)
+
+ Workspace ONE, VMware Horizon
+",,,,,,,,,,,,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2zVhclIoda7j6Ia,NPS Closed Loop â€“ 2HFY22,CG_xFyuGIchk6aEixb,ZH-S,ZH-S,ZH-S,APJ,GCH,CHINA,,,,MDH,,,0,0,0,0,,,,R_2zVhclIoda7j6Ia,,0.671161473,0,2HFY22__1,0,,,,,,,,,,,,"Barely usable, VM experience still needs to be improved",,
+11/15/21 21:14,11/15/21 21:17,Imported,100,139,TRUE,12/15/21 10:05,R_8iSSP9jQiVRrWhU,email,JA,1,Promoter,10,,,,Partner â€“ Member of the VMware Partner Network (e.g. Value-Added Reseller),No,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+",,,,,Extremely Satisfied  - 7,,,,,Extremely Dissatisfied - 1,,,,,ä½¿ã„ã‚„ã™ã„,,,,,ã‚µãƒãƒ¼ãƒˆã‚±ãƒ¼ã‚¹ã‚’ã‚ã’ã¦å¯¾å¿œã—ã¦ã„ã‚‹ãŒåŠå¹´ä»¥ä¸Šã«ã‚ãŸã£ã¦ã†ã¾ãå‹•ã‹ãªã„,,,,,,,,,,,,,,,,Expand hybrid cloud,Expand on-prem,,Accelerate SaaS adoption,Remote workforce,,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_82ns2MXO4iEKGJj,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,,,MDH,,,0,0,0,0,IT PRACTITIONER,Engineer,ã‚·ã‚¹ãƒ†ãƒ ã‚¨ãƒ³ã‚¸ãƒ‹ã‚¢,R_82ns2MXO4iEKGJj,,0.462734375,0,2HFY22__1,0,,,,,,user friendly,,,,,,"I have raised a support case, but it does not work well for more than half a year",,
+11/15/21 21:34,11/15/21 21:35,Imported,100,38,TRUE,12/15/21 10:05,R_8nNl03iDQI2GgoS,email,EN,1,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1LTB4rkCtMsprou,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,EN,EN,EN,APJ,ANZ,AUSTRALIA,,,C2,SFDC,,,0,0,0,0,C-1 LEVEL IT,,DIRECTOR OF IT,R_1LTB4rkCtMsprou,,1.742058824,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/11/21 14:35,11/11/21 14:40,Imported,100,306,TRUE,12/15/21 10:05,R_8ohzRtO083cKP9I,email,EN,1,Passive,7,,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,5,6,6,6,6,5,,5,6,6,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,6,,,,,,,,,,"VxRail works great, but the upgrade process to the latest version or patch could be a lot easier.",,,,,,,,,,,,,,,,,,,,,,,,Accelerate SaaS adoption,Remote workforce,Enhance security,Business continuity,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2TKPTR0LEg8BvXt,NPS Closed Loop â€“ 2HFY22,CG_1hSTBytw8era6ar,EN,EN,EN,AMER,NAMERICA,UNITED STATES OF AMERICA,,"Banking, Finance & Insurance",C2,MDH,,,0,0,0,0,PRACTITIONER-OTHER,Other,Manager,R_2TKPTR0LEg8BvXt,,2.77081992,0,2HFY22__1,0,,,,,,"VxRail works great, but the upgrade process to the latest version or patch could be a lot easier.",,,,,,,,
+11/15/21 21:22,11/15/21 21:34,Imported,100,700,TRUE,12/15/21 10:05,R_9mXZt2i96rb0DBQ,email,JA,0.899999976,Passive,8,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,5,4,,5,5,,,,,,,,,,Other,VMware Workstation Player,,,,,,,,,6,,,,,,,,,,,Hyper-Vã‚ˆã‚Šãƒ›ã‚¹ãƒˆOSã¨ã‚·ãƒ¼ãƒ ãƒ¬ã‚¹ã«æ“ä½œã§ãã‚‹ãŸã‚,,,,,,,,,,,,,,,,Remote workforce,Enhance security,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_CaDheDbeCtm7CQV,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,High Tech,C2,MDH,,,0,0,0,0,C LEVEL GENERIC,,ä¸­éƒ¨äº‹æ¥­éƒ¨ åˆ†å®¤é•·,R_CaDheDbeCtm7CQV,,0.462734375,0,2HFY22__1,0,,,,,,,,,,Because it can be operated seamlessly with the host OS from Hyper-V,,,,
+11/10/21 21:07,11/10/21 21:40,Imported,100,2003,TRUE,12/15/21 10:05,R_a94riJprtCjO9GC,email,JA,1,Detractor,0,,ã‚µãƒãƒ¼ãƒˆãƒ¬ãƒ™ãƒ«ãŒä½Žã„ æ”¹ä¿®å¯¾å¿œãŒé…ã„ å–¶æ¥­ãŒã‚ã¾ã‚Šå”åŠ›çš„ã§ãªã„ å„²ã‹ã‚‰ãªã„,,Partner â€“ Member of the VMware Partner Network (e.g. Value-Added Reseller),No,å–¶æ¥­ãŒå”åŠ›çš„ã§ãªã„ è‡ªåˆ†ãŸã¡ã®éƒ½åˆã§å‹æ‰‹ã«æ¡ˆä»¶ã‚’é€²ã‚ã¦ã—ã¾ã†ã€‚,Extremely Dissatisfied  -  1,4,4,Extremely Dissatisfied  -  1,4,4,Extremely Disagree - 1,Extremely Disagree - 1,4,Extremely Disagree - 1,Extremely Disagree - 1,ã‚¤ãƒŽãƒ™ãƒ¼ã‚·ãƒ§ãƒ³ã‚’æ„Ÿã˜ãªã„ã‹ã‚‰,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Expand on-prem,,,,,Business continuity,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2f6VvGqdwXXEJYg,NPS Closed Loop â€“ 2HFY22,CG_xFyuGIchk6aEixb,JA,JA,JA,APJ,JAPAN,JAPAN,,,C1,MDH,,,0,0,0,0,PRACTITIONER-OTHER,Manager,ç¬¬äºŒã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³å–¶æ¥­æœ¬éƒ¨ ç¬¬ä¸€å–¶æ¥­éƒ¨ ç¬¬ä¸€èª² èª²é•·,R_2f6VvGqdwXXEJYg,,0.462734375,0,2HFY22__1,0,Sales are not cooperative We will proceed with the project without permission due to our own circumstances.,,I don't feel innovation,,Low support level Slow repair response Sales are not very supportive Not profitable,,,,,,,,,
+11/15/21 21:33,11/15/21 21:44,Imported,100,663,TRUE,12/15/21 10:05,R_bq1QM6RpV52SVj8,email,EN,0.899999976,Detractor,5,,"NSX support extension was quoted at $210K in May 2021, now considerably higher and VMWare just expect me as the customer to wear the fact that the VMWare team calculated incorrectly and the price has gone up.  NSX-v to NSX-t upgrade feasibility and actions have taken an excessive amount of time and we still have no clear path forward.  VMWare Account Executive was promoted internally and we as the customer, were not considered in the recruitment process.  New person has been appointed with no buy in from us as the customer.  VMWare Account Management leaves a lot to be desired for us as a major customer.  VMWare Professional Services team are good, and genuinely trying to support us.  VMWare technical team on our account are excellent!  Particularly Chris Secombe.",,Budget Owner â€“ Final decision-maker on significant VMware purchases for my company,Yes,,2,2,2,5,5,2,2,2,5,4,4,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+",,"Cloud Management
+
+ VMware vRealize portfolio
+","Modern Application Platform
+
+	VMware Tanzu portfolio
+
+",,,,,,5,3,,5,5,,,,,,"Solid, stable product.",Developing product.,,"Solid, stable product.","Solid, stable product.",,,,,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+",,,"Modern Application Platform
+
+ VMware Tanzu portfolio
+",,,,,,,Expand hybrid cloud,,,,Remote workforce,Enhance security,,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2PALt3ORpvVx1Ne,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,EN,EN,EN,APJ,ANZ,AUSTRALIA,,High Tech,,SFDC,,,0,0,0,0,C LEVEL IT,Executive,Executive Manager Cloud & Hybrid Infrastructure,R_2PALt3ORpvVx1Ne,,1.742058824,0,2HFY22__1,0,,,,,"NSX support extension was quoted at $210K in May 2021, now considerably higher and VMWare just expect me as the customer to wear the fact that the VMWare team calculated incorrectly and the price has gone up.  NSX-v to NSX-t upgrade feasibility and actions have taken an excessive amount of time and we still have no clear path forward.  VMWare Account Executive was promoted internally and we as the customer, were not considered in the recruitment process.  New person has been appointed with no buy in from us as the customer.  VMWare Account Management leaves a lot to be desired for us as a major customer.  VMWare Professional Services team are good, and genuinely trying to support us.  VMWare technical team on our account are excellent!  Particularly Chris Secombe.","Solid, stable product.",Developing product.,,"Solid, stable product.",,"Solid, stable product.",,,
+11/15/21 21:16,11/15/21 21:18,Imported,100,123,TRUE,12/15/21 10:05,R_cAwBhfq4IrARQkS,email,EN,1,Promoter,9,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,2,3,4,4,4,4,4,5,5,5,5,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,5,,,,,,,,,,Interface could be further simplified.,,,,,,,,,,,,,,,,,,,,,,Expand on-prem,,,Remote workforce,Enhance security,Business continuity,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_vUIPAo8iUkHKX7j,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,ANZ,AUSTRALIA,,Retail & Wholesale,C2,MDH,,,0,0,0,0,IT PRACTITIONER,,MIS,R_vUIPAo8iUkHKX7j,,1.742058824,0,2HFY22__1,0,,,,,,Interface could be further simplified.,,,,,,,,
+11/15/21 21:32,11/15/21 21:33,Imported,100,89,TRUE,12/15/21 10:05,R_d1pYYgf5FRCIXNI,email,JA,1,Promoter,9,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,No,,Extremely Satisfied  -   7,5,5,Extremely Satisfied  -   7,Extremely Satisfied  -   7,6,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Expand on-prem,Scale down on-prem,,,Enhance security,Business continuity,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3lKtpJH6x5322j7,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,Education - Higher Education,,SFDC,,,0,0,0,0,PRACTITIONER-OTHER,CTO,Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½Ã¯Â¿Â½,R_3lKtpJH6x5322j7,,0.462734375,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/15/21 21:27,11/15/21 21:32,Imported,100,318,TRUE,12/15/21 10:05,R_dcIwoGvYejusrr0,email,EN,1,Passive,8,,,,Partner â€“ Member of the VMware Partner Network (e.g. Value-Added Reseller),Yes,,5,5,5,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,,6,6,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,User friendly and easy to handle,,,,,,,,,,,,,,,,,,,,,,,,,,Enhance security,Business continuity,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_29hopqAZMBLAOah,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,INDIA,BANGLADESH,,,C2,MDH,,,0,0,0,0,,,,R_29hopqAZMBLAOah,,0.429202899,0,2HFY22__1,1,,,,,,User friendly and easy to handle,,,,,,,,
+11/10/21 7:09,11/10/21 7:13,Imported,100,211,TRUE,12/15/21 10:05,R_e4HpulfEgDfAcsK,email,EN,1,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,5,5,6,5,5,5,4,5,5,6,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,"Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+",,,,,,,,Extremely Satisfied  - 7,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,,,,Remote workforce,,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2BllcxC9AqAFsz4,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,EN,EN,EN,EMEA,SEMEA,KENYA,,,C2,MDH,,,0,0,0,0,IT PRACTITIONER,Other It,SYSTEM ADMINISTRATOR,R_2BllcxC9AqAFsz4,,0.552003728,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/15/21 21:31,11/15/21 21:38,Imported,100,381,TRUE,12/15/21 10:05,R_eqva1gwo1kreED4,email,EN,1,Promoter,10,"VMware is best product in virtualization, I will recommended 100% for all users",,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,6,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,,"Private Cloud
+
+ VMware Cloud Foundation (VCF)
+","Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+","Cloud Management
+
+ VMware vRealize portfolio
+",,,,,,,,Extremely Satisfied  - 7,Extremely Satisfied  - 7,Extremely Satisfied  - 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,,,,Remote workforce,,Business continuity,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3QF9aFsWESisLiQ,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,EN,EN,EN,APJ,INDIA,INDIA,,Manufacturing - Process,C2,SFDC,,,0,0,0,0,IT PRACTITIONER,Manager,SENIOR IT SPECIALIST,R_3QF9aFsWESisLiQ,,0.429202899,0,2HFY22__1,0,,,,"VMware is best product in virtualization, I will recommended 100% for all users",,,,,,,,,,
+11/15/21 21:24,11/15/21 21:36,Imported,100,703,TRUE,12/15/21 10:05,R_0UPDVA01m7Xlk2y,email,JA,1,Passive,8,,,ç‰¹ã«ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚ ITæ¥­ç•Œã§å…ˆé ­ã«ç«‹ã¡å¸¸ã«ãƒ­ãƒ¼ãƒ‰ãƒžãƒƒãƒ—ã‚’ç¤ºã—ã¦ã„ãŸã ãéžå¸¸ã«åŠ©ã‹ã£ã¦ã„ã¾ã™ã€‚,"Non-IT Influencer - Influence my companyâ€™s adoption of VMware, but not involved in implementation of VMware",Yes,,6,4,4,5,6,6,Extremely Agree  - 7,5,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,"Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+","Cloud Management
+
+ VMware vRealize portfolio
+",,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+","Networking
+
+	VMware NSX portfolio including Avi
+
+",,,,6,,6,,,5,6,,,,ã‚¤ãƒ³ãƒ•ãƒ©ã®æ ¹å¹¹ã¨ã—ã¦æ©Ÿèƒ½ã—ã¦ãŠã‚Šå®‰å®šã—ãŸç¨¼åƒã¨å¯ç”¨æ€§ã®é«˜ã•ç°¡ä¾¿ã•ã«ã‚ˆã‚Šã€å…¨èˆ¬çš„ã«é«˜å“è³ªã§ã‚ã‚‹ã€‚,,VMC on AWSã‚’åˆ©ç”¨ä¸­ã€‚DCã‚½ãƒªãƒ¥ãƒ¼ã‚·ãƒ§ãƒ³è©•ä¾¡ã¨åŒæ§˜ã«ã€å®‰å®šæ€§ãƒ»å¯ç”¨æ€§ç­‰ã®å“è³ªãŒé«˜ã„ã€‚,é‹ç”¨ã¯è¡Œã£ã¦ã„ãªã„ãŸã‚è©•ä¾¡NA,,NWä¸Šã®ã‚³ãƒŸãƒ¥ãƒ‹ã‚±ãƒ¼ã‚·ãƒ§ãƒ³ãƒ„ãƒ¼ãƒ«ã®åˆ©ç”¨ã«ãŠã„ã¦æº€è¶³åº¦ãŒä½Žãã€ãã®åˆ†è©•ä¾¡ã‚’ä¸‹ã’ãŸ,ãƒžã‚¤ã‚¯ãƒ­ã‚»ã‚°ãƒ¡ãƒ³ãƒ†ãƒ¼ã‚·ãƒ§ãƒ³ãªã©ãƒ‹ãƒ¼ã‚ºã«ã‚ã£ãŸé‹ç”¨ãŒå¯èƒ½ã¨ãªã‚‹ç‚¹ã‚’è©•ä¾¡,,,,,,,,,,,,,,Accelerate IaaS adoption,Expand hybrid cloud,,Scale down on-prem,Accelerate SaaS adoption,,Enhance security,Business continuity,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2V8QhkKMZr95iYe,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,Business Services,E1,SFDC,,,0,0,0,0,C LEVEL IT,Other,Ã¥Å¸Â·Ã¨Â¡Å’Ã¥Â½Â¹Ã¥â€œÂ¡ Ã¦Å â‚¬Ã¨Â¡â€œÃ£Æ’Â»Ã¥â€œ Ã¨Â³ÂªÃ¤Âºâ€¹Ã¦Â¥Â­Ã©Æ’Â¨ Ã¤Âºâ€¹Ã¦Â¥Â­Ã©Æ’Â¨Ã¯Â¿Â½Ã¯Â¿Â½,R_2V8QhkKMZr95iYe,,0.462734375,0,2HFY22__1,0,,There is nothing in particular. It is very helpful to be at the forefront of the IT industry and always show the roadmap.,,,,"It functions as the basis of the infrastructure, and is generally of high quality due to its stable operation and high availability.",,"I'm using VMC on AWS. As with the DC solution evaluation, the quality such as stability and availability is high.",Evaluation NA because it is not in operation,,,"Satisfaction with the use of communication tools on the NW was low, and the evaluation was lowered accordingly.",,Evaluate the point that it is possible to operate according to needs such as micro-segmentation
+11/15/21 21:11,11/15/21 21:12,Imported,100,89,TRUE,12/15/21 10:05,R_0qV1w03bz56tOho,email,JA,1,Passive,8,,,,Budget Owner â€“ Final decision-maker on significant VMware purchases for my company,Yes,,2,3,3,4,5,5,5,5,5,4,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,,Expand hybrid cloud,,,Accelerate SaaS adoption,,,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_DB0DHPQkA8GCHhT,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,Other,C2,MDH,,,0,0,0,0,C LEVEL GENERIC,Director,ç·åˆä¼ç”»å®¤,R_DB0DHPQkA8GCHhT,,0.462734375,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/10/21 6:43,11/10/21 6:46,Imported,100,170,TRUE,12/15/21 10:05,R_2bHAByS1pxQ0l3E,email,FR,1,Passive,8,,,,Budget Owner â€“ Final decision-maker on significant VMware purchases for my company,No,,6,,6,6,6,6,6,6,6,6,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Enhance security,Business continuity,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3FKZiGLdtdleg27,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,FR,FR,FR,EMEA,SEMEA,FRANCE,,,C2,MDH,,,0,0,0,0,,Cio,,R_3FKZiGLdtdleg27,,0.552003728,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/10/21 12:29,11/10/21 12:34,Imported,100,278,TRUE,12/15/21 10:05,R_4GE7CF6HP2ELPOC,email,ES,0.800000012,Promoter,9,,,,"Non-IT Influencer - Influence my companyâ€™s adoption of VMware, but not involved in implementation of VMware",Yes,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,Buena,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,,Scale down on-prem,,Remote workforce,Enhance security,Business continuity,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2trIHFbTTpyOFd7,NPS Closed Loop â€“ 2HFY22,CG_1hSTBytw8era6ar,ES,ES,ES,AMER,LATAM,MEXICO,,Manufacturing - Discrete,C2,MDH,,,0,0,0,0,,Manager,,R_2trIHFbTTpyOFd7,,0.423071429,0,2HFY22__1,1,,,,,,Good,,,,,,,,
+11/15/21 21:13,11/15/21 21:15,Imported,100,93,TRUE,12/15/21 10:05,R_4TT5UzNeZ9F0zk2,email,JA,0.899999976,Detractor,5,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,No,è£½å“ã¯æä¾›ã—ã¦ã‚‚ã‚‰ã£ã¦ã„ã‚‹ãŒã€ã‚¢ãƒ‰ãƒã‚¤ã‚¹ã‚’ã—ã¦ã‚‚ã‚‰ã£ã¦ã„ã‚‹èªè­˜ã¯ãªã„,6,6,,6,6,,,,,,,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Enhance security,,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_dm7meTCRucSQnIJ,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,Retail & Wholesale,,SFDC,,,0,0,0,0,,Other,,R_dm7meTCRucSQnIJ,,0.462734375,0,2HFY22__1,0,"The product is provided, but I do not recognize that I am receiving advice",,,,,,,,,,,,,
+11/15/21 21:08,11/15/21 21:11,Imported,100,150,TRUE,12/15/21 10:05,R_5v8R9yttlvFpbSK,email,EN,1,Passive,8,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,5,5,5,5,5,5,5,5,5,5,5,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,"Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+",,,,,,,,6,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_28TztNPaCrJOmRJ,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,ANZ,AUSTRALIA,,Business Services,C2,MDH,,,0,0,0,0,IT PRACTITIONER,Engineer / Specialist,System Engineer,R_28TztNPaCrJOmRJ,,1.742058824,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/10/21 10:10,11/10/21 10:15,Imported,100,268,TRUE,12/15/21 10:05,R_7Vg0GRTRtmBSSYm,email,EN,1,Detractor,3,,"The products are good but the entry to get into being VMware certified which is what you want whether it being on your own platform or a different cloud platform is way too high, over 4k USD to take a course; plus taking the exam class to get VCP professional certified its kind of steep.  Now, As a ph.D candidate, if you give the opportunity for myself to take a course and get certified and user product for my cloud security research, that would be something I'm interested in; perhaps the training is worth over 4k USD.",,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,4,,,6,,Extremely Satisfied  -   7,4,,,,Extremely Agree  - 7,,,,,,,,"Networking
+
+	VMware NSX portfolio including Avi
+
+","Security
+
+	VMware Carbon Black portfolio
+
+",,,,,,,,,6,Extremely Satisfied  - 7,,,,,,,,,It is easy to use and I really like it from what I have seen,"I really like this security product, and it is a great alternative to Cisco products",,,,"Private Cloud
+
+ VMware Cloud Foundation (VCF)
+","Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+","Cloud Management
+
+ VMware vRealize portfolio
+",,,,"Security
+
+ VMware Carbon Black portfolio
+",,,,Expand hybrid cloud,,,,Remote workforce,Enhance security,Business continuity,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1IMK43wDF64HOLS,NPS Closed Loop â€“ 2HFY22,CG_1hSTBytw8era6ar,EN,EN,EN,AMER,NAMERICA,UNITED STATES OF AMERICA,,Education - Higher Education,C1,MDH,,,0,0,0,0,C-2 LEVEL OTHER,,Art Director,R_1IMK43wDF64HOLS,,2.77081992,0,2HFY22__1,1,,,,,"The products are good but the entry to get into being VMware certified which is what you want whether it being on your own platform or a different cloud platform is way too high, over 4k USD to take a course; plus taking the exam class to get VCP professional certified its kind of steep.  Now, As a ph.D candidate, if you give the opportunity for myself to take a course and get certified and user product for my cloud security research, that would be something I'm interested in; perhaps the training is worth over 4k USD.",,,,,,,,"I really like this security product, and it is a great alternative to Cisco products",It is easy to use and I really like it from what I have seen
+11/10/21 12:56,11/10/21 12:58,Imported,100,146,TRUE,12/15/21 10:05,R_9H0C63vuWLC52lw,email,EN,0.899999976,Promoter,9,It's been working well for me -- running between Mac and PC running some analysis in the PC only partition.,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,6,6,,5,5,,,Extremely Agree  - 7,,Extremely Agree  - 7,,,,,,,,,,,Other,Fusion,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,,it just works (for the most part),,,,,,,,,,,,,,,,,,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2EErPbQ6Bd1ng7j,NPS Closed Loop â€“ 2HFY22,CG_1hSTBytw8era6ar,EN,EN,EN,AMER,CANADA,CANADA,,,,MDH,,,0,0,0,0,IT PRACTITIONER,,Imaging Specialist,R_2EErPbQ6Bd1ng7j,,2.77081992,0,2HFY22__1,0,,,,It's been working well for me -- running between Mac and PC running some analysis in the PC only partition.,,,,,,it just works (for the most part),,,,
+11/15/21 21:25,11/15/21 21:33,Imported,100,492,TRUE,12/15/21 10:05,R_9QNMgIoVr9IMbv8,email,JA,1,Detractor,6,,TSSã®ã‚­ãƒƒã‚¯ã‚ªãƒ•ã‚’ã‚„ã‚Šã¾ã—ãŸãŒã€ä¸€æ–¹çš„ãªåˆ¶é™äº‹é …ã®è©±ãŒå¤šãã€ã“ã¡ã‚‰ã®è©±ã‚’èžã“ã†ã¨ã„ã†å§¿å‹¢ã‚’æ„Ÿã˜ã‚‰ã‚Œãªã‹ã£ãŸã€‚ã¾ãŸè³ªå•ã‚’ã—ã¦ã‚‚å–¶æ¥­ã ã‘ãŒåå¿œã—ã€æ•°äººã„ãŸã‚¨ãƒ³ã‚¸ãƒ‹ã‚¢ã®æ–¹ã¯ã€æ•°ç§’é–“èª°ã‚‚åå¿œã‚’ã—ãªã‹ã£ãŸã“ã¨ã‚’ã¿ã¦ã‚‚ã€ã‹ãªã‚Šå¹…ã®ç‹­ã„ã‚µãƒ¼ãƒ“ã‚¹ã ã¨æ„Ÿã˜ãŸã€‚,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,5,6,5,5,5,6,5,5,6,Extremely Agree  - 7,Extremely Agree  - 7,,,,,,,,"Networking
+
+	VMware NSX portfolio including Avi
+
+",,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,"Networking
+
+ VMware NSX portfolio including Avi
+",,,,Accelerate IaaS adoption,Expand hybrid cloud,,,,,,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3r1VbOikXVGl5Tw,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,Government - Federal / National,C2,MDH,,,0,0,0,0,IT PRACTITIONER,Engineer,National Cyber Training Center,R_3r1VbOikXVGl5Tw,,0.462734375,0,2HFY22__1,0,,,,,"I did a kick-off of TSS, but there were many talks about one-sided restrictions, and I couldn't feel the attitude to listen to this story. Also, when I asked a question, only the sales staff responded, and the few engineers felt that the service was quite narrow, even if no one responded for a few seconds.",,,,,,,,,
+11/15/21 21:34,11/15/21 21:39,Imported,100,342,TRUE,12/15/21 10:05,R_9p4qWceqpmpJ8ua,email,EN,1,Promoter,10,"I have good experiences working on virtualization area, one of them is Vmware. For overall, I must say that Vmware giving wide range of products to support my daily tasks as sysadmins. Great product, even though quite a bit pricy compared with others :)",,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,5,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+",,,,,,,,,Extremely Satisfied  - 7,Extremely Satisfied  - 7,,,,,,,,,"Excellent performance, reliable !","Easy to use, so many knowledge based on web",,,,,,,,,,,,,,,,,,,,,Expand on-prem,,,,Enhance security,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3gLqeUelTqELtUi,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,ASEAN,INDONESIA,,Energy & Mining,,MDH,,,0,0,0,0,IT PRACTITIONER,Analyst,Sr. System Analyst Infrastructure,R_3gLqeUelTqELtUi,,0.787109635,0,2HFY22__1,0,,,,"I have good experiences working on virtualization area, one of them is Vmware. For overall, I must say that Vmware giving wide range of products to support my daily tasks as sysadmins. Great product, even though quite a bit pricy compared with others :)",,"Excellent performance, reliable !","Easy to use, so many knowledge based on web",,,,,,,
+11/10/21 5:09,11/10/21 5:15,Imported,100,329,TRUE,12/15/21 10:05,R_a3IHnvjLlB2jKE6,email,EN,1,Promoter,10,Because of the excellent product,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,5,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,6,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Remote workforce,Enhance security,Business continuity,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1CCTS4dajiNxpJP,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,EN,EN,EN,EMEA,SEMEA,GREECE,,Business Services,C2,MDH,,,0,0,0,0,,,,R_1CCTS4dajiNxpJP,,0.552003728,0,2HFY22__1,0,,,,Because of the excellent product,,,,,,,,,,
+11/15/21 21:39,11/15/21 21:44,Imported,100,295,TRUE,12/15/21 10:05,R_bNFN9hyWE6SyVHU,email,JA,0.899999976,Detractor,6,,ãƒ©ã‚¤ã‚»ãƒ³ã‚¹è²»ç”¨ãŒå‰²é«˜ã€‚ ç¾åœ¨ã®ä¸»åŠ›ä»®æƒ³åŸºç›¤ã®hypervisorã¯Nutanixç¤¾ã®ã€ŒAHVã€,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,Extremely Dissatisfied  -  1,4,4,4,4,4,3,3,4,3,3,ã‚ªãƒªã‚¸ãƒŠãƒªãƒ†ã‚£ã«ä¹ã—ãç›®ç«‹ã£ãŸé€²åŒ–ãŒã¿ã‚‰ã‚Œãªã„,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,4,,,,,,,,,,ä¸å¯ã‚‚ç„¡ã,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,Expand hybrid cloud,,,,Remote workforce,Enhance security,,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_doqUgiY4v0l8mhH,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,Other,,MDH,,,0,0,0,0,,Systems Administrator,,R_doqUgiY4v0l8mhH,,0.462734375,0,2HFY22__1,0,,,Poor originality and no noticeable evolution,,"License cost is high. The current main virtual infrastructure hypervisor is Nutanix's ""AHV""",Without impossibility,,,,,,,,
+11/15/21 21:05,11/15/21 21:14,Imported,100,524,TRUE,12/15/21 10:05,R_byGRem50UdmQJ9k,email,JA,1,Promoter,9,å…¨èˆ¬çš„ã«é€²ã‚ãŸã„ã¨ã¯æ€ã„ã¾ã™ãŒã€è²»ç”¨é¢ã‚’è€ƒãˆã‚‹ã¨ã©ã†ã—ã¦ã‚‚è² æ‹…ãŒå¤§ããæ‰‹æ”¾ã—ã§ã¯æŽ¨å¥¨å‡ºæ¥ãªã„ã€‚,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,5,Extremely Satisfied  -   7,Extremely Satisfied  -   7,6,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,6,Extremely Agree  - 7,6,Extremely Agree  - 7,,,"Private Cloud
+
+ VMware Cloud Foundation (VCF)
+",,"Cloud Management
+
+ VMware vRealize portfolio
+",,,"Networking
+
+	VMware NSX portfolio including Avi
+
+",,,,,Extremely Satisfied  - 7,,6,,,6,,,,,å®‰å®šã—ã¦ã„ã‚‹ãŸã‚,,æ´»ç”¨ã—ãã‚Œã¦ã„ãªã„ã€ä»•æ§˜å¤‰æ›´ã¸ã®å¯¾å¿œãŒå¤§å¤‰,,,è‹¥å¹²å®‰å®šã—ã¦ã„ãªã„ã¨ã“ã‚ã€ç´°ã‹ã„ãƒã‚°ãŒå¤šã„,,,,,,,,,"Digital Workspace (including VDI)
+
+ Workspace ONE, VMware Horizon
+",,,,,Accelerate IaaS adoption,Expand hybrid cloud,,,Accelerate SaaS adoption,,Enhance security,,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_OOQ26I5DWz24Zod,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,,C1,SFDC,,,0,0,0,0,IT PRACTITIONER,Engineer,????? ??????? ??,R_OOQ26I5DWz24Zod,,0.462734375,0,2HFY22__1,0,,,,"I would like to proceed in general, but considering the cost, it is a heavy burden and I cannot recommend it if I let go.",,,Because it is stable,,It is difficult to respond to specification changes that are not fully utilized,,,,,"Somewhat unstable, many small bugs"
+11/15/21 21:29,11/15/21 21:33,Imported,100,224,TRUE,12/15/21 10:05,R_cAwBsfZ3RsMi7Gu,email,EN,1,Promoter,10,"It's just the best product in it's field and just works, but even if you have issues, the support is awesome.",,,Partner â€“ Member of the VMware Partner Network (e.g. Value-Added Reseller),Yes,,5,6,6,6,Extremely Satisfied  -   7,Extremely Satisfied  -   7,6,Extremely Agree  - 7,Extremely Agree  - 7,6,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,"Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+",,,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+","Networking
+
+	VMware NSX portfolio including Avi
+
+",,,,Extremely Satisfied  - 7,,Extremely Satisfied  - 7,,,Extremely Satisfied  - 7,Extremely Satisfied  - 7,,,,Reliable solution with great support,,Reliable solution with great support,,,Reliable solution with great support,Reliable solution with great support,,,,,,,,,,,,,,,,,,,,,Business continuity,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2SxepRcIgItDEyG,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,EN,EN,EN,APJ,ANZ,NEW ZEALAND,,Services,,SFDC,,,0,0,0,0,,,,R_2SxepRcIgItDEyG,,1.742058824,0,2HFY22__1,0,,,,"It's just the best product in it's field and just works, but even if you have issues, the support is awesome.",,Reliable solution with great support,,Reliable solution with great support,,,,Reliable solution with great support,,Reliable solution with great support
+11/15/21 21:32,11/15/21 21:34,Imported,100,116,TRUE,12/15/21 10:05,R_cH173dcwBpkLJHg,email,JA,0.800000012,Promoter,10,,,,Partner â€“ Member of the VMware Partner Network (e.g. Value-Added Reseller),Yes,,3,4,4,4,4,5,5,6,Extremely Agree  - 7,6,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,,,,,Remote workforce,Enhance security,Business continuity,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1mrqfcW8v2tDJuU,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,High Tech,,MDH,,,0,0,0,0,C-1 LEVEL GENERIC,Architect,ä¸»ä»»,R_1mrqfcW8v2tDJuU,,0.462734375,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/10/21 10:10,11/10/21 10:14,Imported,100,218,TRUE,12/15/21 10:05,R_cZUibibPLEqqXpc,email,EN,1,Promoter,10,Your product works! You lead the way for virtualization while keeping a very small footprint. Been using your products for years and will continue to use them.,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,6,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,The product works as expected. Rarely have issues. Skyline is a great tool for keeping me notified.,,,,,,,,,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+","Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+",,,,,,,,,Expand hybrid cloud,,,,Remote workforce,Enhance security,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3g2bh2ZuxUyVpGM,NPS Closed Loop â€“ 2HFY22,CG_1hSTBytw8era6ar,EN,EN,EN,AMER,CANADA,CANADA,,Education - Primary & Secondary,,MDH,,,0,0,0,0,IT PRACTITIONER,Systems Administrator,Technical Analyst,R_3g2bh2ZuxUyVpGM,,2.77081992,0,2HFY22__1,0,,,,Your product works! You lead the way for virtualization while keeping a very small footprint. Been using your products for years and will continue to use them.,,The product works as expected. Rarely have issues. Skyline is a great tool for keeping me notified.,,,,,,,,
+11/10/21 21:04,11/10/21 21:14,Imported,100,593,TRUE,12/15/21 10:05,R_cwCMrE593EtFXCK,email,EN,0.800000012,Promoter,9,The software is tested and in most of the used cases.  They are robust.,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,,3,,6,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,,Extremely Agree  - 7,6,Extremely Agree  - 7,,,,,,,,,,Other,"I only advocate the customers to use Vmware , because of its easy of usage and security.",,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,,Because of teh experience i have acquired when I talk to my customers and see their pain point.,,,,,,,,,Other,"I am not validating any solution for my self. i have come across some application on vmotion , VDI, multiple OS on our server system with large memory to give user a better user comfort.",Accelerate IaaS adoption,Expand hybrid cloud,Expand on-prem,,,Remote workforce,Enhance security,Business continuity,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2PhYF7ZnxfhYAhC,NPS Closed Loop â€“ 2HFY22,CG_xFyuGIchk6aEixb,EN,EN,EN,APJ,ASEAN,MALAYSIA,,Business Services,,MDH,,,0,0,0,0,PRACTITIONER-OTHER,Specialist / Staff,DCG FAE,R_2PhYF7ZnxfhYAhC,,0.787109635,0,2HFY22__1,0,,,,The software is tested and in most of the used cases.  They are robust.,,,,,,Because of teh experience i have acquired when I talk to my customers and see their pain point.,,,,
+11/10/21 5:16,11/10/21 5:20,Imported,100,195,TRUE,12/15/21 10:05,R_diEDCkZzjJhEiqi,email,PT-BR,1,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,,,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+",,,,,Extremely Satisfied  - 7,,,,,Extremely Satisfied  - 7,,,,,Por estar Extremamente Satisfeito,,,,,Por estar Extremamente Satisfeito,,,,,,,,,,,,,,,,,,,,Remote workforce,,Business continuity,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_NWTQqywjnXmM0zT,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,PT-BR,PT-BR,PT-BR,EMEA,SEMEA,PORTUGAL,,,C2,MDH,,,0,0,0,0,IT PRACTITIONER,,Senior System Engineer,R_NWTQqywjnXmM0zT,,0.552003728,0,2HFY22__1,0,,,,,,For being Extremely Satisfied,,,,,,For being Extremely Satisfied,,
+11/15/21 21:39,11/15/21 21:42,Imported,100,183,TRUE,12/15/21 10:05,R_eEyQz1w7iAq6lo2,email,JA,1,Passive,8,,,,"Non-IT Influencer - Influence my companyâ€™s adoption of VMware, but not involved in implementation of VMware",Yes,,5,6,6,6,6,6,Extremely Agree  - 7,6,6,6,6,,,"Private Cloud
+
+ VMware Cloud Foundation (VCF)
+",,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,,,,,,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_Agm9pr4BKWajDt7,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,Manufacturing - Discrete,,SFDC,,,0,0,0,0,IT PRACTITIONER,,ITÃ¦Å½Â¨Ã¯Â¿Â½Ã¯Â¿Â½Ã©Æ’Â¨,R_Agm9pr4BKWajDt7,,0.462734375,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/10/21 5:26,11/10/21 6:28,Imported,35,124,FALSE,12/15/21 10:05,R_eQc9oEDX9LGQGTY,email,IT,1,Promoter,10,per la flessibilitÃ ,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2HFY22,2HFY22,0,SV_eX6YSL8Lzo20kmi,R_27p6zcmllpQVG9w,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,IT,IT,IT,EMEA,SEMEA,ITALY,,High Tech,,MDH,,,0,0,0,0,IT PRACTITIONER,Other,Operations,R_27p6zcmllpQVG9w,,0.552003728,0,2HFY22__0,0,,,,for flexibility,,,,,,,,,,
+11/15/21 21:34,11/15/21 21:42,Imported,100,495,TRUE,12/15/21 10:05,R_eUQbjxXs0fv9j02,email,EN,1,Promoter,9,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,6,6,6,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,6,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,On the basis of recent interaction with VMware support  professional,,,,,,,,,,,,,,,,,,,,,,,,,,Enhance security,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2uCCZmH7udbdrnK,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,INDIA,INDIA,,Education - Higher Education,C2,MDH,,,0,0,0,0,IT PRACTITIONER,,Asst. Engineer - IT,R_2uCCZmH7udbdrnK,,0.429202899,0,2HFY22__1,0,,,,,,On the basis of recent interaction with VMware support  professional,,,,,,,,
+11/15/21 21:28,11/15/21 21:32,Imported,100,246,TRUE,12/15/21 10:05,R_en7TOVatm0qUUKO,email,JA,0.800000012,Passive,8,,,ä»¥å‰ã®ã‚ˆã†ãªvSphereClientã‚’å†åº¦å¾©æ´»ã—ã¦ã»ã—ã„,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,3,4,4,4,4,3,4,4,5,5,5,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Enhance security,Business continuity,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1Hqs3aRbhnsn9bC,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,Business Services,C2,SFDC,,,0,0,0,0,C LEVEL GENERIC,Engineer,Ã¦Å“Â¬Ã§Â¤Â¾ Ã¤Â¸â‚¬Ã¨Ë†Â¬Ã§Â¤Â¾Ã¥â€œÂ¡,R_1Hqs3aRbhnsn9bC,,0.462734375,0,2HFY22__1,0,,I want you to revive the previous vSphere Client again,,,,,,,,,,,,
+11/15/21 21:20,11/15/21 21:22,Imported,100,109,TRUE,12/15/21 10:05,R_erGZ6rWxBXMAGlo,email,EN,0.899999976,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+","Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+","Cloud Management
+
+ VMware vRealize portfolio
+","Modern Application Platform
+
+	VMware Tanzu portfolio
+
+","Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+","Networking
+
+	VMware NSX portfolio including Avi
+
+","Security
+
+	VMware Carbon Black portfolio
+
+",,,Extremely Satisfied  - 7,Extremely Satisfied  - 7,Extremely Satisfied  - 7,Extremely Satisfied  - 7,Extremely Satisfied  - 7,Extremely Satisfied  - 7,Extremely Satisfied  - 7,Extremely Satisfied  - 7,,,,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,Expand hybrid cloud,Expand on-prem,Scale down on-prem,Accelerate SaaS adoption,Remote workforce,Enhance security,Business continuity,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3htrV3JXrj0AhPY,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,INDIA,BANGLADESH,,,C2,MDH,,,0,0,0,0,,,,R_3htrV3JXrj0AhPY,,0.429202899,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/10/21 5:30,11/10/21 6:30,Imported,35,23,FALSE,12/15/21 10:05,R_etB7876h9X1iIHs,email,IT,0.800000012,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2HFY22,2HFY22,0,SV_eX6YSL8Lzo20kmi,R_2a6miqSe3GIUlaN,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,IT,IT,IT,EMEA,SEMEA,ITALY,,Manufacturing - Process,,MDH,,,0,0,0,0,,,,R_2a6miqSe3GIUlaN,,0.552003728,0,2HFY22__0,0,,,,,,,,,,,,,,
+11/10/21 5:12,11/10/21 6:13,Imported,35,37,FALSE,12/15/21 10:05,R_0OOGsCCNGoNmxpA,email,EN,1,Passive,7,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2HFY22,2HFY22,0,SV_eX6YSL8Lzo20kmi,R_2Br1A4tIyIkft5E,NPS Closed Loop â€“ 2HFY22,CG_3J7Qzj4o4CTqSS0,EN,EN,EN,EMEA,CEMEA,SLOVAKIA,,,C2,MDH,,,0,0,0,0,IT PRACTITIONER,,IT,R_2Br1A4tIyIkft5E,,0.536990027,0,2HFY22__0,0,,,,,,,,,,,,,,
+11/15/21 21:14,11/15/21 21:17,Imported,100,167,TRUE,12/15/21 10:05,R_3somC2D9bTlahqC,email,JA,0.899999976,Detractor,3,,,,"Non-IT Influencer - Influence my companyâ€™s adoption of VMware, but not involved in implementation of VMware",Yes,,4,3,3,4,5,4,3,4,4,4,4,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,5,,,,,,,,,,?,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,,,Scale down on-prem,,Remote workforce,Enhance security,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_29bk6CAzl9SpuDl,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,,,MDH,,,0,0,0,0,,Engineer,,R_29bk6CAzl9SpuDl,,0.462734375,0,2HFY22__1,0,,,,,,??,,,,,,,,
+11/15/21 21:28,11/15/21 21:31,Imported,100,183,TRUE,12/15/21 10:05,R_9ZZhwp49mELBJzw,email,JA,1,Promoter,10,ã‚«ã‚¹ã‚¿ãƒžãƒ¼ã‚µã‚¯ã‚»ã‚¹ã®æ–¹ã®ãƒ•ã‚©ãƒ­ãƒ¼ãŒã—ã£ã‹ã‚Šã—ã¦ã„ã¦å¿ƒå¼·ã‹ã£ãŸã€‚,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,2,6,6,6,6,6,6,6,6,4,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,"Modern Application Platform
+
+	VMware Tanzu portfolio
+
+",,,,,,5,,,,Extremely Satisfied  - 7,,,,,,Ready Architect ã¨ã—ã¦å°Žå…¥ã—ãŸã‚‚ã®ã«ä»˜å±žã—ã¦ã„ã‚‹ vSpehere ã¨ã„ã†èªè­˜ã§ã‚ã‚‹ãŒã€ä¿å®ˆé–¢é€£ãŒå¼±ã„ã¨æ„Ÿã˜ã‚‹ã€‚,,,,ãŠãŠã‚€ã­æº€è¶³ã—ã¦ã„ã¾ã™ã€‚ã‚ã¨ã¯æˆ‘ã€…ã®æŠ€è¡“åŠ›ã®å•é¡Œã§ã™ã€‚,,,,,,,,"Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+",,"Modern Application Platform
+
+ VMware Tanzu portfolio
+",,,,,,,Expand hybrid cloud,,Scale down on-prem,Accelerate SaaS adoption,Remote workforce,,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1HbKjkXAe6nyM0d,NPS Closed Loop â€“ 2HFY22,CG_1pyAcPykvJTM0uJ,JA,JA,JA,APJ,JAPAN,Japan,,Business Services,C2,Tanzu,,,0,0,0,0,,,,R_1HbKjkXAe6nyM0d,,0.462734375,0,2HFY22__1,0,,,,It was encouraging that the follow-up of customer success was solid.,,"It is recognized as vSpehere that comes with the one introduced as Ready Architect, but I feel that maintenance-related is weak.",,,,,I'm generally satisfied. The rest is a matter of our technical capabilities.,,,
+11/10/21 10:05,11/10/21 10:07,Imported,100,139,TRUE,12/15/21 10:05,R_cBBKs36sZY0NqD4,email,ES,0.899999976,Promoter,9,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,6,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,6,Extremely Agree  - 7,6,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+",,,,,Extremely Satisfied  - 7,,,,,Extremely Satisfied  - 7,,,,,vmware vsphere 7,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,,Expand on-prem,,,Remote workforce,Enhance security,Business continuity,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_26lmJHsQkoNWybo,NPS Closed Loop â€“ 2HFY22,CG_1hSTBytw8era6ar,ES,ES,ES,AMER,LATAM,MEXICO,,Other,,MDH,,,0,0,0,0,IT PRACTITIONER,Systems Administrator,Network Administrator,R_26lmJHsQkoNWybo,,0.423071429,0,2HFY22__1,0,,,,,,vmware vsphere 7,,,,,,,,
+11/15/21 22:15,11/15/21 22:24,Imported,100,538,TRUE,12/15/21 10:05,R_06BdD0xLxyxJsTI,email,JA,0.899999976,Detractor,0,,ä»®æƒ³ç’°å¢ƒãŒã‚¯ãƒ©ã‚¦ãƒ‰ã«ç§»è¡Œã—ã¤ã¤ã‚ã‚Šã€ã‚ªãƒ³ãƒ—ãƒ¬ã§ã®ä»®æƒ³ç’°å¢ƒã¯ãƒˆãƒ¬ãƒ³ãƒ‰ã‹ã‚‰å¤–ã‚Œã¦ã„ã‚‹ã€‚ã¾ãŸã‚¢ãƒ‰ãƒãƒ³ãƒ†ãƒ¼ã‚¸ã‚‚èžã“ãˆã¦ã“ãªã„ã€‚,,Practitioner â€“ Perform the day-to-day VMware operations for my company,No,ä»¥å‰ã¯ï¼®ï¼´ã‚µãƒ¼ãƒãŒå‹•ã‹ã›ã¦ä¾¡å€¤ãŒã‚ã£ãŸãŒã€ä»Šã¨ãªã£ã¦ã¯ã‚¯ãƒ©ã‚¦ãƒ‰ç’°å¢ƒã¨å¤§å·®ãªã„ã€‚è‡ªç¤¾ã§ã‚µãƒ¼ãƒã‚’ç®¡ç†ãƒ»ç½®æ›ã™ã‚‹å¿…è¦ãŒç„¡ã„ã‚¯ãƒ©ã‚¦ãƒ‰ã®æ–¹ãŒå„ªã‚Œã¦ã„ã‚‹ã¨è¨€ã‚ã–ã‚‹ã‚’ãˆãªã„ã€‚ã“ã†ã„ã£ãŸéƒ¨åˆ†ã¸ã®æ‰‹å½“ãŒä¸ååˆ†ã€‚ã¾ãŸã€ã‚µãƒ¼ãƒ‰ãƒ‘ãƒ¼ãƒ†ã‚£ã®ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã‚½ãƒ•ãƒˆãŒï¼¥ï¼³ï¼¸ã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã‚¢ãƒƒãƒ—ã§å‹•ã‹ãªããªã£ãŸã‚Šã€ç¶™ç¶šåˆ©ç”¨ã™ã‚‹ã«ã‚ãŸã£ã¦ä¿¡é ¼ã§ããªã„ã€‚,Extremely Dissatisfied  -  1,Extremely Dissatisfied  -  1,Extremely Dissatisfied  -  1,Extremely Dissatisfied  -  1,Extremely Dissatisfied  -  1,Extremely Dissatisfied  -  1,Extremely Disagree - 1,Extremely Disagree - 1,Extremely Disagree - 1,Extremely Disagree - 1,Extremely Disagree - 1,ï¼¡ï¼·ï¼³ã€ï¼­ï¼³ã€ï¼¯ï½’ï½ï½ƒï½Œï½…ã¨ã„ã£ãŸã‚¯ãƒ©ã‚¦ãƒ‰ä»®æƒ³ç’°å¢ƒã®ã‚µãƒ¼ãƒ“ã‚¹æä¾›è€…ã«å¯¾ã—ã¦ã‚¢ãƒ‰ãƒãƒ³ãƒ†ãƒ¼ã‚¸ãŒæ„Ÿã˜ã‚‰ã‚Œãªã„,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Dissatisfied - 1,,,,,,,,,,æ—¢ã«åœæ­¢ã—ã¦ãŠã‚Šç›´è¿‘ã®è©•ä¾¡ç„¡,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,,,,,Remote workforce,,Business continuity,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_cMUTyBUPdDtnIMF,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,Business Services,C2,MDH,,,0,0,0,0,,Manager,,R_cMUTyBUPdDtnIMF,,0.462734375,0,2HFY22__1,0,"Previously, it was valuable to be able to run an NT server, but now it is not much different from a cloud environment. It must be said that the cloud, which does not require the management and replacement of servers in-house, is superior. Insufficient allowance for these areas. In addition, third-party backup software may not work due to the version upgrade of ESX, and it is unreliable for continuous use.",,"No advantage for service providers of cloud virtual environments such as AWS, MS, and Oracle",,"Virtual environments are moving to the cloud, and on-premise virtual environments are out of trend. Also, I can't hear the advantage.",Already stopped and no recent evaluation,,,,,,,,
+11/15/21 22:29,11/15/21 22:31,Imported,100,156,TRUE,12/15/21 10:05,R_0ieF2HRKzfov0b4,email,EN,0.800000012,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,No,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+",,"Cloud Management
+
+ VMware vRealize portfolio
+",,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+","Networking
+
+	VMware NSX portfolio including Avi
+
+",,,,Extremely Satisfied  - 7,Extremely Satisfied  - 7,,Extremely Satisfied  - 7,,Extremely Satisfied  - 7,Extremely Satisfied  - 7,,,,.,.,,.,,.,.,,,,,,,,,,,,,,,Expand hybrid cloud,Expand on-prem,,,Remote workforce,,Business continuity,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3IcVldYdR4iKOV4,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,INDIA,INDIA,,"Banking, Finance & Insurance",E1,MDH,,,0,0,0,0,IT PRACTITIONER,Systems Administrator,Senior cloud support engineer,R_3IcVldYdR4iKOV4,,0.429202899,0,2HFY22__1,0,,,,,,.,.,,.,,,.,,.
+11/15/21 22:09,11/15/21 22:14,Imported,100,300,TRUE,12/15/21 10:05,R_6Fi3Gx4oA0kyMlg,email,ZH-T,1,Promoter,10,stabilize,,,Budget Owner â€“ Final decision-maker on significant VMware purchases for my company,Yes,,6,6,5,6,Extremely Satisfied  -   7,6,,6,,Extremely Agree  - 7,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,"Modern Application Platform
+
+	VMware Tanzu portfolio
+
+","Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+",,,,,6,,,,6,3,,,,,functionality,,,,capability,performance,,,,,,"Private Cloud
+
+ VMware Cloud Foundation (VCF)
+",,,,,,,,,Accelerate IaaS adoption,,,,,Remote workforce,Enhance security,,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_rqmCwhMaHEEV3ot,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,ZH-T,ZH-T,ZH-T,APJ,GCH,TAIWAN,,High Tech,C2,MDH,,,0,0,0,0,,,,R_rqmCwhMaHEEV3ot,,0.671161473,0,2HFY22__1,0,,,,stabilize,,functionality,,,,,capability,performance,,
+11/15/21 22:06,11/15/21 22:10,Imported,100,244,TRUE,12/15/21 10:05,R_6tXT7bawnFkXlbg,email,EN,0.899999976,Promoter,10,well planned training- content and labs,,,Partner â€“ Member of the VMware Partner Network (e.g. Value-Added Reseller),Yes,,,,,6,6,6,6,5,6,6,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,,,,,,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2U44Rjfg8Tb3veQ,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,ANZ,AUSTRALIA,,Communications,,MDH,,,0,0,0,0,,Consultant,,R_2U44Rjfg8Tb3veQ,,1.742058824,0,2HFY22__1,0,,,,well planned training- content and labs,,,,,,,,,,
+11/15/21 22:23,11/15/21 22:25,Imported,100,112,TRUE,12/15/21 10:05,R_7VXvBHnTXeYvUNg,email,EN,,Promoter,10,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,,,"Private Cloud
+
+ VMware Cloud Foundation (VCF)
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Accelerate IaaS adoption,,,Scale down on-prem,,Remote workforce,,Business continuity,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2a9Vq0hg0gNI22s,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,GCH,CHINA,,High Tech,C2,MDH,,,0,0,0,0,C-2 LEVEL OTHER,Systems Administrator,manager,R_2a9Vq0hg0gNI22s,,0.671161473,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/15/21 22:13,11/15/21 22:16,Imported,100,165,TRUE,12/15/21 10:05,R_8Asd1npQ4PZjqR0,email,ZH-T,0.600000024,Passive,8,,,None,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,2,6,6,6,6,6,4,5,4,4,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+","Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+",,,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+",,,,,6,5,5,,,5,,,,,,,,,,,,,,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Accelerate IaaS adoption,,,,,,,,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_3LYjOQDbOBCfYFG,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,ZH-T,ZH-T,ZH-T,APJ,GCH,TAIWAN,,,C2,SFDC,,,0,0,0,0,,,,R_3LYjOQDbOBCfYFG,,0.671161473,0,2HFY22__1,0,,None,,,,,,,,,,,,
+11/15/21 22:15,11/15/21 22:19,Imported,100,243,TRUE,12/15/21 10:05,R_8ofvbDDWLp224OW,email,JA,0.800000012,Passive,7,,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,2,,,6,5,5,4,4,4,4,4,,,,,,,,,,Other,VMware vSphere,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,,å¤§ããªãƒˆãƒ©ãƒ–ãƒ«ãªãé‹ç”¨ã—ã¦ã„ã‚‹ã€‚,,,,,,,,,Other,VMware vSphere,Accelerate IaaS adoption,Expand hybrid cloud,,Scale down on-prem,Accelerate SaaS adoption,Remote workforce,Enhance security,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_RagiHUPTu97phUl,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,High Tech,,SFDC,,,0,0,0,0,PRACTITIONER-OTHER,,Ã¦â€“â€¡Ã¦â€¢â„¢Ã§Â¬Â¬Ã¤Â¸â‚¬Ã£â€šÂ½Ã¯Â¿Â½Ã¯Â¿Â½Ã£Æ’Â¥Ã£Æ’Â¼Ã£â€šÂ·Ã£Æ’Â§Ã¯Â¿Â½Ã¯Â¿Â½Ã§ÂµÂ±Ã¦â€¹Â¬Ã©Æ’Â¨,R_RagiHUPTu97phUl,,0.462734375,0,2HFY22__1,0,,,,,,,,,,It operates without major trouble.,,,,
+11/15/21 21:44,11/15/21 21:53,Imported,100,522,TRUE,12/15/21 10:05,R_9NoQotTvR0Hpn8y,email,JA,1,Detractor,6,,ä»®æƒ³ã‚µãƒ¼ãƒãƒ¼ã®ç®¡ç†ãŒæ…£ã‚Œãªã„æ–¹ã§ã‚ã‚‹ã¨é›£ã—ã„ã®ã§ã¯ãªã„ã‹ã¨æ„Ÿã˜ã‚‹,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,Extremely Satisfied  -   7,5,4,6,Extremely Satisfied  -   7,6,4,5,5,6,5,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,6,,,,,,,,,,ç‰¹ã«ä¸æº€ã¯ãªã„,,,,,,,,,,,,,,,,,,,,,,,,,,Enhance security,,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_BVao8crQqxLuqf7,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,JA,JA,JA,APJ,JAPAN,JAPAN,,,,SFDC,,,0,0,0,0,,,,R_BVao8crQqxLuqf7,,0.462734375,0,2HFY22__1,0,,,,,I feel that it may be difficult for those who are not accustomed to managing virtual servers,I have no particular complaints,,,,,,,,
+11/15/21 21:59,11/15/21 22:05,Imported,100,343,TRUE,12/15/21 10:05,R_9zAQlWsCY0IZMHk,email,ZH-T,1,Promoter,10,å¾ˆå¥½ç”¨ï¼Œä½†æ˜¯é¸æ“‡ä¸­æ–‡ä»‹é¢ï¼Œç¿»è­¯æ€ªæ€ªçš„ã€‚,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,6,6,6,5,5,6,Extremely Agree  - 7,5,Extremely Agree  - 7,6,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,"Digital Workspace (including VDI)
+
+	Workspace ONE, VMware Horizon
+
+","Networking
+
+	VMware NSX portfolio including Avi
+
+","Security
+
+	VMware Carbon Black portfolio
+
+",,,6,,,,,6,6,Extremely Satisfied  - 7,,,ä¸­æ–‡ç‰ˆç¿»è­¯æ€ªæ€ªçš„,,,,,æ²’æœ‰å…§å»ºè³‡å®‰,æ²’æœ‰æ©Ÿå™¨å­¸ç¿’åŠŸèƒ½,API æ²’æœ‰å¾ˆå¥½ç”¨,,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,"Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+","Cloud Management
+
+ VMware vRealize portfolio
+",,,"Networking
+
+ VMware NSX portfolio including Avi
+","Security
+
+ VMware Carbon Black portfolio
+",,,,,,Scale down on-prem,Accelerate SaaS adoption,Remote workforce,Enhance security,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1BlyPG8UG2N3sZ3,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,ZH-T,ZH-T,ZH-T,APJ,GCH,TAIWAN,,Education - Higher Education,,SFDC,,,0,0,0,0,IT PRACTITIONER,Engineer,Ã§Â¨â€¹Ã¥Â¼ Ã¨Â¨Â­Ã¯Â¿Â½Ã¯Â¿Â½Ã¥Â¸Â«Ã¥â€¦Â¼Ã¥â€°Â¯Ã§Âµâ€žÃ©â€¢Â·,R_1BlyPG8UG2N3sZ3,,0.671161473,0,2HFY22__1,0,,,,"It's easy to use, but the translation is weird when choosing the Chinese interface.",,Chinese translation is weird,,,,,,No built-in security,API is not very useful,No machine learning function
+11/15/21 21:44,11/15/21 21:46,Imported,100,93,TRUE,12/15/21 10:05,R_cMew2fC4OIpfN0W,email,EN,1,Promoter,10,,,,Partner â€“ Member of the VMware Partner Network (e.g. Value-Added Reseller),Yes,,3,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,stable and reliable,,,,,,,,,,,,,,,,,,,,,,,Scale down on-prem,,,,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_s89mQGI6VHu3vu9,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,EN,EN,EN,APJ,ASEAN,MALAYSIA,,Retail & Wholesale,,SFDC,,,0,0,0,0,IT PRACTITIONER,Consultant,SYSTEM CONSULTANT,R_s89mQGI6VHu3vu9,,0.787109635,0,2HFY22__1,0,,,,,,stable and reliable,,,,,,,,
+11/15/21 22:23,11/15/21 22:27,Imported,100,220,TRUE,12/15/21 10:05,R_e5m4AMFJ7m3ubK6,email,ZH-T,0.899999976,Passive,7,,,1. æŒçºŒç¶­æŒEXSIç­‰ç³»çµ±ç©©å®šã€‚ 2. æ›´å¼·åŠ›çš„HAæ©Ÿåˆ¶ã€‚,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,4,6,6,6,6,6,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,Extremely Satisfied  - 7,,,,,,,,,,ä»‹é¢ç°¡æ½”ä¸”æ¸…æ¥šï¼Œç³»çµ±ç©©å®šå¯é ã€‚,,,,,,,,,,,,,,,,,,,,,,Expand on-prem,,,,,,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_21ifwHg8MoWzs8l,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,ZH-T,ZH-T,ZH-T,APJ,GCH,TAIWAN,,,,SFDC,,,0,0,0,0,C-2 LEVEL OTHER,,Manager,R_21ifwHg8MoWzs8l,,0.671161473,0,2HFY22__1,0,,1. Continue to maintain the stability of EXSI and other systems. 2. A stronger HA mechanism.,,,,"The interface is simple and clear, and the system is stable and reliable.",,,,,,,,
+11/15/21 22:02,11/15/21 22:09,Imported,100,418,TRUE,12/15/21 10:05,R_egQBT4ifxm96PZA,email,KO,0.800000012,Promoter,10,ì„œë²„ ê°€ìƒí™”ì™€ ê´€ë ¨í•˜ì—¬ ì˜¤ëžœ ê¸°ìˆ ë ¥ê³¼ ê°€ìž¥ ì•ˆì •ì ì¸ ì†”ë£¨ì…˜ìž„ Hardwareì˜ ë¬¼ë¦¬ì  ì œì•½ì„ ê·¹ë³µí•  ìˆ˜ ìžˆëŠ” BP ì œí’ˆ.,,,Influencer â€“ Influence what my company buys and oversee implementation of VMware,Yes,,5,6,6,6,Extremely Satisfied  -   7,6,6,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+","Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+","Cloud Management
+
+ VMware vRealize portfolio
+","Modern Application Platform
+
+	VMware Tanzu portfolio
+
+",,,,,,Extremely Satisfied  - 7,6,5,6,5,,,,,,ì˜¤ëžœ ê¸°ìˆ ë ¥ ë° ì•ˆì •ì  ì„œë¹„ìŠ¤,ê²©ë¦¬í™”ëœ ê°€ìƒí™” í™˜ê²½,ì‹œìž‘ ë‹¨ê³„,ì‚¬ìš©ìž ì¹œí™”ì ì¸ GUI í•„ìš”,ê²½ìŸì‚¬ ëŒ€ë¹„ ê³ ê°€ ë¼ì´ì„ ìŠ¤ ì •ì±…,,,,,,,,"Public Cloud
+
+ VMware Cloud on AWS, Azure, Google, IBM, Oracle or other partner providers
+","Cloud Management
+
+ VMware vRealize portfolio
+",,,,,,,,Expand hybrid cloud,,Scale down on-prem,Accelerate SaaS adoption,,Enhance security,,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_9z7ZzdUb3OvJHC9,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,KO,KO,KO,APJ,KOREA,REPUBLIC OF KOREA,,,C1,MDH,,,0,0,0,0,PRACTITIONER-OTHER,,ë¦¬ë”,R_9z7ZzdUb3OvJHC9,,0.787109635,0,2HFY22__1,0,,,,It is the most stable solution with long-standing technology in relation to server virtualization. A BP product that can overcome the physical limitations of hardware.,,Long-standing technology and stable service,Isolated virtualization environment,start step,User-friendly GUI required,,Expensive licensing policy compared to competitors,,,
+11/15/21 22:32,11/15/21 22:34,Imported,100,88,TRUE,12/15/21 10:05,R_0BqtEBpjFeivh2K,email,JA,0.899999976,Detractor,5,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,,,,5,5,,4,5,4,,,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scale down on-prem,,,,,,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_1QEiQPOmuJ6cOI8,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,Other,,MDH,,,0,0,0,0,IT PRACTITIONER,Other,ã‚¤ãƒ³ãƒ•ã‚©ãƒžãƒ†ã‚£ã‚¯ã‚¹ç ”ç©¶æ‰€,R_1QEiQPOmuJ6cOI8,,0.462734375,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/15/21 21:46,11/15/21 21:50,Imported,100,198,TRUE,12/15/21 10:05,R_0Dpt2H7wTzyVLvw,email,EN,1,Promoter,9,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,Yes,,6,Extremely Satisfied  -   7,6,Extremely Satisfied  -   7,Extremely Satisfied  -   7,Extremely Satisfied  -   7,5,6,,Extremely Agree  - 7,Extremely Agree  - 7,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+","Private Cloud
+
+ VMware Cloud Foundation (VCF)
+",,"Cloud Management
+
+ VMware vRealize portfolio
+",,,,,,,Extremely Satisfied  - 7,Extremely Satisfied  - 7,,Extremely Satisfied  - 7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_12tEDhx7Xh0xvpx,NPS Closed Loop â€“ 2HFY22,CG_Qp2X1G27jQL82wV,EN,EN,EN,APJ,INDIA,INDIA,,Education - Higher Education,,SFDC,,,0,0,0,0,C-1 LEVEL IT,Director,Director - Computer Centre,R_12tEDhx7Xh0xvpx,,0.429202899,0,2HFY22__1,0,,,,,,,,,,,,,,
+11/15/21 22:17,11/15/21 22:22,Imported,100,307,TRUE,12/15/21 10:05,R_0kaHTrtKtegXadw,email,EN,0.800000012,Passive,8,,,,"Non-IT Influencer - Influence my companyâ€™s adoption of VMware, but not involved in implementation of VMware",Yes,,4,5,6,5,6,6,6,6,6,5,5,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,6,,,,,,,,,,8,,,,,,,,,,,,,,,,,,,,,,Expand on-prem,,Accelerate SaaS adoption,,,Business continuity,Maintain with less budget,,,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_5jo5yLKGWy8RTz3,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,EN,EN,EN,APJ,INDIA,INDIA,,"Banking, Finance & Insurance",C1,MDH,,,0,0,0,0,C-1 LEVEL IT,Head,VP IT,R_5jo5yLKGWy8RTz3,,0.429202899,0,2HFY22__1,0,,,,,,8,,,,,,,,
+11/15/21 21:58,11/15/21 22:00,Imported,100,129,TRUE,12/15/21 10:05,R_0w7fTqOoGj8Uex0,email,JA,1,Passive,8,,,,Practitioner â€“ Perform the day-to-day VMware operations for my company,No,é ¼ã£ãŸäº‹ãŒãªã„,6,6,6,6,6,6,6,6,6,6,6,,"Datacenter solutions 
+
+ VMware vSphere, VMware vSAN, VxRail
+",,,,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Expand hybrid cloud,Expand on-prem,,,,,,Maintain with less budget,,I wish to be contacted by VMware to discuss my feedback.,2HFY22,2HFY22,1,SV_eX6YSL8Lzo20kmi,R_2tl2p0IibZMIGgx,NPS Closed Loop â€“ 2HFY22,CG_UmXz9Ox0Sx8TK2l,JA,JA,JA,APJ,JAPAN,JAPAN,,,C2,MDH,,,0,0,0,0,,,,R_2tl2p0IibZMIGgx,,0.462734375,0,2HFY22__1,0,Never relied on,,,,,,,,,,,,,

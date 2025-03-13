@@ -1,0 +1,21 @@
+color,fruit,name,number
+black,apricot,Bob,1
+blue,avocado,Carol,18
+cyan,banana,Cathy,19
+green,blackberries,David,20
+indigo,blueberries,Jenn,26
+light blue,cherries,Josh,33
+magenta,cranberries,Mike,34
+olive,figs,Rachana,35
+orange,grapefruit,Scott,38
+pink,grapes,Sharon,4
+purple,guava,Steve,5
+red,lemon,Zach,52
+white,olive,Zack,55
+yellow,orange,,64
+,strawberry,,75
+,watermelon,,77
+,,,78
+,,,85
+,,,87
+,,,94

@@ -1,0 +1,11 @@
+__pycache__
+*.out
+runs/
+vis/
+save*/
+data/
+*.png
+.ipynb_checkpoints
+*.npy
+*.mp4
+*.npz

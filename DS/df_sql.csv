@@ -1,0 +1,157 @@
+,TABLE_CATALOG,TABLE_SCHEMA,table_name
+0,Blue_Prism_Reporting,dbo,Status Report - LA - Late and Default Letters
+1,Blue_Prism_Reporting,dbo,Status Report - P2P - OOT Notes to PS Comments 1-Day
+2,Blue_Prism_Reporting,dbo,Status Report - AP - Vendor Portal E-Settlement Agreement
+3,Blue_Prism_Reporting,dbo,Status Report - AP - Voucher Remit Update
+4,Blue_Prism_Reporting,dbo,Status Report - Payroll - Audit Missed Punch
+5,Blue_Prism_Reporting,dbo,Status Report - CM - Recurring Payment Form Request
+6,Blue_Prism_Reporting,dbo,Status Report - Payroll - Audit No Payrule Assigned
+7,Blue_Prism_Reporting,dbo,Status Report - Payroll - Kronos Report Retrieval - Additional Information
+8,Blue_Prism_Reporting,dbo,Status Report - LA - Cash Application
+9,Blue_Prism_Reporting,dbo,Status Report - FA - Blackline Inactive User ID
+10,Blue_Prism_Reporting,dbo,Status Report - AP - EDI Invoice Image Attachment
+11,Blue_Prism_Reporting,dbo,Status Report - EDA - Mass Data Dashboard Update Audit
+12,Blue_Prism_Reporting,dbo,Status Report - PSO - ERS Master Crosswalk
+13,Blue_Prism_Reporting,dbo,Status Report - CM - ACH Trace Proof of Payment
+14,Blue_Prism_Reporting,dbo,Status Report - P2P - PO GLBU & Acct Number Changes
+15,Blue_Prism_Reporting,dbo,Status Report - FA - Eforms AdHoc Submission Request
+16,Blue_Prism_Reporting,dbo,Status Report - AP - Re-open Closed POs
+17,Blue_Prism_Reporting,dbo,Status Report - GA - Asset Management Adjustment Request
+18,Blue_Prism_Reporting,dbo,Status Report - AP - Statement Reconciliation
+19,Blue_Prism_Reporting,dbo,Status Report - AP - Accounting Date Mass Update
+20,Blue_Prism_Reporting,dbo,Status Report - AP - Stop Pay and Re-Issue Payment Cancellation
+21,Blue_Prism_Reporting,dbo,Status Report - CWR - Contingent Worker Manage Hire
+22,Blue_Prism_Reporting,dbo,Status Report - SP - Specials Requisition Tracker
+23,Blue_Prism_Reporting,dbo,Status Report - FA - ServiceNow Case Assignment
+24,Blue_Prism_Reporting,dbo,Status Report - AP - ME Overrides
+25,Blue_Prism_Reporting,dbo,Status Report - LCE - Job Catalog Person Profile Update
+26,Blue_Prism_Reporting,dbo,Status Report - CWR - Contingent Worker Terminate
+27,Blue_Prism_Reporting,dbo,Status Report - AP - Recycles
+28,Blue_Prism_Reporting,dbo,Status Report - LCE - Blank Effective Status Update
+29,Blue_Prism_Reporting,dbo,Status Report - Benefits - Manual Keying LOA
+30,Blue_Prism_Reporting,dbo,Status Report - EDA - Manual New Hires
+31,Blue_Prism_Reporting,dbo,Status Report - Benefits - Manual Add to Discovery
+32,Blue_Prism_Reporting,dbo,Status Report - EDA - Manual Transfers
+33,Blue_Prism_Reporting,dbo,Status Report - EDA - Position Data Management Report to Update
+34,Blue_Prism_Reporting,dbo,Status Report - LCE - Badge Activation
+35,Blue_Prism_Reporting,dbo,Status Report - EDA - Profile Activation or Deactivation
+36,Blue_Prism_Reporting,dbo,Status Report - WF - Pending Vouchers
+37,Blue_Prism_Reporting,dbo,Status Report - R2R - Document Support Retrieval
+38,Blue_Prism_Reporting,dbo,Status Report - EDA - Termination Process
+39,Blue_Prism_Reporting,dbo,Status Report - GA - ProjectAndBudgetSetup
+40,Blue_Prism_Reporting,dbo,Status Report - LCE - Add Update Profile Only
+41,Blue_Prism_Reporting,dbo,Status Report - Payroll - Audit Hour Summary
+42,Blue_Prism_Reporting,dbo,Status Report - LCE - ServiceNow Case Assignment for Perceptive Content
+43,Blue_Prism_Reporting,dbo,Status Report - Payroll - Save Copy of Pay Stub
+44,Blue_Prism_Reporting,dbo,Status Report - LCE - AddToProfile
+45,Blue_Prism_Reporting,dbo,Status Report - AP - RNI Data Upload
+46,Blue_Prism_Reporting,dbo,Status Report - LOA - Mail Merge
+47,Blue_Prism_Reporting,dbo,Status Report - AP - Pre-Edit Missing Distribution Info
+48,Blue_Prism_Reporting,dbo,Status Report - LOA - ServiceNow Case Assignment
+49,Blue_Prism_Reporting,dbo,Status Report - Project Budget Form Update Request
+50,Blue_Prism_Reporting,dbo,Status Report - LCE - Suspend Associate with Future Dated Row
+51,Blue_Prism_Reporting,dbo,Status Report - MSC_Provisioning-JobChanges
+52,Blue_Prism_Reporting,dbo,Status Report - FA - Retirement Request
+53,Blue_Prism_Reporting,dbo,Status Report - FA - Project Budget Form Update Request
+54,Blue_Prism_Reporting,dbo,Status Report - MSC_Provisioning-NewHires
+55,Blue_Prism_Reporting,dbo,Status Report - Payroll - Kronos Audit Report Retrieval
+56,Blue_Prism_Reporting,dbo,Status Report - MSC_Provisioning
+57,Blue_Prism_Reporting,dbo,Status Report - SP - PO GLBU & Dept Changes
+58,Blue_Prism_Reporting,dbo,Status Report - PUR - Backorder Report to PS
+59,Blue_Prism_Reporting,dbo,Status Report - Ascension Connect - OEQ Report
+60,Blue_Prism_Reporting,dbo,Status Report - PUR - Open Order Tracker Notes to PS Comments
+61,Blue_Prism_Reporting,dbo,Status Report - SIR Batch
+62,Blue_Prism_Reporting,dbo,Status Report - SIR Duplicates
+63,Blue_Prism_Reporting,dbo,Status Report - TAM - BackgroundCheck
+64,Blue_Prism_Reporting,dbo,Status Report - GA - ServiceNow Case Assignment Lease Administration
+65,Blue_Prism_Reporting,dbo,Status Report - LCE - Badge Inactivation
+66,Blue_Prism_Reporting,dbo,Status Report - CWR - Contingent Worker Mass Uploads
+67,Blue_Prism_Reporting,dbo,Status Report - TAM - Contingent Worker Manage Hire
+68,Blue_Prism_Reporting,dbo,Status Report - TAM - Create New Job Openings
+69,Blue_Prism_Reporting,dbo,Status Report - GA - Email Status
+70,Blue_Prism_Reporting,dbo,Status Report - TAM - Manager Updates Emailer
+71,Blue_Prism_Reporting,dbo,Status Report - TAM - ServiceNow Case Assignment
+72,Blue_Prism_Reporting,dbo,Status Report - Vendor Portal
+73,Blue_Prism_Reporting,dbo,Status Report - T&E - Service Now Case Assignment
+74,Blue_Prism_Reporting,dbo,Status Report - AP - 1099 Withholding Update
+75,Blue_Prism_Reporting,dbo,Status Report - TAM - Route Response
+76,Blue_Prism_Reporting,dbo,Status Report - CM - ABS JE Uploader
+77,Blue_Prism_Reporting,dbo,Status Report - Ascension Connect - Upload PDF to PACS
+78,Blue_Prism_Reporting,dbo,Status Report - GA - Asset Management Capitalization Request
+79,Blue_Prism_Reporting,dbo,Status Report - BP Support Outage Testing
+80,Blue_Prism_Reporting,dbo,Status Report - CM - Provisional Exceptions
+81,Blue_Prism_Reporting,dbo,Status Report - TAM - New Jobs No Request ID
+82,Blue_Prism_Reporting,dbo,Status Report - AP - ME UOM Update Same Meaning
+83,Blue_Prism_Reporting,dbo,Status Report - AP - ME UOM Conversion
+84,Blue_Prism_Reporting,dbo,Status Report - AMG Revenue - Mass Vaccine Billing - Patient
+85,Blue_Prism_Reporting,dbo,Status Report - DQC - GPO Admin Fees
+86,Blue_Prism_Reporting,dbo,Status Report - AMG Revenue - Liaison - Mass Vaccine Billing - Practice
+87,Blue_Prism_Reporting,dbo,Status Report - SP - Auto Source Special Requisitions
+88,Blue_Prism_Reporting,dbo,Status Report - FA - Blackline Inactivate User ID
+89,Blue_Prism_Reporting,dbo,Status Report - CM - Recurring Payment Form Cancellation Request
+90,Blue_Prism_Reporting,dbo,Status Report - PUR - EDI Price Update
+91,Blue_Prism_Reporting,dbo,Status Report - AGI - SOW TCAP Tracking
+92,Blue_Prism_Reporting,dbo,Status Report - Payroll - ACH Processing
+93,Blue_Prism_Reporting,dbo,Status Report - LA - AR Transfer Options to 62032
+94,Blue_Prism_Reporting,dbo,Status Report - Payroll - W2 Tax Corrections
+95,Blue_Prism_Reporting,dbo,Status Report - FA - Radilo Email Status
+96,Blue_Prism_Reporting,dbo,Status Report - Benefits - Disconnected Events
+97,Blue_Prism_Reporting,dbo,Status Report - AP - Perceptive Content Document Manager
+98,Blue_Prism_Reporting,dbo,Status Report - FA - Department Transfer Request
+99,Blue_Prism_Reporting,dbo,Status Report - FA - Radilo Capitalization
+100,Blue_Prism_Reporting,dbo,Status Report - Benefits - Perceptive Content to ServiceNow
+101,Blue_Prism_Reporting,dbo,Status Report - AMG Ops - Batch Orders Covid
+102,Blue_Prism_Reporting,dbo,Status Report - Benefits - Severance Termination Flag
+103,Blue_Prism_Reporting,dbo,Status Report - AGI - Sales Lead Generation
+104,Blue_Prism_Reporting,dbo,Status Report - NP - ADC Overrides Reconciliation
+105,Blue_Prism_Reporting,dbo,Status Report - PUR - Line Cancellation
+106,Blue_Prism_Reporting,dbo,Status Report - AP - Accounting Mismatch Hold
+107,Blue_Prism_Reporting,dbo,Status Report - FA - Project Budget Form New Request
+108,Blue_Prism_Reporting,dbo,Status Report - AP - Set Draw Down PO Service Flag
+109,Blue_Prism_Reporting,dbo,Status Report - AP - Patient Refund Voids
+110,Blue_Prism_Reporting,dbo,Status Report - AP - ME Price Less Than 50 PO Update
+111,Blue_Prism_Reporting,dbo,Status Report - CM - ServiceNow Case Assignment
+112,Blue_Prism_Reporting,dbo,Status Report - TAM - Add to Avature
+113,Blue_Prism_Reporting,dbo,Status Report - Payroll - Paylines Processing
+114,Blue_Prism_Reporting,dbo,Status Report - EDA - Manage Transfers
+115,Blue_Prism_Reporting,dbo,Status Report - WF - Pending Vouchers Termed
+116,Blue_Prism_Reporting,dbo,Status Report - TAM - Contingent Conversions
+117,Blue_Prism_Reporting,dbo,Status Report - LA - Manual Payables and Receivables Process
+118,Blue_Prism_Reporting,dbo,Status Report - LCE - Suspension Recall
+119,Blue_Prism_Reporting,dbo,Status Report - SP - ServiceNow Case Assignment
+120,Blue_Prism_Reporting,dbo,Status Report - Payroll - ServiceNow Case Assignment
+121,Blue_Prism_Reporting,dbo,Status Report - LA - IC Harbor Flex
+122,Blue_Prism_Reporting,dbo,Status Report - NRC - CMS - Contract Upload
+123,Blue_Prism_Reporting,dbo,Status Report - Project Foresight
+124,Blue_Prism_Reporting,dbo,Status Report - AP - Email Rejection
+125,Blue_Prism_Reporting,dbo,Status Report - AP - Amount Only Open Voucher MEs Move
+126,Blue_Prism_Reporting,dbo,Status Report - FA - BU Transfer and Recat Request
+127,Blue_Prism_Reporting,dbo,Status Report - FA - Adjustment Request
+128,Blue_Prism_Reporting,dbo,Status Report - Benefits - PTO Accrual Audit
+129,Blue_Prism_Reporting,dbo,Status Report - LA - ServiceNow Case Assignment
+130,Blue_Prism_Reporting,dbo,Status Report - AP - Supervisor Approval Worklist
+131,Blue_Prism_Reporting,dbo,Status Report - EDA - ServiceNow Case Assignment
+132,Blue_Prism_Reporting,dbo,Status Report - GA - Scheduled Open Liability Report
+133,Blue_Prism_Reporting,dbo,Status Report - CM - Blackline BAI Bank Statements Reconciliation
+134,Blue_Prism_Reporting,dbo,Status Report - AP - ServiceNow Case Assignment
+135,Blue_Prism_Reporting,dbo,Status Report - PEX - Comparative Benchmarks
+136,Blue_Prism_Reporting,dbo,Status Report - EDI - EDI Account Load PSFT
+137,Blue_Prism_Reporting,dbo,Status Report - STMP - CPT II - A1C
+138,Blue_Prism_Reporting,dbo,Status Report - Benefits - ServiceNow Case Assignment
+139,Blue_Prism_Reporting,dbo,Status Report - AP - Supervisor Worklist Automation
+140,Blue_Prism_Reporting,dbo,Status Report - STMP - CPT II - Vitals
+141,Blue_Prism_Reporting,dbo,Status Report - CWR - Contingent Staffing Worker Mass Uploads
+142,Blue_Prism_Reporting,dbo,Status Report - T&E - PCard Transaction Audit
+143,Blue_Prism_Reporting,dbo,Status Report - NAV - Ncompass to BMC2 Transcription
+144,Blue_Prism_Reporting,dbo,Status Report - T&E - PCard Transaction Audit Days 2-5
+145,Blue_Prism_Reporting,dbo,Status Report - NP - Data Collection
+146,Blue_Prism_Reporting,dbo,Status Report - EDA - Manage Hires and Rehires
+147,Blue_Prism_Reporting,dbo,Status Report - Benefits - Open Enrollment User Name Assignment
+148,Blue_Prism_Reporting,dbo,Status Report - EDA - Unterminate
+149,Blue_Prism_Reporting,dbo,Status Report - TAM - Create Acquisition Postings
+150,Blue_Prism_Reporting,dbo,Status Report - AMG - Charge Capture Journal - Posting
+151,Blue_Prism_Reporting,dbo,Status Report - CWR - Contingent Conversions
+152,Blue_Prism_Reporting,dbo,Status Report - T&E - Send Back Expense Report
+153,Blue_Prism_Reporting,dbo,Status Report - EDA - Exit Separation Checklist
+154,Blue_Prism_Reporting,dbo,Status Report - GA - Asset Management Recategorization Request
+155,Blue_Prism_Reporting,dbo,Status Report - AP - Escheated Checks

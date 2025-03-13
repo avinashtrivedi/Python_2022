@@ -1,0 +1,7 @@
+MSH|^~\&|TDL Messaging|TDL|Receiving App|Receiving facility|201902221405||ORU^R01|20190222140541_0019M516268|T|2.3.1|||AL|||||
+PID|||||XXXX^XXXX^^^||0000000000|F|||^^^^|||||||||||||||||||
+PV1|||EVERGENE^EVERGENE LTD|||||||||||||||||||||||||||||||||||||||||
+ORC|RE||0019M516268||CM||||201902221405|||||||||||
+OBR|1||0019M516268|TEST^TESTOSTERONE^WinPath||201902210750|201902172010|||||||||^||||||||TDL|I||||||||||||||||||||
+OBX|1|NM|TEST^TESTOSTERONE^WinPath^ENDOCRINOLOGY^1^0||19.2|nmol/L|     0 - 1.8|H|||F|||||
+NTE|1|Reference Ranges apply to adults|

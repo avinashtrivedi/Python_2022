@@ -1,0 +1,3 @@
+Jane Jones, 3.7, Full-time student, Business Administration, University of the Pacific, Volleyball Horse Back Riding, Technology skills Administrative skills Interpersonal skills Critical thinking
+Communication skills Active listening Public speaking Attention to detail
+Required Skills: ability to troubleshoot problems programming experience in C++ experience with python experience in linear algebra Google Analytics marketing and business development

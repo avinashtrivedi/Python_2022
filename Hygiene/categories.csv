@@ -1,0 +1,118 @@
+﻿item_name,model_cat,type,landfil_factor,burning_factor,wte_emissions
+SU-Sweet Sauces,Sweet syrups/ sauces,F,1.51,1.01,0
+PB-Peanut Butter,Peanut butter,F,1.51,1.01,0
+MN-Mayonnaise,Savoury sauces,F,1.51,1.01,0
+SLD-Salad Dressings,Savoury sauces,F,1.51,1.01,0
+SS-Sandwich Spread,Savoury sauces,F,1.51,1.01,0
+BI-Biscuits,Biscuits,F,1.51,1.01,0
+AT-Atta,Atta,F,1.51,1.01,0
+CF-Confectionery,Confectionary,F,1.51,1.01,0
+CK-Cake,Cake,F,1.51,1.01,0
+DF-Dairy Foods,Dairy Foods,F,1.51,1.01,0
+ND-Noodles,Noodles/ Pasta,F,1.51,1.01,0
+PD-Pizza Dough,Maida Bakery/ pizza dough,F,1.51,1.01,0
+RT-Ready to Eat,Ready to eat Veg,F,1.51,1.01,0
+SA-Salt,Spices,F,1.51,1.01,0
+SI-Spices,Spices,F,1.51,1.01,0
+SX-Snacks,Savoury snacks,F,1.51,1.01,0
+JU-Juices,Juices/ fruit pulp,F,1.51,1.01,0
+DA-Distributor Atta,Atta,F,1.51,1.01,0
+SR-Sweet Serups,Sweet syrups/ sauces,F,1.51,1.01,0
+CM-Cake Mixes,Cake mixes,F,1.51,1.01,0
+ST-Starch,Starch,F,1.51,1.01,0
+SJ-Suji,Suji,F,1.51,1.01,0
+BD-Bread,Bread,F,1.9,1.01,0
+RS-Rusk,Rusk,F,1.51,1.01,0
+CR-Cream,Cream,F,1.51,1.01,0
+DB-Dairy Best Milk,Milk,F,1.51,1.01,0
+DM-Dairy Milk,Milk,F,1.51,1.01,0
+FE-Fruit Plup,Juices/ fruit pulp,F,1.51,1.01,0
+FOOD-Mix,Ready to eat Veg,F,1.51,1.01,0
+IC-Instant Cofee,Instant Coffee,F,1.51,1.01,0
+IC-Instant Coffee,Instant Coffee,F,1.51,1.01,0
+SN-Pasta,Noodles/ Pasta,F,1.51,1.01,0
+CH-Chocolates,Chocolates,F,1.51,1.01,0
+RG-Roasted & Ground Coffee,Ground Coffee,F,1.51,1.01,0
+CMP-Chocolate & Milk Powder,Milk powder,F,1.51,1.01,0
+FV-Fresh Vegetables,Banana,F,1.4,1.01,0
+MB-MAIDA BAKERY,Maida Bakery/ pizza dough,F,1.51,1.01,0
+MF-Mixed Food,Ready to eat Veg,F,1.51,1.01,0
+RC-Fried Chicken,Grilled/fried Chicken,F,3.1,1.01,0
+VO-Vegetable Oil,Vegetable oil,F,1.51,1.01,0
+BM-Blended Masalas,Spices,F,1.51,1.01,0
+BV-Beverages,Beverages,F,1.51,1.01,0
+IM-Instant Mixes,Ready to eat Veg,F,1.51,1.01,0
+PS-Pure Spices,Spices,F,1.51,1.01,0
+SV-Savories,Savoury snacks,F,1.51,1.01,0
+SW-Sweet,Packaged indian sweets,F,1.51,1.01,0
+VE-Vermicelli,Vermicelli,F,1.51,1.01,0
+TE-Tea,Tea,F,1.51,1.01,0
+SO-Soda,Soda,F,1.51,1.01,0
+BS-Besan,Besan,F,1.51,1.01,0
+PL-Pulses,Pulses,F,1.51,1.01,0
+VG-Ready to Eat(Veg),Ready to eat Veg,F,1.51,1.01,0
+TQ-TataQ,Ready to eat Veg,F,1.51,1.01,0
+NV-Ready to Eat(Non Veg),Ready to eat Non veg,F,1.51,1.01,0
+PU-Puri,Savoury snacks,F,1.51,1.01,0
+SEV-Sev,Savoury snacks,F,1.51,1.01,0
+AD-Ambient Dips,Savoury sauces,F,1.51,1.01,0
+AP-Appitas,Chips,F,1.51,1.01,0
+MY-Mayo Tube,Savoury sauces,F,1.51,1.01,0
+NC-Naan Chips,Chips,F,1.51,1.01,0
+SUT-Sauce Tube,Savoury sauces,F,1.51,1.01,0
+CORN-Corn,Corn,F,1.51,1.01,0
+GRE-Green peas,Peas,F,1.531,1.01,0
+DORB-Rice Bran,Rice bran,F,1.51,1.01,0
+SUN-Sunflower Seed,Seeds (flax/ sunflower/ sesame etc),F,1.51,1.01,0
+PH-Peanut Husk,Peanut husk,F,1.51,1.01,0
+ACV-Apple Cider Vinegar,Vinegar,F,1.51,1.01,0
+PO-Poha,Poha,F,1.51,1.01,0
+SF-Soulfull,Muesli ragi/ millet,F,1.51,1.01,0
+ALM-Almond,Nuts,F,1.51,1.01,0
+CAS-Cashew,Nuts,F,1.51,1.01,0
+NUT-Nuts Mix,Nuts,F,1.51,1.01,0
+PEA-Peanut,Nuts,F,1.51,1.01,0
+DP-Dairy Milk Powder,Milk powder,F,1.51,1.01,0
+DMP-Dairy Milk Powder,Milk powder,F,1.51,1.01,0
+TS-Toilet Soap,TS-Toilet Soap,NF,1.3778,1.01,0.0441
+AG-Agarbatti,AG-Agarbatti,NF,1.3778,1.01,0.0441
+AL-Antispectic Liquid,AL-Antispectic Liquid,NF,1.3778,1.01,0.0441
+DT-Deodrant,DT-Deodrant,NF,1.3778,1.01,0.0441
+FC-Floor Cleaner,FC-Floor Cleaner,NF,1.3778,1.01,0.0441
+FW-Facewash,FW-Facewash,NF,1.3778,1.01,0.0441
+HS-Hand Sanitizer,HS-Hand Sanitizer,NF,1.3778,1.01,0.0441
+HW-Hand Wash,HW-Hand Wash,NF,1.3778,1.01,0.0441
+HW-Handwash,HW-Handwash,NF,1.3778,1.01,0.0441
+OP-Body oil,OP-Body oil,NF,1.3778,1.01,0.0441
+SD-Spray Disinfect,SD-Spray Disinfect,NF,1.3778,1.01,0.0441
+SG-Shower Gel,SG-Shower Gel,NF,1.3778,1.01,0.0441
+TA-Talc,TA-Talc,NF,1.3778,1.01,0.0441
+SH-Shampoo,SH-Shampoo,NF,1.3778,1.01,0.0441
+MIX,MIX,NF,1.3778,1.01,0.0441
+MP-Mixed PCP,MP-Mixed PCP,NF,1.3778,1.01,0.0441
+PCP-Mix,PCP-Mix,NF,1.3778,1.01,0.0441
+PR-Premium Range,PR-Premium Range,NF,1.3778,1.01,0.0441
+WP-Waste PCP,WP-Waste PCP,NF,1.3778,1.01,0.0441
+WR-Waste Wrappers,WR-Waste Wrappers,NF,1.3778,1.01,0.0441
+ABAG-Atta Bags,ABAG-Atta Bags,NF,1.3778,1.01,0.0441
+WA-Waste Atta Bag,WA-Waste Atta Bag,NF,1.3778,1.01,0.0441
+GU-Gum,GU-Gum,NF,1.3778,1.01,0.0441
+NG-Nicotine Gum,NG-Nicotine Gum,NF,1.3778,1.01,0.0441
+MT-Safety Matches,NG-Nicotine Gum,NF,1.3778,1.01,0.0441
+CER-Cereal,Muesli ragi/ millet,F,1.51,1.01,0
+ROT-Rotis,Atta,F,1.51,1.01,0
+RTE-Ready To Eat,Ready to eat Veg,F,1.51,1.01,0
+FPSH-Potato Starch,Starch,F,1.51,1.01,0
+FSSK-Snacks,Savoury snacks,F,1.51,1.01,0
+ATT-Atta,Atta,F,1.51,1.01,0
+PLSE-Laminates,PLSE-Laminates,NF,1.3778,1.01,0.0441
+TOR-Tortilla Wraps,Atta,F,1.51,1.01,0
+SCS-Snacks&Chips Seasoning Rejects,Chips,F,1.51,1.01,0
+SK-Sticks,Savoury snacks,F,1.51,1.01,0
+SDS-Seeds,Seeds (flax/ sunflower/ sesame etc),F,1.51,1.01,0
+PU-Puri,Savoury snacks,F,1.51,1.01,0
+SEV-Sev,Savoury snacks,F,1.51,1.01,0
+BAT-Batter,Atta,F,1.51,1.01,0
+SNA-Snacks,Savoury snacks,F,1.51,1.01,0
+GAR-Garlic Peel,Carrot,F,1.531,1.01,0
+CAK-Cake,Cake,F,1.51,1.01,0

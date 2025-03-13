@@ -1,0 +1,2 @@
+Age (0-115),sex,ChestPainType,RESTINGBP (0-200),CHOLESTEROL (0-603),FASTINGBS (0-1),RestingECG,MAXHR (60-202),ExerciseAngina,OLDPEAK (-2.6 to 6.2),ST Slope,Output 1,Output 2,Output 3,Output 4,timestamp
+,M,TA,,,,ST,,Y,,Up,,,,,2022-04-03 14:26:54.225127

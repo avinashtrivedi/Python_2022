@@ -1,0 +1,13 @@
+,START,END,SURVEY_COUNT,SERVICE,VARNAME,QUESTION_TEXT,SECTION,STANDARD,SCREENING,TOP_BOX_SCALE,TOP_BOX_ANSWER
+0,2020-04-01,2020-06-30,15670,AS,ADJSAMP,Adjusted Sample,Background,,,,
+1,2020-04-01,2020-06-30,15670,AS,AGE,Age,Background,,,,
+2,2020-04-01,2020-06-30,15670,AS,AGERG,Age,Background,,,,
+3,2020-04-01,2020-06-30,15670,AS,ATAQSANS,Number of ATA questions answered,Background,,,,
+4,2020-04-01,2020-06-30,15670,AS,BARCODE,Barcode,,N,N,,
+5,2020-04-01,2020-06-30,15670,AS,C185,Information the nurses gave you as they helped to prepare you for the procedure,Nurses,Y,N,,
+6,2020-04-01,2020-06-30,15670,AS,C186,Nurses' response to your concerns or questions,Nurses,Y,N,,
+7,2020-04-01,2020-06-30,15670,AS,C3,Nurses' concern for your comfort as you recovered after the procedure,Nurses,Y,N,,
+8,2020-04-01,2020-06-30,15670,AS,CMPTNAME,Patient Name (Comments),Comments,N,N,,
+9,2020-04-01,2020-06-30,15670,AS,CMPTPHON,Patient Phone Number (Comments),Comments,N,N,,
+10,2020-04-01,2020-06-30,15670,RH,TIMECOMP,Time call completed,Background,,,,
+11,2020-04-01,2020-06-30,15670,RH,UNIT,Unit,Background,,,,

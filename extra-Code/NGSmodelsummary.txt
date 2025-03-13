@@ -1,0 +1,46 @@
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ embedding (Embedding)       (None, 50, 32)            160000    
+                                                                 
+ conv1d (Conv1D)             (None, 50, 32)            3104      
+                                                                 
+ max_pooling1d (MaxPooling1D  (None, 25, 32)           0         
+ )                                                               
+                                                                 
+ bidirectional (Bidirectiona  (None, 128)              49664     
+ l)                                                              
+                                                                 
+ dropout (Dropout)           (None, 128)               0         
+                                                                 
+ dense (Dense)               (None, 3)                 387       
+                                                                 
+=================================================================
+Total params: 213,155
+Trainable params: 213,155
+Non-trainable params: 0
+_________________________________________________________________
+Model: "sequential"
+_________________________________________________________________
+ Layer (type)                Output Shape              Param #   
+=================================================================
+ embedding (Embedding)       (None, 50, 32)            160000    
+                                                                 
+ conv1d (Conv1D)             (None, 50, 32)            3104      
+                                                                 
+ max_pooling1d (MaxPooling1D  (None, 25, 32)           0         
+ )                                                               
+                                                                 
+ bidirectional (Bidirectiona  (None, 128)              49664     
+ l)                                                              
+                                                                 
+ dropout (Dropout)           (None, 128)               0         
+                                                                 
+ dense (Dense)               (None, 3)                 387       
+                                                                 
+=================================================================
+Total params: 213,155
+Trainable params: 213,155
+Non-trainable params: 0
+_________________________________________________________________
