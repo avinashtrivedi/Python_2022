@@ -1,0 +1,42 @@
+debug_mode: false
+
+mysql:
+  users:
+    host: "localhost"
+    port: 3306
+    database: "zulzi_dev_users"
+    user: "zulzi-user"
+    password: "Ab2347Jk92X"
+    pool_size: 8
+  market:
+    host: "localhost"
+    port: 3306
+    database: "zulzi_dev_market"
+    user: "zulzi-user"
+    password: "Ab2347Jk92X"
+    pool_size: 8
+  payments:
+    host: "localhost"
+    port: 3306
+    database: "zulzi_dev_payments"
+    user: "zulzi-user"
+    password: "Ab2347Jk92X"
+    pool_size: 8
+
+#zulzers_users:
+#  env: 'local'
+#  ca_cert: 'etc/certs/shaka-dev-zulzi-dev-chain.pem'
+#  env_url: '127.0.0.1:50500'
+
+zulzers_users:
+  env: 'dev'
+  ca_cert: 'etc/certs/shaka-dev-zulzi-dev-chain.pem'
+  env_url: 'proxy.dev.zulzi.dev'
+
+API_KEYS:
+    key: 'b714d241b473477419cde4d3718febd5'
+
+#zulzers_users:
+#  env: 'prod'
+#  ca_cert: 'etc/certs/shaka-prod-zulzi-dev-chain.pem'
+#  env_url: 'proxy.prod.zulzi.dev'

@@ -1,0 +1,28 @@
+[
+    {
+        "id": "dc97c376",
+        "name": "AWSEC2CIDRs_EUWest1",
+        "tsfTenantID": "dc8133f0",
+        "description": "AWSEC2CIDRs_EUWest1",
+        "cidrs": [
+            {
+                "id": "dc981811",
+                "name": "eu-west-1",
+                "networkID": "dc97c376",
+                "cidrBlock": "54.247.0.0/16"
+            },
+            {
+                "id": "dc985faa",
+                "name": "eu-west-1",
+                "networkID": "dc97c376",
+                "cidrBlock": "18.200.0.0/16"
+            },
+            {
+                "id": "dca30688",
+                "name": "eu-west-1",
+                "networkID": "dc97c376",
+                "cidrBlock": "46.137.0.0/17"
+            }
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+{
+    "Shopping List": {
+        "eggs": [
+            12,
+            "pasture raised only"
+        ],
+        "bread": [
+            1,
+            "whole wheat or potato"
+        ],
+        "pickles": [
+            2,
+            "not picky"
+        ]
+    },
+    "Jokes": {
+        "What did the father buffalo say to his child when he went to college?": "Bye son.",
+        "How many lawyers does it take to change a lightbulb?": "Depends. Can you afford any?",
+        "What's more amazing than a talking dog?": "A spelling bee.",
+        "Did you hear what happened to the dyslexic cultist?": "He sold his soul to Santa."
+    },
+    "Appointments": {
+        "Dinner with Lou": [
+            2022,
+            6,
+            14
+        ],
+        "Cait's Birthday": [
+            2022,
+            12,
+            9
+        ],
+        "DeAnza Ride": [
+            2021,
+            7,
+            1
+        ],
+        "Trip to Fort Myers": [
+            2022,
+            5,
+            9
+        ]
+    }
+}

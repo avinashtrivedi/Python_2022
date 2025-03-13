@@ -1,0 +1,14 @@
+add pickles 10
+add lettuce 3
+add eggs 240
+remove pickles 3
+add chicken 12
+remove lettuce 1
+remove chicken 2
+remove eggs 4
+add bread 10
+remove pickles 2
+remove bread 4
+add pickles 10
+remove eggs 100
+add bread 4

@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PurchaseOrders company="ABC Manufacturing" year="2011">
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Aug11001</OrderNo>
+        <ItemNo>1122</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.25</ItemCost>
+        <Quantity>"19,500"</Quantity>
+        <CostPerOrder>"$82,875.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>8/5/11</OrderDate>
+        <ArrivalDate>08/13/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Alum Sheeting</Supplier>
+        <OrderNo>Aug11002</OrderNo>
+        <ItemNo>1243</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.25</ItemCost>
+        <Quantity>"10,000"</Quantity>
+        <CostPerOrder>"$42,500.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>8/8/11</OrderDate>
+        <ArrivalDate>08/14/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Aug11003</OrderNo>
+        <ItemNo>5462</ItemNo>
+        <ItemDescription>Shielded Cable/ft.</ItemDescription>
+        <ItemCost>$1.05</ItemCost>
+        <Quantity>"23,000"</Quantity>
+        <CostPerOrder>"$24,150.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>8/10/11</OrderDate>
+        <ArrivalDate>08/15/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Aug11004</OrderNo>
+        <ItemNo>5462</ItemNo>
+        <ItemDescription>Shielded Cable/ft.</ItemDescription>
+        <ItemCost>$1.05</ItemCost>
+        <Quantity>"21,500"</Quantity>
+        <CostPerOrder>"$22,575.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>08/15/11</OrderDate>
+        <ArrivalDate>08/22/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Aug11005</OrderNo>
+        <ItemNo>5319</ItemNo>
+        <ItemDescription>Shielded Cable/ft.</ItemDescription>
+        <ItemCost>$1.10</ItemCost>
+        <Quantity>"17,500"</Quantity>
+        <CostPerOrder>"$19,250.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>08/20/11</OrderDate>
+        <ArrivalDate>08/31/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Aug11006</OrderNo>
+        <ItemNo>5462</ItemNo>
+        <ItemDescription>Shielded Cable/ft.</ItemDescription>
+        <ItemCost>$1.05</ItemCost>
+        <Quantity>"22,500"</Quantity>
+        <CostPerOrder>"$23,625.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>08/20/11</OrderDate>
+        <ArrivalDate>08/26/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Aug11007</OrderNo>
+        <ItemNo>4312</ItemNo>
+        <ItemDescription>Bolt-nut package</ItemDescription>
+        <ItemCost>$3.75</ItemCost>
+        <Quantity>"4,250"</Quantity>
+        <CostPerOrder>"$15,937.50 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>08/25/11</OrderDate>
+        <ArrivalDate>9/1/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Aug11008</OrderNo>
+        <ItemNo>7258</ItemNo>
+        <ItemDescription>Pressure Gauge</ItemDescription>
+        <ItemCost>$90.00</ItemCost>
+        <Quantity>100</Quantity>
+        <CostPerOrder>"$9,000.00 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>08/25/11</OrderDate>
+        <ArrivalDate>08/28/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Aug11009</OrderNo>
+        <ItemNo>6321</ItemNo>
+        <ItemDescription>O-Ring</ItemDescription>
+        <ItemCost>$2.45</ItemCost>
+        <Quantity>"1,300"</Quantity>
+        <CostPerOrder>"$3,185.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>08/25/11</OrderDate>
+        <ArrivalDate>9/4/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Aug11010</OrderNo>
+        <ItemNo>5462</ItemNo>
+        <ItemDescription>Shielded Cable/ft.</ItemDescription>
+        <ItemCost>$1.05</ItemCost>
+        <Quantity>"22,500"</Quantity>
+        <CostPerOrder>"$23,625.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>08/25/11</OrderDate>
+        <ArrivalDate>9/2/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Aug11011</OrderNo>
+        <ItemNo>5319</ItemNo>
+        <ItemDescription>Shielded Cable/ft.</ItemDescription>
+        <ItemCost>$1.10</ItemCost>
+        <Quantity>"18,100"</Quantity>
+        <CostPerOrder>"$19,910.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>08/25/11</OrderDate>
+        <ArrivalDate>9/5/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Aug11012</OrderNo>
+        <ItemNo>3166</ItemNo>
+        <ItemDescription>Electrical Connector</ItemDescription>
+        <ItemCost>$1.25</ItemCost>
+        <Quantity>"5,600"</Quantity>
+        <CostPerOrder>"$7,000.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>08/25/11</OrderDate>
+        <ArrivalDate>08/29/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Aug11013</OrderNo>
+        <ItemNo>9966</ItemNo>
+        <ItemDescription>Hatch Decal</ItemDescription>
+        <ItemCost>$0.75</ItemCost>
+        <Quantity>500</Quantity>
+        <CostPerOrder>$375.00</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>08/25/11</OrderDate>
+        <ArrivalDate>08/31/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Aug11014</OrderNo>
+        <ItemNo>5234</ItemNo>
+        <ItemDescription>Electrical Connector</ItemDescription>
+        <ItemCost>$1.65</ItemCost>
+        <Quantity>"4,500"</Quantity>
+        <CostPerOrder>"$7,425.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>08/28/11</OrderDate>
+        <ArrivalDate>9/5/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Sep11001</OrderNo>
+        <ItemNo>4312</ItemNo>
+        <ItemDescription>Bolt-nut package</ItemDescription>
+        <ItemCost>$3.75</ItemCost>
+        <Quantity>"4,200"</Quantity>
+        <CostPerOrder>"$15,750.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/1/11</OrderDate>
+        <ArrivalDate>9/10/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Alum Sheeting</Supplier>
+        <OrderNo>Sep11002</OrderNo>
+        <ItemNo>5417</ItemNo>
+        <ItemDescription>Control Panel</ItemDescription>
+        <ItemCost>$255.00</ItemCost>
+        <Quantity>406</Quantity>
+        <CostPerOrder>"$103,530.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/1/11</OrderDate>
+        <ArrivalDate>9/10/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Sep11003</OrderNo>
+        <ItemNo>3166</ItemNo>
+        <ItemDescription>Electrical Connector</ItemDescription>
+        <ItemCost>$1.25</ItemCost>
+        <Quantity>"5,500"</Quantity>
+        <CostPerOrder>"$6,875.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/1/11</OrderDate>
+        <ArrivalDate>9/6/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Sep11004</OrderNo>
+        <ItemNo>5234</ItemNo>
+        <ItemDescription>Electrical Connector</ItemDescription>
+        <ItemCost>$1.65</ItemCost>
+        <Quantity>"4,850"</Quantity>
+        <CostPerOrder>"$8,002.50 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/2/11</OrderDate>
+        <ArrivalDate>9/11/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Sep11005</OrderNo>
+        <ItemNo>4312</ItemNo>
+        <ItemDescription>Bolt-nut package</ItemDescription>
+        <ItemCost>$3.75</ItemCost>
+        <Quantity>"4,150"</Quantity>
+        <CostPerOrder>"$15,562.50 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/3/11</OrderDate>
+        <ArrivalDate>9/11/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Sep11006</OrderNo>
+        <ItemNo>1122</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.25</ItemCost>
+        <Quantity>"15,500"</Quantity>
+        <CostPerOrder>"$65,875.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/4/11</OrderDate>
+        <ArrivalDate>9/12/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Spacetime Technologies</Supplier>
+        <OrderNo>Sep11007</OrderNo>
+        <ItemNo>4111</ItemNo>
+        <ItemDescription>Bolt-nut package</ItemDescription>
+        <ItemCost>$3.55</ItemCost>
+        <Quantity>"4,800"</Quantity>
+        <CostPerOrder>"$17,040.00 "</CostPerOrder>
+        <APTerms>25</APTerms>
+        <OrderDate>9/5/11</OrderDate>
+        <ArrivalDate>09/20/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Alum Sheeting</Supplier>
+        <OrderNo>Sep11008</OrderNo>
+        <ItemNo>1243</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.25</ItemCost>
+        <Quantity>"9,000"</Quantity>
+        <CostPerOrder>"$38,250.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/5/11</OrderDate>
+        <ArrivalDate>9/12/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Sep11009</OrderNo>
+        <ItemNo>7258</ItemNo>
+        <ItemDescription>Pressure Gauge</ItemDescription>
+        <ItemCost>$90.00</ItemCost>
+        <Quantity>120</Quantity>
+        <CostPerOrder>"$10,800.00 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>9/5/11</OrderDate>
+        <ArrivalDate>9/9/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Sep11010</OrderNo>
+        <ItemNo>5234</ItemNo>
+        <ItemDescription>Electrical Connector</ItemDescription>
+        <ItemCost>$1.65</ItemCost>
+        <Quantity>"4,750"</Quantity>
+        <CostPerOrder>"$7,837.50 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/5/11</OrderDate>
+        <ArrivalDate>09/13/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Sep11011</OrderNo>
+        <ItemNo>1122</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.25</ItemCost>
+        <Quantity>"12,500"</Quantity>
+        <CostPerOrder>"$53,125.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/5/11</OrderDate>
+        <ArrivalDate>9/11/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Sep11012</OrderNo>
+        <ItemNo>5066</ItemNo>
+        <ItemDescription>Shielded Cable/ft.</ItemDescription>
+        <ItemCost>$0.95</ItemCost>
+        <Quantity>"25,000"</Quantity>
+        <CostPerOrder>"$23,750.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/5/11</OrderDate>
+        <ArrivalDate>9/12/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Sep11013</OrderNo>
+        <ItemNo>3166</ItemNo>
+        <ItemDescription>Electrical Connector</ItemDescription>
+        <ItemCost>$1.25</ItemCost>
+        <Quantity>"5,650"</Quantity>
+        <CostPerOrder>"$7,062.50 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/5/11</OrderDate>
+        <ArrivalDate>9/10/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Sep11014</OrderNo>
+        <ItemNo>1122</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.25</ItemCost>
+        <Quantity>"15,000"</Quantity>
+        <CostPerOrder>"$63,750.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/8/11</OrderDate>
+        <ArrivalDate>09/15/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Spacetime Technologies</Supplier>
+        <OrderNo>Sep11015</OrderNo>
+        <ItemNo>4111</ItemNo>
+        <ItemDescription>Bolt-nut package</ItemDescription>
+        <ItemCost>$3.55</ItemCost>
+        <Quantity>"4,585"</Quantity>
+        <CostPerOrder>"$16,276.75 "</CostPerOrder>
+        <APTerms>25</APTerms>
+        <OrderDate>9/10/11</OrderDate>
+        <ArrivalDate>09/30/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Sep11016</OrderNo>
+        <ItemNo>3166</ItemNo>
+        <ItemDescription>Electrical Connector</ItemDescription>
+        <ItemCost>$1.25</ItemCost>
+        <Quantity>"5,425"</Quantity>
+        <CostPerOrder>"$6,781.25 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/10/11</OrderDate>
+        <ArrivalDate>09/15/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Sep11017</OrderNo>
+        <ItemNo>6321</ItemNo>
+        <ItemDescription>O-Ring</ItemDescription>
+        <ItemCost>$2.45</ItemCost>
+        <Quantity>"1,200"</Quantity>
+        <CostPerOrder>"$2,940.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>9/12/11</OrderDate>
+        <ArrivalDate>09/23/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Sep11018</OrderNo>
+        <ItemNo>5319</ItemNo>
+        <ItemDescription>Shielded Cable/ft.</ItemDescription>
+        <ItemCost>$1.10</ItemCost>
+        <Quantity>"16,500"</Quantity>
+        <CostPerOrder>"$18,150.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>09/15/11</OrderDate>
+        <ArrivalDate>10/5/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Spacetime Technologies</Supplier>
+        <OrderNo>Sep11019</OrderNo>
+        <ItemNo>4111</ItemNo>
+        <ItemDescription>Bolt-nut package</ItemDescription>
+        <ItemCost>$3.55</ItemCost>
+        <Quantity>"4,200"</Quantity>
+        <CostPerOrder>"$14,910.00 "</CostPerOrder>
+        <APTerms>25</APTerms>
+        <OrderDate>09/15/11</OrderDate>
+        <ArrivalDate>10/15/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Sep11020</OrderNo>
+        <ItemNo>5066</ItemNo>
+        <ItemDescription>Shielded Cable/ft.</ItemDescription>
+        <ItemCost>$0.95</ItemCost>
+        <Quantity>"17,500"</Quantity>
+        <CostPerOrder>"$16,625.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>09/15/11</OrderDate>
+        <ArrivalDate>09/22/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Spacetime Technologies</Supplier>
+        <OrderNo>Sep11021</OrderNo>
+        <ItemNo>9752</ItemNo>
+        <ItemDescription>Gasket</ItemDescription>
+        <ItemCost>$4.05</ItemCost>
+        <Quantity>"1,500"</Quantity>
+        <CostPerOrder>"$6,075.00 "</CostPerOrder>
+        <APTerms>25</APTerms>
+        <OrderDate>09/20/11</OrderDate>
+        <ArrivalDate>09/25/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Spacetime Technologies</Supplier>
+        <OrderNo>Sep11022</OrderNo>
+        <ItemNo>4111</ItemNo>
+        <ItemDescription>Bolt-nut package</ItemDescription>
+        <ItemCost>$3.55</ItemCost>
+        <Quantity>"4,250"</Quantity>
+        <CostPerOrder>"$15,087.50 "</CostPerOrder>
+        <APTerms>25</APTerms>
+        <OrderDate>09/20/11</OrderDate>
+        <ArrivalDate>10/10/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Pylon Accessories</Supplier>
+        <OrderNo>Sep11023</OrderNo>
+        <ItemNo>9764</ItemNo>
+        <ItemDescription>Gasket</ItemDescription>
+        <ItemCost>$3.75</ItemCost>
+        <Quantity>"1,980"</Quantity>
+        <CostPerOrder>"$7,425.00 "</CostPerOrder>
+        <APTerms>15</APTerms>
+        <OrderDate>09/20/11</OrderDate>
+        <ArrivalDate>09/29/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Pylon Accessories</Supplier>
+        <OrderNo>Sep11024</OrderNo>
+        <ItemNo>9764</ItemNo>
+        <ItemDescription>Gasket</ItemDescription>
+        <ItemCost>$3.75</ItemCost>
+        <Quantity>"1,750"</Quantity>
+        <CostPerOrder>"$6,562.50 "</CostPerOrder>
+        <APTerms>15</APTerms>
+        <OrderDate>09/20/11</OrderDate>
+        <ArrivalDate>09/25/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Spacetime Technologies</Supplier>
+        <OrderNo>Sep11025</OrderNo>
+        <ItemNo>9752</ItemNo>
+        <ItemDescription>Gasket</ItemDescription>
+        <ItemCost>$4.05</ItemCost>
+        <Quantity>"1,550"</Quantity>
+        <CostPerOrder>"$6,277.50 "</CostPerOrder>
+        <APTerms>25</APTerms>
+        <OrderDate>09/25/11</OrderDate>
+        <ArrivalDate>10/5/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Spacetime Technologies</Supplier>
+        <OrderNo>Sep11026</OrderNo>
+        <ItemNo>4111</ItemNo>
+        <ItemDescription>Bolt-nut package</ItemDescription>
+        <ItemCost>$3.55</ItemCost>
+        <Quantity>"4,200"</Quantity>
+        <CostPerOrder>"$14,910.00 "</CostPerOrder>
+        <APTerms>25</APTerms>
+        <OrderDate>09/25/11</OrderDate>
+        <ArrivalDate>10/25/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Sep11027</OrderNo>
+        <ItemNo>1369</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.20</ItemCost>
+        <Quantity>"15,000"</Quantity>
+        <CostPerOrder>"$63,000.00 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>09/25/11</OrderDate>
+        <ArrivalDate>09/30/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Manley Valve</Supplier>
+        <OrderNo>Sep11028</OrderNo>
+        <ItemNo>6431</ItemNo>
+        <ItemDescription>O-Ring</ItemDescription>
+        <ItemCost>$2.85</ItemCost>
+        <Quantity>"1,300"</Quantity>
+        <CostPerOrder>"$3,705.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>09/25/11</OrderDate>
+        <ArrivalDate>10/1/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Sep11029</OrderNo>
+        <ItemNo>6321</ItemNo>
+        <ItemDescription>O-Ring</ItemDescription>
+        <ItemCost>$2.45</ItemCost>
+        <Quantity>"2,500"</Quantity>
+        <CostPerOrder>"$6,125.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>09/25/11</OrderDate>
+        <ArrivalDate>10/4/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Pylon Accessories</Supplier>
+        <OrderNo>Sep11030</OrderNo>
+        <ItemNo>9764</ItemNo>
+        <ItemDescription>Gasket</ItemDescription>
+        <ItemCost>$3.75</ItemCost>
+        <Quantity>"1,850"</Quantity>
+        <CostPerOrder>"$6,937.50 "</CostPerOrder>
+        <APTerms>15</APTerms>
+        <OrderDate>09/25/11</OrderDate>
+        <ArrivalDate>10/5/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Sep11031</OrderNo>
+        <ItemNo>1369</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.20</ItemCost>
+        <Quantity>"14,000"</Quantity>
+        <CostPerOrder>"$58,800.00 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>09/27/11</OrderDate>
+        <ArrivalDate>10/3/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Sep11032</OrderNo>
+        <ItemNo>1122</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.25</ItemCost>
+        <Quantity>"14,500"</Quantity>
+        <CostPerOrder>"$61,625.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>09/28/11</OrderDate>
+        <ArrivalDate>10/3/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Pylon Accessories</Supplier>
+        <OrderNo>Sep11033</OrderNo>
+        <ItemNo>9764</ItemNo>
+        <ItemDescription>Gasket</ItemDescription>
+        <ItemCost>$3.75</ItemCost>
+        <Quantity>"1,800"</Quantity>
+        <CostPerOrder>"$6,750.00 "</CostPerOrder>
+        <APTerms>15</APTerms>
+        <OrderDate>09/28/11</OrderDate>
+        <ArrivalDate>10/5/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Sep11034</OrderNo>
+        <ItemNo>1369</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.20</ItemCost>
+        <Quantity>"10,000"</Quantity>
+        <CostPerOrder>"$42,000.00 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>09/29/11</OrderDate>
+        <ArrivalDate>10/4/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Spacetime Technologies</Supplier>
+        <OrderNo>Oct11001</OrderNo>
+        <ItemNo>5125</ItemNo>
+        <ItemDescription>Shielded Cable/ft.</ItemDescription>
+        <ItemCost>$1.15</ItemCost>
+        <Quantity>"15,000"</Quantity>
+        <CostPerOrder>"$17,250.00 "</CostPerOrder>
+        <APTerms>25</APTerms>
+        <OrderDate>10/1/11</OrderDate>
+        <ArrivalDate>10/15/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Oct11002</OrderNo>
+        <ItemNo>9399</ItemNo>
+        <ItemDescription>Gasket</ItemDescription>
+        <ItemCost>$3.65</ItemCost>
+        <Quantity>"1,250"</Quantity>
+        <CostPerOrder>"$4,562.50 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>10/1/11</OrderDate>
+        <ArrivalDate>10/6/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Manley Valve</Supplier>
+        <OrderNo>Oct11003</OrderNo>
+        <ItemNo>6431</ItemNo>
+        <ItemDescription>O-Ring</ItemDescription>
+        <ItemCost>$2.85</ItemCost>
+        <Quantity>"1,350"</Quantity>
+        <CostPerOrder>"$3,847.50 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/1/11</OrderDate>
+        <ArrivalDate>10/7/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Pylon Accessories</Supplier>
+        <OrderNo>Oct11004</OrderNo>
+        <ItemNo>6433</ItemNo>
+        <ItemDescription>O-Ring</ItemDescription>
+        <ItemCost>$2.95</ItemCost>
+        <Quantity>"1,500"</Quantity>
+        <CostPerOrder>"$4,425.00 "</CostPerOrder>
+        <APTerms>15</APTerms>
+        <OrderDate>10/1/11</OrderDate>
+        <ArrivalDate>10/10/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Oct11005</OrderNo>
+        <ItemNo>5166</ItemNo>
+        <ItemDescription>Electrical Connector</ItemDescription>
+        <ItemCost>$1.25</ItemCost>
+        <Quantity>"5,650"</Quantity>
+        <CostPerOrder>"$7,062.50 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/1/11</OrderDate>
+        <ArrivalDate>10/6/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Oct11006</OrderNo>
+        <ItemNo>1122</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.25</ItemCost>
+        <Quantity>"18,000"</Quantity>
+        <CostPerOrder>"$76,500.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/1/11</OrderDate>
+        <ArrivalDate>10/8/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Oct11007</OrderNo>
+        <ItemNo>9399</ItemNo>
+        <ItemDescription>Gasket</ItemDescription>
+        <ItemCost>$3.65</ItemCost>
+        <Quantity>"1,450"</Quantity>
+        <CostPerOrder>"$5,292.50 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>10/3/11</OrderDate>
+        <ArrivalDate>10/8/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Spacetime Technologies</Supplier>
+        <OrderNo>Oct11008</OrderNo>
+        <ItemNo>6489</ItemNo>
+        <ItemDescription>O-Ring</ItemDescription>
+        <ItemCost>$3.00</ItemCost>
+        <Quantity>"1,100"</Quantity>
+        <CostPerOrder>"$3,300.00 "</CostPerOrder>
+        <APTerms>25</APTerms>
+        <OrderDate>10/5/11</OrderDate>
+        <ArrivalDate>10/10/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Oct11009</OrderNo>
+        <ItemNo>9399</ItemNo>
+        <ItemDescription>Gasket</ItemDescription>
+        <ItemCost>$3.65</ItemCost>
+        <Quantity>"1,985"</Quantity>
+        <CostPerOrder>"$7,245.25 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>10/5/11</OrderDate>
+        <ArrivalDate>10/11/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Spacetime Technologies</Supplier>
+        <OrderNo>Oct11010</OrderNo>
+        <ItemNo>4111</ItemNo>
+        <ItemDescription>Bolt-nut package</ItemDescription>
+        <ItemCost>$3.55</ItemCost>
+        <Quantity>"4,600"</Quantity>
+        <CostPerOrder>"$16,330.00 "</CostPerOrder>
+        <APTerms>25</APTerms>
+        <OrderDate>10/5/11</OrderDate>
+        <ArrivalDate>10/19/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Oct11011</OrderNo>
+        <ItemNo>4569</ItemNo>
+        <ItemDescription>Bolt-nut package</ItemDescription>
+        <ItemCost>$3.50</ItemCost>
+        <Quantity>"3,900"</Quantity>
+        <CostPerOrder>"$13,650.00 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>10/5/11</OrderDate>
+        <ArrivalDate>10/10/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Manley Valve</Supplier>
+        <OrderNo>Oct11012</OrderNo>
+        <ItemNo>6431</ItemNo>
+        <ItemDescription>O-Ring</ItemDescription>
+        <ItemCost>$2.85</ItemCost>
+        <Quantity>"1,250"</Quantity>
+        <CostPerOrder>"$3,562.50 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/5/11</OrderDate>
+        <ArrivalDate>10/10/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Oct11013</OrderNo>
+        <ItemNo>9399</ItemNo>
+        <ItemDescription>Gasket</ItemDescription>
+        <ItemCost>$3.65</ItemCost>
+        <Quantity>"1,470"</Quantity>
+        <CostPerOrder>"$5,365.50 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>10/7/11</OrderDate>
+        <ArrivalDate>10/12/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Oct11014</OrderNo>
+        <ItemNo>5454</ItemNo>
+        <ItemDescription>Control Panel</ItemDescription>
+        <ItemCost>$220.00</ItemCost>
+        <Quantity>550</Quantity>
+        <CostPerOrder>"$121,000.00 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>10/9/11</OrderDate>
+        <ArrivalDate>10/14/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Spacetime Technologies</Supplier>
+        <OrderNo>Oct11015</OrderNo>
+        <ItemNo>6489</ItemNo>
+        <ItemDescription>O-Ring</ItemDescription>
+        <ItemCost>$3.00</ItemCost>
+        <Quantity>900</Quantity>
+        <CostPerOrder>"$2,700.00 "</CostPerOrder>
+        <APTerms>25</APTerms>
+        <OrderDate>10/10/11</OrderDate>
+        <ArrivalDate>10/18/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Alum Sheeting</Supplier>
+        <OrderNo>Oct11016</OrderNo>
+        <ItemNo>1243</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.25</ItemCost>
+        <Quantity>"10,500"</Quantity>
+        <CostPerOrder>"$44,625.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/10/11</OrderDate>
+        <ArrivalDate>10/17/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Oct11017</OrderNo>
+        <ItemNo>8008</ItemNo>
+        <ItemDescription>Machined Valve</ItemDescription>
+        <ItemCost>$645.00</ItemCost>
+        <Quantity>100</Quantity>
+        <CostPerOrder>"$64,500.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/10/11</OrderDate>
+        <ArrivalDate>10/21/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Manley Valve</Supplier>
+        <OrderNo>Oct11018</OrderNo>
+        <ItemNo>7258</ItemNo>
+        <ItemDescription>Pressure Gauge</ItemDescription>
+        <ItemCost>$100.50</ItemCost>
+        <Quantity>90</Quantity>
+        <CostPerOrder>"$9,045.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/10/11</OrderDate>
+        <ArrivalDate>10/17/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Manley Valve</Supplier>
+        <OrderNo>Oct11019</OrderNo>
+        <ItemNo>8148</ItemNo>
+        <ItemDescription>Machined Valve</ItemDescription>
+        <ItemCost>$655.50</ItemCost>
+        <Quantity>125</Quantity>
+        <CostPerOrder>"$81,937.50 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/10/11</OrderDate>
+        <ArrivalDate>10/17/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Oct11020</OrderNo>
+        <ItemNo>1122</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.25</ItemCost>
+        <Quantity>"17,000"</Quantity>
+        <CostPerOrder>"$72,250.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/11/11</OrderDate>
+        <ArrivalDate>10/19/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Oct11021</OrderNo>
+        <ItemNo>6321</ItemNo>
+        <ItemDescription>O-Ring</ItemDescription>
+        <ItemCost>$2.45</ItemCost>
+        <Quantity>"1,250"</Quantity>
+        <CostPerOrder>"$3,062.50 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/12/11</OrderDate>
+        <ArrivalDate>10/21/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Alum Sheeting</Supplier>
+        <OrderNo>Oct11022</OrderNo>
+        <ItemNo>4224</ItemNo>
+        <ItemDescription>Bolt-nut package</ItemDescription>
+        <ItemCost>$3.95</ItemCost>
+        <Quantity>"4,500"</Quantity>
+        <CostPerOrder>"$17,775.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/15/11</OrderDate>
+        <ArrivalDate>10/20/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Oct11023</OrderNo>
+        <ItemNo>5454</ItemNo>
+        <ItemDescription>Control Panel</ItemDescription>
+        <ItemCost>$220.00</ItemCost>
+        <Quantity>500</Quantity>
+        <CostPerOrder>"$110,000.00 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>10/15/11</OrderDate>
+        <ArrivalDate>10/20/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Manley Valve</Supplier>
+        <OrderNo>Oct11024</OrderNo>
+        <ItemNo>7258</ItemNo>
+        <ItemDescription>Pressure Gauge</ItemDescription>
+        <ItemCost>$100.50</ItemCost>
+        <Quantity>100</Quantity>
+        <CostPerOrder>"$10,050.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/15/11</OrderDate>
+        <ArrivalDate>10/24/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Oct11025</OrderNo>
+        <ItemNo>8008</ItemNo>
+        <ItemDescription>Machined Valve</ItemDescription>
+        <ItemCost>$645.00</ItemCost>
+        <Quantity>150</Quantity>
+        <CostPerOrder>"$96,750.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/15/11</OrderDate>
+        <ArrivalDate>10/26/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Alum Sheeting</Supplier>
+        <OrderNo>Oct11026</OrderNo>
+        <ItemNo>5417</ItemNo>
+        <ItemDescription>Control Panel</ItemDescription>
+        <ItemCost>$255.00</ItemCost>
+        <Quantity>500</Quantity>
+        <CostPerOrder>"$127,500.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/20/11</OrderDate>
+        <ArrivalDate>10/27/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Manley Valve</Supplier>
+        <OrderNo>Oct11027</OrderNo>
+        <ItemNo>7258</ItemNo>
+        <ItemDescription>Pressure Gauge</ItemDescription>
+        <ItemCost>$100.50</ItemCost>
+        <Quantity>95</Quantity>
+        <CostPerOrder>"$9,547.50 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/20/11</OrderDate>
+        <ArrivalDate>10/29/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Alum Sheeting</Supplier>
+        <OrderNo>Oct11028</OrderNo>
+        <ItemNo>5634</ItemNo>
+        <ItemDescription>Side Panel</ItemDescription>
+        <ItemCost>$185.00</ItemCost>
+        <Quantity>150</Quantity>
+        <CostPerOrder>"$27,750.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/25/11</OrderDate>
+        <ArrivalDate>11/3/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Durrable Products</Supplier>
+        <OrderNo>Oct11029</OrderNo>
+        <ItemNo>5275</ItemNo>
+        <ItemDescription>Shielded Cable/ft.</ItemDescription>
+        <ItemCost>$1.00</ItemCost>
+        <Quantity>"25,000"</Quantity>
+        <CostPerOrder>"$25,000.00 "</CostPerOrder>
+        <APTerms>45</APTerms>
+        <OrderDate>10/25/11</OrderDate>
+        <ArrivalDate>10/30/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Oct11030</OrderNo>
+        <ItemNo>6321</ItemNo>
+        <ItemDescription>O-Ring</ItemDescription>
+        <ItemCost>$2.45</ItemCost>
+        <Quantity>"1,500"</Quantity>
+        <CostPerOrder>"$3,675.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/25/11</OrderDate>
+        <ArrivalDate>11/2/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Oct11031</OrderNo>
+        <ItemNo>5689</ItemNo>
+        <ItemDescription>Side Panel</ItemDescription>
+        <ItemCost>$175.00</ItemCost>
+        <Quantity>155</Quantity>
+        <CostPerOrder>"$27,125.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/25/11</OrderDate>
+        <ArrivalDate>11/3/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Hulkey Fasteners</Supplier>
+        <OrderNo>Oct11032</OrderNo>
+        <ItemNo>1122</ItemNo>
+        <ItemDescription>Airframe fasteners</ItemDescription>
+        <ItemCost>$4.25</ItemCost>
+        <Quantity>"17,500"</Quantity>
+        <CostPerOrder>"$74,375.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/25/11</OrderDate>
+        <ArrivalDate>11/3/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Oct11033</OrderNo>
+        <ItemNo>5677</ItemNo>
+        <ItemDescription>Side Panel</ItemDescription>
+        <ItemCost>$195.00</ItemCost>
+        <Quantity>130</Quantity>
+        <CostPerOrder>"$25,350.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/28/11</OrderDate>
+        <ArrivalDate>11/7/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Oct11034</OrderNo>
+        <ItemNo>8008</ItemNo>
+        <ItemDescription>Machined Valve</ItemDescription>
+        <ItemCost>$645.00</ItemCost>
+        <Quantity>120</Quantity>
+        <CostPerOrder>"$77,400.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/28/11</OrderDate>
+        <ArrivalDate>11/4/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Spacetime Technologies</Supplier>
+        <OrderNo>Oct11035</OrderNo>
+        <ItemNo>6489</ItemNo>
+        <ItemDescription>O-Ring</ItemDescription>
+        <ItemCost>$3.00</ItemCost>
+        <Quantity>"1,050"</Quantity>
+        <CostPerOrder>"$3,150.00 "</CostPerOrder>
+        <APTerms>25</APTerms>
+        <OrderDate>10/29/11</OrderDate>
+        <ArrivalDate>11/10/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Alum Sheeting</Supplier>
+        <OrderNo>Oct11036</OrderNo>
+        <ItemNo>5634</ItemNo>
+        <ItemDescription>Side Panel</ItemDescription>
+        <ItemCost>$185.00</ItemCost>
+        <Quantity>140</Quantity>
+        <CostPerOrder>"$25,900.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>10/29/11</OrderDate>
+        <ArrivalDate>11/4/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Manley Valve</Supplier>
+        <OrderNo>Nov11001</OrderNo>
+        <ItemNo>9977</ItemNo>
+        <ItemDescription>Panel Decal</ItemDescription>
+        <ItemCost>$1.00</ItemCost>
+        <Quantity>525</Quantity>
+        <CostPerOrder>$525.00</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>11/1/11</OrderDate>
+        <ArrivalDate>11/7/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Manley Valve</Supplier>
+        <OrderNo>Nov11002</OrderNo>
+        <ItemNo>9955</ItemNo>
+        <ItemDescription>Door Decal</ItemDescription>
+        <ItemCost>$0.55</ItemCost>
+        <Quantity>150</Quantity>
+        <CostPerOrder>$82.50</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>11/1/11</OrderDate>
+        <ArrivalDate>11/6/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Nov11003</OrderNo>
+        <ItemNo>5689</ItemNo>
+        <ItemDescription>Side Panel</ItemDescription>
+        <ItemCost>$175.00</ItemCost>
+        <Quantity>150</Quantity>
+        <CostPerOrder>"$26,250.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>11/1/11</OrderDate>
+        <ArrivalDate>11/9/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Nov11004</OrderNo>
+        <ItemNo>7268</ItemNo>
+        <ItemDescription>Pressure Gauge</ItemDescription>
+        <ItemCost>$95.00</ItemCost>
+        <Quantity>110</Quantity>
+        <CostPerOrder>"$10,450.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>11/1/11</OrderDate>
+        <ArrivalDate>11/12/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Nov11005</OrderNo>
+        <ItemNo>5677</ItemNo>
+        <ItemDescription>Side Panel</ItemDescription>
+        <ItemCost>$195.00</ItemCost>
+        <Quantity>120</Quantity>
+        <CostPerOrder>"$23,400.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>11/2/11</OrderDate>
+        <ArrivalDate>11/13/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Manley Valve</Supplier>
+        <OrderNo>Nov11006</OrderNo>
+        <ItemNo>9967</ItemNo>
+        <ItemDescription>Hatch Decal</ItemDescription>
+        <ItemCost>$0.85</ItemCost>
+        <Quantity>550</Quantity>
+        <CostPerOrder>$467.50</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>11/5/11</OrderDate>
+        <ArrivalDate>11/11/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Nov11007</OrderNo>
+        <ItemNo>7268</ItemNo>
+        <ItemDescription>Pressure Gauge</ItemDescription>
+        <ItemCost>$95.00</ItemCost>
+        <Quantity>105</Quantity>
+        <CostPerOrder>"$9,975.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>11/5/11</OrderDate>
+        <ArrivalDate>11/16/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Fast-Tie Aerospace</Supplier>
+        <OrderNo>Nov11008</OrderNo>
+        <ItemNo>5689</ItemNo>
+        <ItemDescription>Side Panel</ItemDescription>
+        <ItemCost>$175.00</ItemCost>
+        <Quantity>175</Quantity>
+        <CostPerOrder>"$30,625.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>11/5/11</OrderDate>
+        <ArrivalDate>11/15/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Steelpin Inc.</Supplier>
+        <OrderNo>Nov11009</OrderNo>
+        <ItemNo>5677</ItemNo>
+        <ItemDescription>Side Panel</ItemDescription>
+        <ItemCost>$195.00</ItemCost>
+        <Quantity>110</Quantity>
+        <CostPerOrder>"$21,450.00 "</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>11/5/11</OrderDate>
+        <ArrivalDate>11/17/11</ArrivalDate>
+    </Order>
+    <Order>
+        <Supplier>Manley Valve</Supplier>
+        <OrderNo>Nov11010</OrderNo>
+        <ItemNo>9955</ItemNo>
+        <ItemDescription>Door Decal</ItemDescription>
+        <ItemCost>$0.55</ItemCost>
+        <Quantity>125</Quantity>
+        <CostPerOrder>$68.75</CostPerOrder>
+        <APTerms>30</APTerms>
+        <OrderDate>11/5/11</OrderDate>
+        <ArrivalDate>11/10/11</ArrivalDate>
+    </Order>
+</PurchaseOrders>
