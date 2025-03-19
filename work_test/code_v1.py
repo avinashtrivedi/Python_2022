@@ -24,7 +24,7 @@ for indx in d.values():
         else:
             indx = df['Quantity'].iloc[indx].idxmax()
         indx_drop.append(indx)
-    
+
 df_result1 = pd.concat([df_file2,df_file1.iloc[indx_drop]]).reset_index(drop=True)
 df_result2 = df_file1.drop(indx_drop)
 writer = pd.ExcelWriter('result.xlsx', engine='xlsxwriter')

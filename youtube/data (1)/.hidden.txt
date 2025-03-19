@@ -1,1 +1,0 @@
-Hey! If this file shows up in your program, it means you aren't ignoring hidden files.

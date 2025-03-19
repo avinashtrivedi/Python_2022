@@ -1,0 +1,1 @@
+Date,Id,Tweet,Username,Location,likeCount,replyCount,retweetCount,quoteCount,userDescription,userFollowers,hashtags,Cleaned_Tweet,Tweet_tokenized,Tweet_removed_stop_word,Tweet_stemmed,Tweet_lemmatized,sentiment,Country

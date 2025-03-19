@@ -5,7 +5,7 @@ df_full = pd.read_csv("input.csv")
 for col in df_full:
     if isinstance(df_full[col][0],str):
         df_full[col] = df_full[col].apply(lambda x: x.strip())
-        
+
 df = df_full.copy()
 
 df['imageID_13_char'] = df['Image_ID'].apply(lambda x: x[:13])
@@ -54,7 +54,7 @@ for indx in d.values():
         else:
             indx = df['Quantity'].iloc[indx].idxmax()
         indx_drop.append(indx)
-    
+
 df_result1 = pd.concat([df_file2,df_file1.iloc[indx_drop]]).reset_index(drop=True)
 df_result2 = df_file1.drop(indx_drop)
 
